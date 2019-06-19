@@ -6,17 +6,16 @@ from numpy.random import random, randint
 
 from simplegp.Selection import Selection
 from simplegp.Variation import Variation
-from simplegp.Weights.Tuner import Tuner
 
 
 class SimpleGP:
 
     def __init__(
             self,
-            fitness_function,
-            functions,
-            terminals,
-            tuner: Tuner,
+            tuner=None,
+            fitness_function=None,
+            functions=None,
+            terminals=None,
             pop_size=500,
             crossover_rate=0.5,
             mutation_rate=0.5,
@@ -65,7 +64,8 @@ class SimpleGP:
         return must_terminate
 
     def run(self):
-
+        # Reset the GA
+        self.generations = 0
         self.start_time = time.time()
 
         population = []
