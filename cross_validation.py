@@ -89,7 +89,7 @@ class CrossValidation:
             train_Rs.append(train_R)
 
             test_mses.append(test_mse)
-            test_Rs.append(test_Rs)
+            test_Rs.append(test_R)
 
             run += 1
             print('KFold Run: ', run,
