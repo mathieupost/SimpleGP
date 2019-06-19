@@ -111,5 +111,5 @@ class SimpleGP:
             population = Selection.tournament_select(PO, self.pop_size, tournament_size=self.tournament_size)
 
             self.generations = self.generations + 1
-            print('g:', self.generations, 'elite fitness:', np.round(self.fitness_function.elite.fitness, 3), ', size:',
+            print("GA", self.generations, np.round(self.fitness_function.elite.fitness, 3),
                   len(self.fitness_function.elite.get_subtree()))

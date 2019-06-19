@@ -60,7 +60,8 @@ class CrossValidation:
         test_mses = []
         test_Rs = []
 
-        run = 0
+        run = 1
+        print(run)
         for X_train, X_test, X_scaler, y_train, y_test, _ in self.get_splits():
             # Set the data in the fitness function
             fun = SymbolicRegressionFitness(X_train, y_train)
@@ -91,7 +92,6 @@ class CrossValidation:
             test_mses.append(test_mse)
             test_Rs.append(test_R)
 
-            run += 1
             print('KFold Run: ', run,
                   '\nTraining\n\tMSE:', np.round(train_mse, 3),
                   '\n\tRsquared:', np.round(train_R, 3),
@@ -99,9 +99,11 @@ class CrossValidation:
                   '\n\tRsquared:', np.round(test_R, 3)
                   )
 
+            run += 1
+
         print('KFold Result ',
-              '\nTesting\n\tMSE:', np.mean(test_mses),
-              '\nTraining\n\tMSE:', np.mean(train_mses),
+              '\nTesting\n\tMSE:', np.mean(test_mses), np.std(test_mses),
+              '\nTraining\n\tMSE:', np.mean(train_mses), np.std(train_mses),
               )
         # Return the average and the deviation over the runs
         return (np.mean(test_mses), np.std(test_mses)), (np.mean(test_Rs), np.std(test_Rs))
