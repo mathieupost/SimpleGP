@@ -61,8 +61,8 @@ class CrossValidation:
         test_Rs = []
 
         run = 1
-        print(run)
         for X_train, X_test, X_scaler, y_train, y_test, _ in self.get_splits():
+            print(run)
             # Set the data in the fitness function
             fun = SymbolicRegressionFitness(X_train, y_train)
             self.GA.fitness_function = fun
