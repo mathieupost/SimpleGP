@@ -102,7 +102,7 @@ GA 100 251.997 15
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.19 seconds
+	 0.17 seconds
 KFold Run:  1 
 Training
 	MSE: 251.997 
@@ -110,6 +110,7 @@ Training
 Testing
 	MSE: 180.397 
 	Rsquared: -4.172
+2
 GA 1 600.099 1
 GA 2 600.099 1
 GA 3 600.099 1
@@ -213,7 +214,7 @@ GA 100 490.623 31
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.32 seconds
+	 0.28 seconds
 KFold Run:  2 
 Training
 	MSE: 490.623 
@@ -221,6 +222,7 @@ Training
 Testing
 	MSE: 494.254 
 	Rsquared: -17.404
+3
 GA 1 599.854 9
 GA 2 519.03 11
 GA 3 519.03 11
@@ -324,7 +326,7 @@ GA 100 80.25 61
 Terminating at
 	 100 generations
 	 199 evaluations
-	 0.67 seconds
+	 0.74 seconds
 KFold Run:  3 
 Training
 	MSE: 80.25 
@@ -332,6 +334,7 @@ Training
 Testing
 	MSE: 73.247 
 	Rsquared: -9.442
+4
 GA 1 383.207 1
 GA 2 383.207 1
 GA 3 383.207 1
@@ -435,7 +438,7 @@ GA 100 371.354 1
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.05 seconds
+	 0.17 seconds
 KFold Run:  4 
 Training
 	MSE: 371.354 
@@ -443,6 +446,7 @@ Training
 Testing
 	MSE: 823.514 
 	Rsquared: -7.394
+5
 GA 1 562.48 11
 GA 2 562.48 11
 GA 3 555.383 13
@@ -546,7 +550,7 @@ GA 100 376.615 41
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.38 seconds
+	 0.42 seconds
 KFold Run:  5 
 Training
 	MSE: 376.615 
@@ -554,6 +558,7 @@ Training
 Testing
 	MSE: 633.07 
 	Rsquared: -7.981
+6
 GA 1 547.995 1
 GA 2 537.937 1
 GA 3 537.937 1
@@ -657,7 +662,7 @@ GA 100 495.243 3
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.07 seconds
+	 0.09 seconds
 KFold Run:  6 
 Training
 	MSE: 495.243 
@@ -665,6 +670,7 @@ Training
 Testing
 	MSE: 848.458 
 	Rsquared: -10.275
+7
 GA 1 618.529 1
 GA 2 618.529 1
 GA 3 611.798 1
@@ -768,7 +774,7 @@ GA 100 82.503 21
 Terminating at
 	 100 generations
 	 201 evaluations
-	 0.43 seconds
+	 0.49 seconds
 KFold Run:  7 
 Training
 	MSE: 82.503 
@@ -776,6 +782,7 @@ Training
 Testing
 	MSE: 18.272 
 	Rsquared: -0.142
+8
 GA 1 594.559 1
 GA 2 594.559 1
 GA 3 594.559 1
@@ -879,7 +886,7 @@ GA 100 375.097 99
 Terminating at
 	 100 generations
 	 194 evaluations
-	 0.71 seconds
+	 0.69 seconds
 KFold Run:  8 
 Training
 	MSE: 375.097 
@@ -887,6 +894,7 @@ Training
 Testing
 	MSE: 275.197 
 	Rsquared: -0.846
+9
 GA 1 623.428 13
 GA 2 623.428 13
 GA 3 619.49 11
@@ -990,7 +998,7 @@ GA 100 552.146 31
 Terminating at
 	 100 generations
 	 202 evaluations
-	 0.35 seconds
+	 0.34 seconds
 KFold Run:  9 
 Training
 	MSE: 552.146 
@@ -998,6 +1006,7 @@ Training
 Testing
 	MSE: 141.381 
 	Rsquared: -6.501
+10
 GA 1 604.001 1
 GA 2 604.001 1
 GA 3 604.001 1
