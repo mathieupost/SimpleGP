@@ -59,9 +59,10 @@ class SimpleGP:
             must_terminate = True
 
         if must_terminate:
-            print('Terminating at\n\t',
-                  self.generations, 'generations\n\t', self.fitness_function.evaluations, 'evaluations\n\t',
-                  np.round(elapsed_time, 2), 'seconds')
+            print('Terminating at\n'
+                  f'\t{self.generations} generations\n'
+                  f'\t{self.fitness_function.evaluations} evaluations\n'
+                  f'\t{np.round(elapsed_time, 2)} seconds')
 
         return must_terminate
 
@@ -113,5 +114,7 @@ class SimpleGP:
             population = Selection.tournament_select(PO, self.pop_size, tournament_size=self.tournament_size)
 
             self.generations = self.generations + 1
-            print("GA", self.generations, np.round(self.fitness_function.elite.fitness, 3),
-                  len(self.fitness_function.elite.get_subtree()))
+            print('GA '
+                  f'{self.generations} '
+                  f'{np.round(self.fitness_function.elite.fitness, 3)} '
+                  f'{len(self.fitness_function.elite.get_subtree())}')

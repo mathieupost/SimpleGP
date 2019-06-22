@@ -1,9 +1,15 @@
+import copy
+import multiprocessing as mp
+import sys
+from io import StringIO
+
 import numpy as np
 from sklearn import datasets
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
-from tqdm import tqdm
 
+from logger.multi_logger import MultiLogger
+from logger.prefix_logger import PrefixLogger
 from simplegp.Evolution.Evolution import SimpleGP
 from simplegp.Fitness.FitnessFunction import SymbolicRegressionFitness
 from simplegp.Nodes.SymbolicRegressionNodes import FeatureNode
@@ -52,7 +58,46 @@ class CrossValidation:
             # y_test = y_scaler.transform(y_test.reshape(-1, 1), copy=True)
             # TODO: we dont scale the targets
 
-            yield X_train, X_test, X_scaler, y_train, y_test, None
+            yield X_train, X_test, y_train, y_test
+
+    def validate_split(self, split):
+        run, X_train, X_test, y_train, y_test = split
+
+        def f():
+            print(f'Run{run}')
+            ga = copy.deepcopy(self.GA)
+            # Set the data in the fitness function
+            fun = SymbolicRegressionFitness(X_train, y_train, ga.linear_scale)
+            ga.fitness_function = fun
+            ga.tuner.fitness_function = fun
+
+            # Run the GA and get the best function
+            ga.run()
+            best_function = ga.fitness_function.elite
+            best_fitness = best_function.fitness
+
+            # Compute the training metrics
+            train_mse = best_fitness
+            train_R = 1.0 - best_fitness / np.var(y_train)
+
+            # Make predictions with the elite and get the MSE
+            test_mse = ga.fitness_function.test(X_test, y_test)
+            test_R = 1.0 - test_mse / np.var(y_test)
+
+            print(f'KFold Run: {run}\n'
+                  'Training\n'
+                  f'\tMSE: {np.round(train_mse, 3)}\n'
+                  f'\tRsquared: {np.round(train_R, 3)}\n'
+                  'Testing\n'
+                  f'\tMSE: {np.round(test_mse, 3)}\n'
+                  f'\tRsquared: {np.round(test_R, 3)}')
+
+            return train_mse, train_R, test_mse, test_R
+
+        log = StringIO()
+        stdout_with_prefix = PrefixLogger(sys.__stdout__, prefix=f"Run{run}")
+        mc = MultiLogger([stdout_with_prefix, log])
+        return (*mc.capture(f), log.getvalue())
 
     def validate(self):
         train_mses = []
@@ -61,46 +106,30 @@ class CrossValidation:
         test_mses = []
         test_Rs = []
 
-        run = 1
-        for X_train, X_test, X_scaler, y_train, y_test, _ in tqdm(self.get_splits(), total=self.ksplits,
-                                                                  desc="Cross-validation"):
-            print(run)
-            # Set the data in the fitness function
-            fun = SymbolicRegressionFitness(X_train, y_train, self.GA.linear_scale)
-            self.GA.fitness_function = fun
-            self.GA.tuner.fitness_function = fun
+        with mp.Pool(processes=self.ksplits) as pool:
+            splits = []
+            run = 1
+            for X_train, X_test, y_train, y_test in self.get_splits():
+                splits.append([run, X_train, X_test, y_train, y_test])
+                run += 1
 
-            # Run the GA and get the best function
-            self.GA.run()
-            best_function = self.GA.fitness_function.elite
-            best_fitness = best_function.fitness
+            results = pool.map(self.validate_split, splits)
+            for res in results:
+                train_mse, train_R, test_mse, test_R, log = res
 
-            # Compute the training metrics
-            train_mse = best_fitness
-            train_R = 1.0 - best_fitness / np.var(y_train)
+                train_mses.append(train_mse)
+                train_Rs.append(train_R)
 
-            # Make predictions with the elite and get the MSE
-            test_mse = self.GA.fitness_function.test(X_test, y_test)
-            test_R = 1.0 - test_mse / np.var(y_test)
+                test_mses.append(test_mse)
+                test_Rs.append(test_R)
 
-            train_mses.append(train_mse)
-            train_Rs.append(train_R)
+                print(log)
 
-            test_mses.append(test_mse)
-            test_Rs.append(test_R)
+        print('KFold Result\n'
+              'Testing\n'
+              f'\tMSE: {np.mean(test_mses)} {np.std(test_mses)}\n'
+              'Training\n'
+              f'\tMSE: {np.mean(train_mses)} {np.std(train_mses)}')
 
-            print('KFold Run: ', run,
-                  '\nTraining\n\tMSE:', np.round(train_mse, 3),
-                  '\n\tRsquared:', np.round(train_R, 3),
-                  '\nTesting\n\tMSE:', np.round(test_mse, 3),
-                  '\n\tRsquared:', np.round(test_R, 3)
-                  )
-
-            run += 1
-
-        print('KFold Result ',
-              '\nTesting\n\tMSE:', np.mean(test_mses), np.std(test_mses),
-              '\nTraining\n\tMSE:', np.mean(train_mses), np.std(train_mses),
-              )
         # Return the average and the deviation over the runs
         return (np.mean(test_mses), np.std(test_mses)), (np.mean(test_Rs), np.std(test_Rs))
