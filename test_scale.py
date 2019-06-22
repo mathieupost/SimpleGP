@@ -1,6 +1,7 @@
 import random
 import sys
-import numpy as np
+
+from tqdm import tqdm
 
 from cross_validation import CrossValidation
 from simplegp.Evolution.Evolution import SimpleGP
@@ -8,33 +9,31 @@ from simplegp.Evolution.Evolution import SimpleGP
 from simplegp.Nodes.SymbolicRegressionNodes import *
 from simplegp.Weights.Tuner import Tuner
 
-from tqdm import tqdm
-
 np.random.seed(42)
 random.seed(42)
 
 settings = [
     # Normal
-    # (False, Tuner(), "normal"),
+    (False, Tuner(), "normal"),
     # Normal w LS
     (True, Tuner(), "normal_ls"),
-    # Tuner
-    # (
-    #     False,
-    #     Tuner(
-    #         scale_range=(-5, 5),
-    #         translation_range=(-5, 5),
-    #         run_generations=()),
-    #     "tuner"
-    # ),
-    # # Tuner w LS
-    # (
-    #     True,
-    #     Tuner(
-    #         scale_range=(-5, 5),
-    #         translation_range=(-5, 5),
-    #         run_generations=()),
-    #     "tuner_ls")
+    # Tuner in all generations
+    (
+        False,
+        Tuner(
+            scale_range=(-5, 5),
+            translation_range=(-5, 5),
+            run_generations=(range(0, 100))),
+        "tuner"
+    ),
+    # Tuner in all generations w LS
+    (
+        True,
+        Tuner(
+            scale_range=(-5, 5),
+            translation_range=(-5, 5),
+            run_generations=(range(0, 100))),
+        "tuner_ls")
 ]
 
 for setting in tqdm(settings, desc="Test Linear Scaling"):
