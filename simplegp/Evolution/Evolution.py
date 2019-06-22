@@ -14,6 +14,7 @@ class SimpleGP:
             self,
             tuner=None,
             fitness_function=None,
+            linear_scale=False,
             functions=None,
             terminals=None,
             pop_size=500,
@@ -31,6 +32,7 @@ class SimpleGP:
         self.start_time = 0
         self.pop_size = pop_size
         self.fitness_function = fitness_function
+        self.linear_scale = linear_scale
         self.functions = functions
         self.terminals = terminals
         self.crossover_rate = crossover_rate

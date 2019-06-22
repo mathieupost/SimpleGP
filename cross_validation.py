@@ -2,6 +2,7 @@ import numpy as np
 from sklearn import datasets
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
+from tqdm import tqdm
 
 from simplegp.Evolution.Evolution import SimpleGP
 from simplegp.Fitness.FitnessFunction import SymbolicRegressionFitness
@@ -9,7 +10,7 @@ from simplegp.Nodes.SymbolicRegressionNodes import FeatureNode
 
 
 class CrossValidation:
-    def __init__(self, GA: SimpleGP, terminals, X=None, y=None):
+    def __init__(self, GA: SimpleGP, terminals, X=None, y=None, ksplits=10):
         self.GA = GA
 
         # Set the default Boston dataset
@@ -21,7 +22,7 @@ class CrossValidation:
             self.X = X
             self.y = y
 
-        self.ksplits = 10
+        self.ksplits = ksplits
 
         # Set the feature terminals as it is based on the size of the dataset
         for i in range(X.shape[1]):
@@ -61,10 +62,11 @@ class CrossValidation:
         test_Rs = []
 
         run = 1
-        for X_train, X_test, X_scaler, y_train, y_test, _ in self.get_splits():
+        for X_train, X_test, X_scaler, y_train, y_test, _ in tqdm(self.get_splits(), total=self.ksplits,
+                                                                  desc="Cross-validation"):
             print(run)
             # Set the data in the fitness function
-            fun = SymbolicRegressionFitness(X_train, y_train)
+            fun = SymbolicRegressionFitness(X_train, y_train, self.GA.linear_scale)
             self.GA.fitness_function = fun
             self.GA.tuner.fitness_function = fun
 
@@ -73,17 +75,12 @@ class CrossValidation:
             best_function = self.GA.fitness_function.elite
             best_fitness = best_function.fitness
 
-            # TODO: return this?
             # Compute the training metrics
             train_mse = best_fitness
             train_R = 1.0 - best_fitness / np.var(y_train)
 
-            # Make predictions and transform them
-            y_pred = best_function.get_output(X_test)
-            # y_pred = y_scaler.inverse_transform(y_pred)
-
-            # Compute the testing metrics
-            test_mse = np.mean(np.square(y_test - y_pred))
+            # Make predictions with the elite and get the MSE
+            test_mse = self.GA.fitness_function.test(X_test, y_test)
             test_R = 1.0 - test_mse / np.var(y_test)
 
             train_mses.append(train_mse)
