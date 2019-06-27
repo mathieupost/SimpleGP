@@ -115,8 +115,8 @@ class SimpleGP:
             PO = population + offspring
             population = Selection.tournament_select(PO, self.pop_size, tournament_size=self.tournament_size)
 
-            for indv in population:
-                if self.baldwin:
+            if self.baldwin:
+                for indv in population:
                     indv.reset_weights()
 
             self.generations = self.generations + 1
