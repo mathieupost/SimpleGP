@@ -29,7 +29,8 @@ def run_with_population(pop_size):
     CrossValidation(sgp, terminals).validate()
 
 
-for pop in tqdm(settings, desc="Test Population Size"):
-    with open(f"log/log_pop_size_{pop}.txt", "w+") as logfile:
-        mc = MultiLogger([sys.stdout, logfile])
-        mc.capture(run_with_population, pop)
+if __name__ == '__main__':
+    for pop in tqdm(settings, desc="Test Population Size"):
+        with open(f"log/log_pop_size_{pop}.txt", "w+") as logfile:
+            mc = MultiLogger([sys.stdout, logfile])
+            mc.capture(run_with_population, pop)

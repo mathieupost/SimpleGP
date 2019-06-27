@@ -40,7 +40,8 @@ def run_with_range(range_settings):
     CrossValidation(sgp, terminals).validate()
 
 
-for setting in tqdm(settings, desc="Test Weights"):
-    with open(f"log/log_weight_{setting[0]}_{setting[1]}.txt", "w+") as logfile:
-        mc = MultiLogger([sys.stdout, logfile])
-        mc.capture(run_with_range, setting)
+if __name__ == '__main__':
+    for setting in tqdm(settings, desc="Test Weights"):
+        with open(f"log/log_weight_{setting[0]}_{setting[1]}.txt", "w+") as logfile:
+            mc = MultiLogger([sys.stdout, logfile])
+            mc.capture(run_with_range, setting)
