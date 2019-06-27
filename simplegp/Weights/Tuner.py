@@ -60,7 +60,7 @@ class Tuner:
             crossover=UniformCrossover(pc=1, pe=0.5),
             mutation=FlipBitMutation(pm=0.00000000001),
             fitness=self.fitnessFunction,
-            analysis=[ConsoleOutputAnalysis, new_early_stopping_analysis(range=self.scale_range)]
+            analysis=[ConsoleOutputAnalysis, new_early_stopping_analysis(scale_range=self.scale_range)]
         )
 
         class Logger:
@@ -111,7 +111,7 @@ class ConsoleOutputAnalysis(OnTheFlyAnalysis):
         # self.logger.info(msg)
 
 
-def new_early_stopping_analysis(range):
+def new_early_stopping_analysis(scale_range):
     class EarlyStoppingAnalysis(OnTheFlyAnalysis):
         interval = 1
         master_only = True
@@ -119,7 +119,8 @@ def new_early_stopping_analysis(range):
         def register_step(self, g, population, engine):
             chromosomes = list(map(lambda indv: indv.chromsome, population.individuals))
             std = np.std(chromosomes, axis=0)
-            if np.all(std < (range[1] - range[0]) * 0.05):
+            if np.all(std < (scale_range[1] - scale_range[0]) * 0.05):
+                print(f'Tuner converged in generation {g}')
                 raise ValueError('std < 5%')
 
     return EarlyStoppingAnalysis
