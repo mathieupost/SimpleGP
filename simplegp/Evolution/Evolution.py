@@ -105,7 +105,7 @@ class SimpleGP:
                 if len(indv._children) > 0 and self.generations in self.tuner.run_generations:
                     if random() < self.tuner.population_fraction:
                         self.tuner.set_individual(indv)
-                        indv = self.tuner.tuneWeights()
+                        indv = self.tuner.tune_weights()
                     OT.append(indv)
                 else:
                     OT.append(indv)
