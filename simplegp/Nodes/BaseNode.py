@@ -80,6 +80,16 @@ class Node:  # Base class with general functionalities
             n = n.parent
         return d
 
+    def get_subtree_readable_string(self, indent=1, weights=None):
+        if weights is None:
+            weights = [1, 0]
+        res = f'{self}  (*{weights[0]} +{weights[1]}) \n'
+        indent += 1
+        for i, c in enumerate(self._children):
+            res += ('\t' * indent)
+            res += c.readable_string(indent, [self._children_scaling[i], self._children_translation[i]])
+        return res
+
     def __get_subtree_recursive(self, result):
         result.append(self)
         for c in self._children:
