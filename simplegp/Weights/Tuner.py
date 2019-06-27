@@ -1,22 +1,22 @@
 from copy import deepcopy
 
 from gaft import GAEngine
-from gaft.analysis import FitnessStore
 from gaft.components import IndividualBase, DecimalIndividual, Population
 from gaft.operators import TournamentSelection, UniformCrossover, FlipBitMutation
 from gaft.plugin_interfaces import OnTheFlyAnalysis
 
-from simplegp.Fitness.FitnessFunction import SymbolicRegressionFitness
 from simplegp.Nodes import BaseNode
 
 
 class Tuner:
 
-    def __init__(self, fitness_function=None,
-                 scale_range=(-5, 5), translation_range=(-5, 5),
+    def __init__(self,
+                 fitness_function=None,
+                 scale_range=(-5, 5),
+                 translation_range=(-5, 5),
                  run_generations=(),
                  population_fraction=1,
-                 max_iterations=20,
+                 max_iterations=100,
                  pop_size=100):
 
         """
@@ -50,7 +50,7 @@ class Tuner:
         weights_translation = self.individual.get_subtree_translation()
         # Create array with range for each scaling and translation parameter
         range = [self.scale_range, ] * len(weights_scaling) + [self.translation_range, ] * len(weights_translation)
-        indv_template = DecimalIndividual(ranges=range, eps=0.001)
+        indv_template = DecimalIndividual(ranges=range, eps=0.01)
         population = Population(indv_template=indv_template, size=self.pop_size)
         population.init()
 

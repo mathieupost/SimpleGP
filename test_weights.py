@@ -16,11 +16,9 @@ random.seed(42)
 
 settings = [
     [-1, 1],
-    [-3, 3],
     [-5, 5],
     [-10, 10],
     [0, 1],
-    [0, 3],
     [0, 5],
     [0, 10],
 ]
@@ -43,6 +41,6 @@ def run_with_range(range):
 
 
 for setting in tqdm(settings, desc="Test Weights"):
-    with open(f"log/log_weight_{setting[0]}_{setting[1]}.txt", "a") as logfile:
+    with open(f"log/log_weight_{setting[0]}_{setting[1]}.txt", "w+") as logfile:
         mc = MultiLogger([sys.stdout, logfile])
         mc.capture(run_with_range, setting)
