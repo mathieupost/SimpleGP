@@ -1,13 +1,15 @@
 # Libraries
 
 import random
+import sys
+
+from tqdm import tqdm
 
 from cross_validation import CrossValidation
+from logger.multi_logger import MultiLogger
 from simplegp.Evolution.Evolution import SimpleGP
-# Internal imports
 from simplegp.Nodes.SymbolicRegressionNodes import *
 from simplegp.Weights.Tuner import Tuner
-import sys
 
 np.random.seed(42)
 random.seed(42)
@@ -23,19 +25,24 @@ settings = [
     [0, 10],
 ]
 
-for setting in settings:
-    sys.stdout = open('log/log_weight_{}_{}.txt'.format(setting[0], setting[1]), 'a')
 
+def run_with_range(range):
     # Set functions and terminals
     functions = [AddNode(), SubNode(), MulNode(), AnalyticQuotientNode()]  # chosen function nodes
     terminals = [EphemeralRandomConstantNode()]  # use one ephemeral random constant node
 
     # Run GP
     tuner = Tuner(
-        scale_range=(setting[0], setting[1]),
-        translation_range=(setting[0], setting[1]),
+        scale_range=(range[0], range[1]),
+        translation_range=(range[0], range[1]),
         run_generations=()
     )
     sgp = SimpleGP(tuner=tuner, functions=functions, pop_size=100, max_generations=100)
 
     CrossValidation(sgp, terminals).validate()
+
+
+for setting in tqdm(settings, desc="Test Weights"):
+    with open(f"log/log_weight_{setting[0]}_{setting[1]}.txt", "a") as logfile:
+        mc = MultiLogger([sys.stdout, logfile])
+        mc.capture(run_with_range, setting)

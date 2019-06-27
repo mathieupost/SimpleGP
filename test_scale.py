@@ -4,6 +4,7 @@ import sys
 from tqdm import tqdm
 
 from cross_validation import CrossValidation
+from logger.multi_logger import MultiLogger
 from simplegp.Evolution.Evolution import SimpleGP
 # Internal imports
 from simplegp.Nodes.SymbolicRegressionNodes import *
@@ -36,10 +37,8 @@ settings = [
         "tuner_ls")
 ]
 
-for setting in tqdm(settings, desc="Test Linear Scaling"):
-    ls, tuner, name = setting
-    sys.stdout = open(f"log/log_scale_{name}.txt", 'w+')
 
+def run_with_settings(ls, tuner):
     # Set functions and terminals
     functions = [AddNode(), SubNode(), MulNode(), AnalyticQuotientNode()]  # chosen function nodes
     terminals = [EphemeralRandomConstantNode()]  # use one ephemeral random constant node
@@ -48,3 +47,10 @@ for setting in tqdm(settings, desc="Test Linear Scaling"):
     sgp = SimpleGP(linear_scale=ls, tuner=tuner, functions=functions, pop_size=100, max_generations=100)
 
     CrossValidation(sgp, terminals).validate()
+
+
+for setting in tqdm(settings, desc="Test Linear Scaling"):
+    ls, tuner, name = setting
+    with open(f"log/log_scale_{name}.txt", 'w+') as logfile:
+        mc = MultiLogger([sys.stdout, logfile])
+        mc.capture(run_with_settings, ls, tuner)
