@@ -34,6 +34,11 @@ class Node:  # Base class with general functionalities
     def set_subtree_translation(self, translations):
         self.__set_subtree_translation_recursive(deepcopy(translations))
 
+    def reset_weights(self):
+        number_of_weights = len(self.get_subtree_scaling())
+        self.set_subtree_translation([0] * number_of_weights)
+        self.set_subtree_scaling([1] * number_of_weights)
+
     def append_child(self, N, scale=1, translate=0):
         self._children.append(N)
         self._children_scaling.append(scale)
