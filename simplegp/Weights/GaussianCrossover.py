@@ -6,10 +6,9 @@ from gaft.plugin_interfaces.operators.crossover import Crossover
 
 
 class GaussianCrossover(Crossover):
-    ''' Crossover operator with uniform crossover algorithm,
-    see https://en.wikipedia.org/wiki/Crossover_(genetic_algorithm)
+    ''' Crossover operator for real-valued individuals
 
-    :param pc: The probability of crossover (usaully between 0.25 ~ 1.0)
+    :param pc: The probability of crossover (usually between 0.25 ~ 1.0)
     :type pc: float in (0.0, 1.0]
     '''
 
@@ -46,6 +45,7 @@ class GaussianCrossover(Crossover):
         child1 = np.zeros(length)
         child2 = np.zeros(length)
 
+        # Sample each dimension separately
         for dim in range(len(chrom1)):
             s = np.random.normal(mean[dim], std[dim], size=2)
 
@@ -55,7 +55,7 @@ class GaussianCrossover(Crossover):
         return [child1, child2]
 
     def cross(self, father, mother):
-        ''' Cross chromsomes of parent using uniform crossover method.
+        ''' Cross chromosomes of parent using gaussian crossover method.
 
         :param population: Population where the selection operation occurs.
         :type population: :obj:`gaft.components.Population`
