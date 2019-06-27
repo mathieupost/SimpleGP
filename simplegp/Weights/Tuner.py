@@ -1,5 +1,6 @@
 from copy import deepcopy
 
+import numpy as np
 from gaft import GAEngine
 from gaft.components import IndividualBase, DecimalIndividual, Population
 from gaft.operators import TournamentSelection, UniformCrossover, FlipBitMutation
@@ -18,7 +19,6 @@ class Tuner:
                  population_fraction=1,
                  max_iterations=100,
                  pop_size=100):
-
         """
         Weight tuner for the variables of the real valued GA
         :param fitness_function: fitness function to apply
@@ -60,11 +60,20 @@ class Tuner:
             crossover=UniformCrossover(pc=1, pe=0.5),
             mutation=FlipBitMutation(pm=0.00000000001),
             fitness=self.fitnessFunction,
-            analysis=[ConsoleOutputAnalysis]
+            analysis=[ConsoleOutputAnalysis, new_early_stopping_analysis(scale_range=self.scale_range)]
         )
 
+        class Logger:
+            def exception(self, msg):
+                pass
+
+        engine.logger = Logger()
+
         # Run the GA with the specified number of iterations
-        engine.run(ng=self.max_iterations)
+        try:
+            engine.run(ng=self.max_iterations)
+        except ValueError:
+            pass
 
         # Get the best individual.
         best_indv = engine.population.best_indv(engine.fitness)
@@ -100,3 +109,18 @@ class ConsoleOutputAnalysis(OnTheFlyAnalysis):
         print(f"Tuner {-y}")
         # msg = 'Optimal solution: {}'.format(-y)
         # self.logger.info(msg)
+
+
+def new_early_stopping_analysis(scale_range):
+    class EarlyStoppingAnalysis(OnTheFlyAnalysis):
+        interval = 1
+        master_only = True
+
+        def register_step(self, g, population, engine):
+            chromosomes = list(map(lambda indv: indv.chromsome, population.individuals))
+            std = np.std(chromosomes, axis=0)
+            if np.all(std < (scale_range[1] - scale_range[0]) * 0.05):
+                print(f'Tuner converged in generation {g}')
+                raise ValueError('std < 5%')
+
+    return EarlyStoppingAnalysis

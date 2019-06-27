@@ -118,7 +118,7 @@ class CrossValidation:
 
         with mp.Pool(processes=self.ksplits) as pool:
             splits = []
-            run = 1
+            run = 0
             for X_train, X_test, y_train, y_test in self.get_splits():
                 splits.append([run, X_train, X_test, y_train, y_test])
                 run += 1
