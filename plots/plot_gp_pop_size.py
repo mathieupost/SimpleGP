@@ -9,11 +9,10 @@ def extract_mean_std(rest):
 
 
 def extract_value_per_run(size):
-    fileHandle = open(f"../log/log_pop_size_{size}.txt", "r")
-    lineList = fileHandle.readlines()
-    fileHandle.close()
+    with  open(f"../log/log_pop_size_{size}.txt", "r") as file_handle:
+        line_list = file_handle.readlines()
 
-    results = lineList[len(lineList) - 4:]
+    results = line_list[-4]
     mean_train, std_train = extract_mean_std(results[1])
     mean_test, std_test = extract_mean_std(results[3])
 
@@ -54,4 +53,5 @@ plt.xlabel('Population size')
 plt.ylabel('MSE')
 
 plt.title("Simple GP: MSE vs. population size")
+plt.savefig("../images/plot_gp_pop_size.png")
 plt.show()
