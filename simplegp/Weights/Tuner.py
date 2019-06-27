@@ -66,7 +66,7 @@ class Tuner:
             selection=TournamentSelection(),
             crossover=GaussianCrossover(pc=1.0),
             mutation=NoMutation(),
-            fitness=self.fitnessFunction,
+            fitness=self.fitness_function,
             analysis=[new_early_stopping_analysis(scale_range=self.scale_range)]
         )
 
