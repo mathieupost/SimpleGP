@@ -18,16 +18,18 @@ class SimpleGP:
             functions=None,
             terminals=None,
             pop_size=500,
-            crossover_rate=1,
+            crossover_rate=1.0,
             mutation_rate=0.0,
             max_evaluations=-1,
             max_generations=-1,
             max_time=-1,
             initialization_max_tree_height=4,
             max_tree_size=100,
-            tournament_size=4
+            tournament_size=4,
+            baldwin=False
     ):
 
+        self.baldwin = baldwin
         self.tuner = tuner
         self.start_time = 0
         self.pop_size = pop_size
@@ -112,6 +114,10 @@ class SimpleGP:
 
             PO = population + offspring
             population = Selection.tournament_select(PO, self.pop_size, tournament_size=self.tournament_size)
+
+            if self.baldwin:
+                for indv in population:
+                    indv.reset_weights()
 
             self.generations = self.generations + 1
             print('GA '

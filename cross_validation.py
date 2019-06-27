@@ -1,9 +1,12 @@
 import copy
 import multiprocessing as mp
+import os
 import sys
 from io import StringIO
 
 import numpy as np
+import platform
+import psutil
 from sklearn import datasets
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import StandardScaler
@@ -61,6 +64,13 @@ class CrossValidation:
             yield X_train, X_test, y_train, y_test
 
     def validate_split(self, split):
+        #  Set process to low priority
+        p = psutil.Process(os.getpid())
+        if platform.system() == 'Windows':
+            p.nice(psutil.BELOW_NORMAL_PRIORITY_CLASS)
+        else:
+            p.nice(19)
+
         run, X_train, X_test, y_train, y_test = split
 
         def f():
@@ -108,7 +118,7 @@ class CrossValidation:
 
         with mp.Pool(processes=self.ksplits) as pool:
             splits = []
-            run = 1
+            run = 0
             for X_train, X_test, y_train, y_test in self.get_splits():
                 splits.append([run, X_train, X_test, y_train, y_test])
                 run += 1

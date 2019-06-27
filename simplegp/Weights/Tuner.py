@@ -1,11 +1,19 @@
 from copy import deepcopy
 
+import numpy as np
 from gaft import GAEngine
 from gaft.components import IndividualBase, DecimalIndividual, Population
-from gaft.operators import TournamentSelection, UniformCrossover, FlipBitMutation
+from gaft.operators import TournamentSelection
 from gaft.plugin_interfaces import OnTheFlyAnalysis
 
 from simplegp.Nodes import BaseNode
+from simplegp.Weights.GaussianCrossover import GaussianCrossover
+from simplegp.Weights.NoMutation import NoMutation
+
+
+class NoLoggingLogger:
+    def exception(self, msg):
+        pass
 
 
 class Tuner:
@@ -18,7 +26,6 @@ class Tuner:
                  population_fraction=1,
                  max_iterations=100,
                  pop_size=100):
-
         """
         Weight tuner for the variables of the real valued GA
         :param fitness_function: fitness function to apply
@@ -43,40 +50,51 @@ class Tuner:
     def set_individual(self, individual: BaseNode):
         self.individual = deepcopy(individual)
 
-    def tuneWeights(self):
+    def tune_weights(self):
         old_fitness = self.individual.fitness
 
         weights_scaling = self.individual.get_subtree_scaling()
         weights_translation = self.individual.get_subtree_translation()
         # Create array with range for each scaling and translation parameter
         range = [self.scale_range, ] * len(weights_scaling) + [self.translation_range, ] * len(weights_translation)
-        indv_template = DecimalIndividual(ranges=range, eps=0.01)
+        indv_template = DecimalIndividual(ranges=range, eps=0.1)
         population = Population(indv_template=indv_template, size=self.pop_size)
         population.init()
 
         engine = GAEngine(
             population=population,
             selection=TournamentSelection(),
-            crossover=UniformCrossover(pc=1, pe=0.5),
-            mutation=FlipBitMutation(pm=0.00000000001),
+            crossover=GaussianCrossover(pc=1.0),
+            mutation=NoMutation(),
             fitness=self.fitnessFunction,
-            analysis=[ConsoleOutputAnalysis]
+            analysis=[new_early_stopping_analysis(scale_range=self.scale_range)]
         )
 
+        engine.logger = NoLoggingLogger()
+
         # Run the GA with the specified number of iterations
-        engine.run(ng=self.max_iterations)
+        try:
+            engine.run(ng=self.max_iterations)
+        except ValueError:
+            pass
 
         # Get the best individual.
         best_indv = engine.population.best_indv(engine.fitness)
+
+        # Log the tuning process
+        print(f"Tuner {np.round(old_fitness, 3)} {np.round(-engine.ori_fmax, 3)}")
+
+        # Only use the new individual if it was really improved
         if old_fitness > -engine.ori_fmax:
             weights_scaling, weights_translation = self.split_list(best_indv.solution)
 
             self.individual.set_subtree_scaling(weights_scaling)
             self.individual.set_subtree_translation(weights_translation)
+            self.individual.fitness = -engine.ori_fmax
 
         return deepcopy(self.individual)
 
-    def fitnessFunction(self, base: IndividualBase):
+    def fitness_function(self, base: IndividualBase):
         weights_scaling, weights_translation = self.split_list(base.solution)
 
         self.individual.set_subtree_scaling(weights_scaling)
@@ -91,12 +109,16 @@ class Tuner:
         return a_list[:half], a_list[half:]
 
 
-class ConsoleOutputAnalysis(OnTheFlyAnalysis):
-    interval = 10
-    master_only = True
+def new_early_stopping_analysis(scale_range):
+    class EarlyStoppingAnalysis(OnTheFlyAnalysis):
+        interval = 1
+        master_only = True
 
-    def finalize(self, population, engine):
-        y = engine.ori_fmax
-        print("Tuner", -y)
-        # msg = 'Optimal solution: {}'.format(-y)
-        # self.logger.info(msg)
+        def register_step(self, g, population, engine):
+            chromosomes = list(map(lambda indv: indv.chromsome, population.individuals))
+            std = np.std(chromosomes, axis=0)
+            if np.all(std < (scale_range[1] - scale_range[0]) * 0.05):
+                print(f'Tuner converged in generation {g}')
+                raise ValueError('std < 5%')
+
+    return EarlyStoppingAnalysis
