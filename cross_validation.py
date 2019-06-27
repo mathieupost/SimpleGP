@@ -116,7 +116,6 @@ class CrossValidation:
             results = pool.map(self.validate_split, splits)
             for res in results:
                 train_mse, train_R, test_mse, test_R, log = res
-
                 train_mses.append(train_mse)
                 train_Rs.append(train_R)
 
