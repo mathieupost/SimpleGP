@@ -32,7 +32,8 @@ def run_with_range(range):
     CrossValidation(sgp, terminals).validate()
 
 
-for setting in tqdm(settings, desc="Test Weights"):
-    with open(f"log/log_tuner_pop_size_{setting}.txt", "w+") as logfile:
-        mc = MultiLogger([sys.stdout, logfile])
-        mc.capture(run_with_range, setting)
+if __name__ == '__main__':
+    for setting in tqdm(settings, desc="Test Weights"):
+        with open(f"log/log_tuner_pop_size_{setting}.txt", "w+") as logfile:
+            mc = MultiLogger([sys.stdout, logfile])
+            mc.capture(run_with_range, setting)
