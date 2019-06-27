@@ -18,7 +18,7 @@ class SimpleGP:
             functions=None,
             terminals=None,
             pop_size=500,
-            crossover_rate=1,
+            crossover_rate=1.0,
             mutation_rate=0.0,
             max_evaluations=-1,
             max_generations=-1,
