@@ -24,16 +24,16 @@ settings = [
 ]
 
 
-def run_with_range(range):
+def run_with_range(range_settings):
     # Set functions and terminals
     functions = [AddNode(), SubNode(), MulNode(), AnalyticQuotientNode()]  # chosen function nodes
     terminals = [EphemeralRandomConstantNode()]  # use one ephemeral random constant node
 
     # Run GP
     tuner = Tuner(
-        scale_range=(range[0], range[1]),
-        translation_range=(range[0], range[1]),
-        run_generations=()
+        scale_range=(range_settings[0], range_settings[1]),
+        translation_range=(range_settings[0], range_settings[1]),
+        run_generations=(range(100))
     )
     sgp = SimpleGP(tuner=tuner, functions=functions, pop_size=100, max_generations=100)
 

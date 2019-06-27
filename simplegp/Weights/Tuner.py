@@ -97,6 +97,6 @@ class ConsoleOutputAnalysis(OnTheFlyAnalysis):
 
     def finalize(self, population, engine):
         y = engine.ori_fmax
-        print("Tuner", -y)
+        print(f"Tuner {-y}")
         # msg = 'Optimal solution: {}'.format(-y)
         # self.logger.info(msg)
