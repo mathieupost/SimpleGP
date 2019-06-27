@@ -120,6 +120,6 @@ def new_early_stopping_analysis(range):
             chromosomes = list(map(lambda indv: indv.chromsome, population.individuals))
             std = np.std(chromosomes, axis=0)
             if np.all(std < (range[1] - range[0]) * 0.05):
-                raise ValueError('std < 10%')
+                raise ValueError('std < 5%')
 
     return EarlyStoppingAnalysis
