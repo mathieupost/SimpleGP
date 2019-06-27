@@ -24,7 +24,7 @@ settings = [
             scale_range=(-5, 5),
             translation_range=(-5, 5),
             run_generations=(range(0, 100))),
-        "tuner"
+        "tuner_all_gen"
     ),
     # Tuner in all generations w LS
     (
@@ -33,7 +33,7 @@ settings = [
             scale_range=(-5, 5),
             translation_range=(-5, 5),
             run_generations=(range(0, 100))),
-        "tuner_ls")
+        "tuner_ls_all_gen")
 ]
 
 for setting in tqdm(settings, desc="Test Linear Scaling"):
