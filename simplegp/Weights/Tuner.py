@@ -66,7 +66,7 @@ class Tuner:
             selection=TournamentSelection(),
             crossover=GaussianCrossover(pc=1.0),
             mutation=NoMutation(),
-            fitness=self.fitness_function,
+            fitness=self.fitness_function_GAFT,
             analysis=[new_early_stopping_analysis(scale_range=self.scale_range)]
         )
 
@@ -94,7 +94,7 @@ class Tuner:
 
         return deepcopy(self.individual)
 
-    def fitness_function(self, base: IndividualBase):
+    def fitness_function_GAFT(self, base: IndividualBase):
         weights_scaling, weights_translation = self.split_list(base.solution)
 
         self.individual.set_subtree_scaling(weights_scaling)
