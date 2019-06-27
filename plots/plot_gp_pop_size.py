@@ -53,5 +53,5 @@ plt.fill_between(np.log10(sizes), z_lower, z_upper, color='red', alpha='0.1')
 plt.xlabel('Population size')
 plt.ylabel('MSE')
 
-plt.title("Simple Plot")
+plt.title("Simple GP: MSE vs. population size")
 plt.show()
