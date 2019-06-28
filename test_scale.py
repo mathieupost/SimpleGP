@@ -18,23 +18,23 @@ settings = [
     (False, Tuner(), "normal"),
     # Normal w LS
     (True, Tuner(), "normal_ls"),
-    # Tuner in all generations
-    (
-        False,
-        Tuner(
-            scale_range=(-5, 5),
-            translation_range=(-5, 5),
-            run_generations=(range(0, 100))),
-        "tuner"
-    ),
-    # Tuner in all generations w LS
-    (
-        True,
-        Tuner(
-            scale_range=(-5, 5),
-            translation_range=(-5, 5),
-            run_generations=(range(0, 100))),
-        "tuner_ls")
+    # # Tuner in all generations
+    # (
+    #     False,
+    #     Tuner(
+    #         scale_range=(-5, 5),
+    #         translation_range=(-5, 5),
+    #         run_generations=(range(0, 100))),
+    #     "tuner"
+    # ),
+    # # Tuner in all generations w LS
+    # (
+    #     True,
+    #     Tuner(
+    #         scale_range=(-5, 5),
+    #         translation_range=(-5, 5),
+    #         run_generations=(range(0, 100))),
+    #     "tuner_ls")
 ]
 
 
@@ -44,7 +44,7 @@ def run_with_settings(ls, tuner):
     terminals = [EphemeralRandomConstantNode()]  # use one ephemeral random constant node
 
     # Run GP
-    sgp = SimpleGP(linear_scale=ls, tuner=tuner, functions=functions, pop_size=100, max_generations=100)
+    sgp = SimpleGP(linear_scale=ls, tuner=tuner, functions=functions, pop_size=500, max_generations=100)
 
     CrossValidation(sgp, terminals).validate()
 

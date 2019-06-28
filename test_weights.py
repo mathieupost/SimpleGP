@@ -33,9 +33,9 @@ def run_with_range(range_settings):
     tuner = Tuner(
         scale_range=(range_settings[0], range_settings[1]),
         translation_range=(range_settings[0], range_settings[1]),
-        run_generations=(range(100))
+        run_generations=(range(0, 20))
     )
-    sgp = SimpleGP(tuner=tuner, functions=functions, pop_size=100, max_generations=100)
+    sgp = SimpleGP(tuner=tuner, functions=functions, pop_size=100, max_generations=20)
 
     CrossValidation(sgp, terminals).validate()
 
