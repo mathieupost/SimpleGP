@@ -138,17 +138,20 @@ plt.ylabel("Training MSE")
 plt.xticks(x)
 plt.title("Weight Tuning: ")
 
+plt.ylim([0, 1500])
 color = 0
 
 # If the plots are combined, you wont see the difference for the smaller one
-select = list(data.keys())[1]
-for w in [select]:
+
+# select = list(data.keys())[1]
+# for w in [select]:
+for w in data.keys():
     _, _, before, after = data[w]
 
     m_before, std_before = avg_over_runs(before)
     m_after, std_after = avg_over_runs(after)
 
-    # plt.plot(x, m_before, color=palette(color), label=f"Before -{w}")
+    plt.plot(x, m_before, color=palette(color), label=f"Before -{w}")
     # plt.fill_between(x, m_before + std_before, m_before - std_before, color=palette(color), alpha=0.1)
 
     plt.plot(x, m_after, color=palette(color + 2), label=f"After -{w}")
