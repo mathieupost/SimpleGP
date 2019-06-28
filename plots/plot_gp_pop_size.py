@@ -1,7 +1,12 @@
 # sphinx_gallery_thumbnail_number = 3
+
+import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
+# Set theme
+matplotlib.style.use('seaborn-darkgrid')
+matplotlib.rcParams['font.family'] = "serif"
 
 def extract_mean_std(rest):
     split = rest.split(' ')
