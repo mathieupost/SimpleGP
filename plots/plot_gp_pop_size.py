@@ -8,6 +8,7 @@ import numpy as np
 matplotlib.style.use('seaborn-darkgrid')
 matplotlib.rcParams['font.family'] = "serif"
 
+
 def extract_mean_std(rest):
     split = rest.split(' ')
     return round(float(split[1]), 2), round(float(split[2]), 2)
@@ -17,7 +18,7 @@ def extract_value_per_run(size):
     with  open(f"../log/log_pop_size_{size}.txt", "r") as file_handle:
         line_list = file_handle.readlines()
 
-    results = line_list[-4]
+    results = line_list[-4:len(line_list)]
     mean_train, std_train = extract_mean_std(results[1])
     mean_test, std_test = extract_mean_std(results[3])
 
@@ -58,5 +59,6 @@ plt.xlabel('Population size')
 plt.ylabel('MSE')
 
 plt.title("Simple GP: MSE vs. population size")
+plt.legend()
 plt.savefig("../images/plot_gp_pop_size.png")
 plt.show()
