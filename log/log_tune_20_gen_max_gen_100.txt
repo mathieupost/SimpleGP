@@ -1,0 +1,6284 @@
+Run0
+GA 1 253.773 11
+GA 2 253.773 11
+GA 3 253.773 11
+GA 4 145.618 11
+GA 5 69.26 17
+GA 6 66.209 19
+GA 7 59.378 23
+GA 8 58.868 23
+GA 9 58.868 23
+GA 10 58.868 23
+GA 11 43.706 19
+GA 12 43.706 19
+GA 13 43.706 19
+GA 14 43.706 19
+GA 15 43.706 19
+GA 16 43.682 19
+GA 17 43.682 19
+GA 18 39.602 19
+GA 19 39.602 19
+Tuner 280.431 91.745
+Tuner 120.604 79.503
+Tuner 52.586 47.496
+Tuner 52.419 88.989
+Tuner 55.583 85.113
+Tuner 98.746 87.173
+Tuner 133.515 81.001
+Tuner 88.479 72.922
+Tuner 101.845 84.783
+Tuner 43.193 78.633
+Tuner 121.032 81.12
+Tuner 118.746 95.787
+Tuner 69.569 75.577
+Tuner 431.244 63.901
+Tuner 111.091 57.628
+Tuner 218.671 38.01
+Tuner 133.557 81.563
+Tuner 43.706 89.296
+Tuner 43.682 72.723
+Tuner 136.753 83.22
+Tuner 219.576 78.814
+Tuner 62.727 82.094
+Tuner 6693.027 88.395
+Tuner 382.152 92.784
+Tuner 2659.174 101.997
+Tuner 121.032 67.316
+Tuner 245.256 80.892
+Tuner 382.152 63.213
+Tuner 225.972 96.47
+Tuner 69.326 91.989
+Tuner 43.706 98.669
+Tuner 43.266 221.508
+Tuner 103.865 56.837
+Tuner 164.13 71.428
+Tuner 50.416 52.078
+Tuner 111.091 87.704
+Tuner 147.892 44.776
+Tuner 1043.06 94.808
+Tuner converged in generation 99
+Tuner 297.392 59.501
+Tuner 894.73 97.498
+Tuner 3193.981 89.406
+Tuner 2707.013 93.077
+Tuner 106.881 72.185
+Tuner 120.604 78.681
+Tuner 3577.522 112.131
+Tuner 271.975 111.84
+Tuner 68.5 111.346
+Tuner 6681.491 116.954
+Tuner 604.381 87.975
+Tuner 108.326 39.324
+Tuner 64.223 82.928
+Tuner 56.691 78.63
+Tuner converged in generation 86
+Tuner 586.082 78.549
+Tuner 62.349 67.275
+Tuner converged in generation 86
+Tuner 315.965 44.886
+Tuner 226.121 102.809
+Tuner 73.674 126.3
+Tuner 169.336 96.515
+Tuner converged in generation 74
+Tuner 641.654 39.625
+Tuner 763.989 71.158
+Tuner converged in generation 66
+Tuner 301.825 78.432
+Tuner 1000.402 50.289
+Tuner 59.023 73.059
+Tuner 127.337 90.537
+Tuner 47.757 83.399
+Tuner 623.833 57.205
+Tuner 43.682 83.402
+Tuner 893.294 82.184
+Tuner 98.746 113.953
+Tuner 88.805 47.562
+Tuner 43.682 110.042
+Tuner 69.791 105.553
+Tuner 47.456 34.455
+Tuner 345.976 51.264
+Tuner 69.791 702.672
+Tuner 59.204 67.656
+Tuner 89.123 97.293
+Tuner 145.377 158.754
+Tuner 132.044 90.818
+Tuner 65.649 50.33
+Tuner 263.354 84.91
+Tuner 53.892 62.5
+Tuner 64.562 56.555
+Tuner 231.022 99.105
+Tuner converged in generation 77
+Tuner 867.261 44.879
+Tuner 105.367 72.975
+Tuner 104.631 79.863
+Tuner 4650.0 90.198
+Tuner 772.828 113.196
+Tuner 6741.356 99.043
+Tuner 71.886 62.245
+Tuner 53.892 78.607
+GA 20 34.455 17
+GA 21 32.068 19
+GA 22 32.068 19
+GA 23 32.068 19
+GA 24 31.019 19
+GA 25 31.019 19
+GA 26 28.767 21
+GA 27 28.767 21
+GA 28 27.599 23
+GA 29 27.154 21
+GA 30 25.52 19
+GA 31 25.52 19
+GA 32 25.016 21
+GA 33 25.016 21
+GA 34 25.016 21
+GA 35 25.016 21
+GA 36 25.016 21
+GA 37 25.016 21
+GA 38 25.016 21
+GA 39 25.016 21
+Tuner 28.989 47.475
+Tuner 2975.578 108.932
+Tuner 694.712 47.486
+Tuner 66.401 44.717
+Tuner 2265.129 85.94
+Tuner 486.715 64.523
+Tuner 70.532 41.503
+Tuner 125.673 109.972
+Tuner 59.624 57.323
+Tuner 189.034 90.025
+Tuner 25.52 101.538
+Tuner 3603.503 59.732
+Tuner 76.703 75.546
+Tuner 4958.121 108.416
+Tuner 369.742 61.784
+Tuner 34263.778 116.219
+Tuner 60.661 226.059
+Tuner 25.52 57.673
+Tuner 3684.237 100.778
+Tuner 78.681 165.7
+Tuner 10637.333 81.18
+Tuner 2975.578 177.032
+Tuner 776.952 62.25
+Tuner 84.273 47.791
+Tuner 131.929 42.162
+Tuner 130.433 46.522
+Tuner 25.52 40.54
+Tuner 34263.778 68.026
+Tuner 59.624 41.553
+Tuner 53.398 66.585
+Tuner 1951.494 664.053
+Tuner converged in generation 62
+Tuner 3657.701 42.061
+Tuner 28.41 156.979
+Tuner 14354.063 109.407
+Tuner 76.488 88.4
+Tuner 42.901 46.401
+Tuner 540.567 157.281
+Tuner 486.715 72.713
+Tuner 2020.059 50.335
+Tuner converged in generation 83
+Tuner 867.261 44.506
+Tuner 82.812 42.22
+Tuner 55.575 31.092
+Tuner 42.864 109.55
+Tuner 14087.989 88.356
+Tuner 47.307 559.785
+Tuner 1526.204 42.573
+Tuner 533.234 41.377
+Tuner 188.18 41.204
+Tuner 25.52 99.996
+Tuner 82.812 42.179
+Tuner converged in generation 82
+Tuner 2665.761 41.406
+Tuner 829.463 122.729
+Tuner 540.567 93.428
+Tuner 83.643 43.972
+Tuner 3144.001 68.521
+Tuner 6357.563 42.237
+Tuner 559.688 50.22
+Tuner 1809.147 54.184
+Tuner 25.52 45.038
+Tuner 24310.181 101.404
+Tuner 47.307 457.419
+Tuner converged in generation 97
+Tuner 2665.761 40.844
+Tuner 36.573 64.152
+Tuner 3603.503 56.057
+Tuner 25.52 121.749
+Tuner 5723.401 71.32
+Tuner 39.309 85.45
+Tuner 81.777 40.649
+Tuner converged in generation 84
+Tuner 2665.761 42.224
+Tuner 39.309 63.549
+Tuner 85.611 64.789
+Tuner 2020.059 41.169
+Tuner 1424.296 77.395
+Tuner 4035.666 158.863
+Tuner 6938.93 110.191
+Tuner 14418.111 131.151
+Tuner 2265.129 99.04
+Tuner converged in generation 89
+Tuner 131.929 42.046
+Tuner 857.969 115.238
+Tuner 445.723 56.466
+Tuner converged in generation 88
+Tuner 804.349 41.51
+Tuner 6925.829 42.833
+Tuner 533.234 40.565
+Tuner 857.397 99.672
+Tuner 95.507 46.502
+Tuner 8215.943 71.081
+Tuner 44063.178 68.313
+Tuner 3222.74 142.83
+Tuner 559.688 158.646
+Tuner 1424.296 72.312
+Tuner 30.068 58.263
+GA 40 25.016 21
+GA 41 25.016 21
+GA 42 24.402 19
+GA 43 24.402 19
+GA 44 24.402 19
+GA 45 24.402 19
+GA 46 24.402 19
+GA 47 24.402 19
+GA 48 24.402 19
+GA 49 24.402 19
+GA 50 23.797 21
+GA 51 23.797 21
+GA 52 23.797 21
+GA 53 23.797 21
+GA 54 23.797 21
+GA 55 23.797 21
+GA 56 23.797 21
+GA 57 23.619 21
+GA 58 23.619 21
+GA 59 23.619 21
+Tuner 24.739 85.194
+Tuner 1116.348 187.838
+Tuner 3490.884 126.38
+Tuner 196.872 106.136
+Tuner 157.163 103.426
+Tuner 50.351 94.608
+Tuner 23.797 117.381
+Tuner 90.134 106.516
+Tuner 1480.366 65.994
+Tuner 179.827 72.663
+Tuner 1045.866 84.954
+Tuner 85.056 146.767
+Tuner 3075.556 119.237
+Tuner 47.515 1997.646
+Tuner 23.797 83.425
+Tuner 1434.743 76.953
+Tuner 24.541 74.196
+Tuner 23.797 81.764
+Tuner 72.331 60.71
+Tuner 23.797 91.396
+Tuner 506.697 201.264
+Tuner 8244.231 75.477
+Tuner 1277.151 169.38
+Tuner 520.028 76.948
+Tuner 57.187 55.564
+Tuner 91.369 67.951
+Tuner 3155.67 94.999
+Tuner 60.707 74.84
+Tuner 29.741 100.635
+Tuner 89.744 74.701
+Tuner 23.797 119.941
+Tuner 179.827 153.005
+Tuner 255.223 140.347
+Tuner 25607.919 123.0
+Tuner 84.233 26.793
+Tuner 23.797 93.355
+Tuner 32.647 93.121
+Tuner 191.003 88.829
+Tuner 759.972 57.524
+Tuner 257.569 124.214
+Tuner 114.937 92.357
+Tuner 1045.866 97.951
+Tuner 199.051 100.028
+Tuner converged in generation 88
+Tuner 527.16 65.918
+Tuner 78.622 74.096
+Tuner 13746.235 102.396
+Tuner 24.739 71.138
+Tuner 2738.159 80.34
+Tuner 23.619 81.391
+Tuner 24.541 91.808
+Tuner 23.853 69.007
+Tuner 88.649 124.628
+Tuner 1234.066 145.666
+Tuner 101.35 208.808
+Tuner 48.979 169.332
+Tuner 869.516 779.153
+Tuner 10967.813 92.329
+Tuner 74.636 91.01
+Tuner 44.752 85.544
+Tuner 155.325 360.454
+Tuner 51.068 107.238
+Tuner 501.09 86.309
+Tuner 82.551 165.312
+Tuner 431.073 41.069
+Tuner 337.171 73.608
+Tuner 23.797 70.26
+Tuner 33.572 60.467
+Tuner 122.777 83.19
+Tuner converged in generation 67
+Tuner 638.846 35.008
+Tuner 257.569 89.25
+Tuner 30.121 84.062
+Tuner 25266.45 93.63
+Tuner 53.391 44.342
+Tuner 23.619 133.836
+Tuner converged in generation 99
+Tuner 92.11 79.162
+Tuner 89.261 54.939
+Tuner 88.649 75.043
+Tuner 23.797 58.62
+Tuner 50.178 83.333
+Tuner 85.172 171.458
+Tuner 101.35 102.888
+Tuner 85.172 169.546
+Tuner 553.238 118.575
+Tuner 36.291 89.786
+Tuner 92.742 138.701
+Tuner 1774.443 69.197
+Tuner 80.79 361.373
+Tuner 3490.884 167.061
+Tuner 3760.288 30.904
+Tuner 871.655 293.633
+Tuner converged in generation 67
+Tuner 802.066 39.446
+Tuner 866.509 47.864
+Tuner 102.612 73.665
+Tuner 2923.764 119.559
+GA 60 23.619 21
+GA 61 23.619 21
+GA 62 23.619 21
+GA 63 23.619 21
+GA 64 23.515 21
+GA 65 23.515 21
+GA 66 23.515 21
+GA 67 23.515 21
+GA 68 23.326 25
+GA 69 22.739 21
+GA 70 22.739 21
+GA 71 22.739 21
+GA 72 22.739 21
+GA 73 22.739 21
+GA 74 22.739 21
+GA 75 22.739 21
+GA 76 22.739 21
+GA 77 22.739 21
+GA 78 22.739 21
+GA 79 22.739 21
+Tuner 47.704 68.036
+Tuner 3546.685 36.173
+Tuner 22.739 83.034
+Tuner 439.703 62.169
+Tuner 24.402 66.354
+Tuner 141.14 94.332
+Tuner 1277.151 91.222
+Tuner 343.325 72.864
+Tuner 23263.394 79.717
+Tuner 49.901 124.276
+Tuner 1481.802 34.792
+Tuner converged in generation 98
+Tuner 73.828 126.005
+Tuner 1243.535 143.95
+Tuner 22.739 68.887
+Tuner 42.038 73.622
+Tuner 40.136 73.966
+Tuner 18685.659 190.361
+Tuner 48.994 94.646
+Tuner converged in generation 99
+Tuner 50.005 104.699
+Tuner 62.86 100.588
+Tuner converged in generation 82
+Tuner 346.304 66.111
+Tuner 810.09 51.402
+Tuner 59.305 103.253
+Tuner 62.502 45.4
+Tuner 527.16 65.387
+Tuner 13348.388 104.766
+Tuner 186.8 80.701
+Tuner 82.539 46.011
+Tuner 74.926 99.507
+Tuner 1481.802 54.32
+Tuner 38.419 146.75
+Tuner 188.014 117.047
+Tuner 62.86 70.103
+Tuner 85.076 40.374
+Tuner 80.13 77.659
+Tuner 542.97 171.438
+Tuner 22.739 73.877
+Tuner 35.72 88.815
+Tuner 83.841 61.887
+Tuner 107.896 56.131
+Tuner 257.569 73.63
+Tuner 802.066 39.087
+Tuner 22.739 86.605
+Tuner 503.361 152.154
+Tuner 759.972 48.221
+Tuner 22.739 148.688
+Tuner 24.363 96.824
+Tuner 464.74 155.302
+Tuner 39.358 146.297
+Tuner 654.535 271.723
+Tuner 89.877 88.616
+Tuner 24.753 214.92
+Tuner converged in generation 72
+Tuner 617.896 46.934
+Tuner converged in generation 83
+Tuner 144.075 65.645
+Tuner 22.739 47.449
+Tuner 22.739 79.547
+Tuner 25.578 102.463
+Tuner 68.29 41.61
+Tuner 49.488 240.98
+Tuner 2554.745 34.316
+Tuner converged in generation 83
+Tuner 445.723 64.262
+Tuner 673.712 69.634
+Tuner 40.511 690.354
+Tuner 178.77 329.25
+Tuner 22.739 95.777
+Tuner 54.501 82.951
+Tuner 73.439 57.982
+Tuner 1399.601 603.025
+Tuner 73.659 83.432
+Tuner 53.391 114.33
+Tuner 95.773 193.944
+Tuner 24.363 199.999
+Tuner converged in generation 98
+Tuner 863.083 65.38
+Tuner 35169.604 68.359
+Tuner 3795.114 77.579
+Tuner 38.419 71.215
+Tuner 85.689 73.041
+Tuner 24.753 175.637
+Tuner converged in generation 96
+Tuner 68.29 87.544
+Tuner 1421.278 79.735
+Tuner 2434.15 188.89
+Tuner 122.777 68.86
+Tuner 850.879 55.667
+Tuner 125.745 153.961
+Tuner 39.421 89.795
+Tuner 2200.176 616.713
+Tuner 22.739 148.705
+Tuner 24.363 69.423
+Tuner 135.531 132.957
+Tuner 203.384 69.444
+Tuner 35747.418 100.247
+Tuner 55.865 89.1
+Tuner 38.831 73.509
+GA 80 22.739 21
+GA 81 22.739 21
+GA 82 22.739 21
+GA 83 22.739 21
+GA 84 22.739 21
+GA 85 22.739 21
+GA 86 22.739 21
+GA 87 22.739 21
+GA 88 22.739 21
+GA 89 22.739 21
+GA 90 22.739 21
+GA 91 22.739 21
+GA 92 22.739 21
+GA 93 22.739 21
+GA 94 22.739 21
+GA 95 22.739 21
+GA 96 22.739 21
+GA 97 22.739 21
+GA 98 22.739 21
+GA 99 22.739 21
+Tuner 187.563 49.769
+Tuner 1199.84 273.895
+Tuner 122.777 63.308
+Tuner 27.083 203.218
+Tuner 1421.278 94.137
+Tuner 191.823 74.427
+Tuner converged in generation 88
+Tuner 638.846 36.826
+Tuner 24.402 80.659
+Tuner 39.358 67.562
+Tuner 47.896 70.096
+Tuner converged in generation 93
+Tuner 445.723 75.588
+Tuner 73.828 87.497
+Tuner 24.753 126.62
+Tuner converged in generation 90
+Tuner 50.178 73.12
+Tuner 107.896 46.074
+Tuner 49.488 72.52
+Tuner 53.391 47.839
+Tuner 26.324 139.68
+Tuner 87.157 114.527
+Tuner 1399.601 1564.564
+Tuner 63.445 74.759
+Tuner 31.272 85.318
+Tuner 191.823 96.789
+Tuner 23.353 112.535
+Tuner 91.016 78.533
+Tuner 3795.114 340.506
+Tuner 41.809 72.445
+Tuner 73.659 113.775
+Tuner 24.402 64.589
+Tuner 866.509 42.355
+Tuner 73.659 145.966
+Tuner 2951.627 101.973
+Tuner 65.017 95.792
+Tuner 130.537 154.288
+Tuner 2547.181 41.033
+Tuner 62.86 96.393
+Tuner 95.773 77.56
+Tuner 2545.772 127.433
+Tuner 10647.101 111.591
+Tuner 27.526 78.143
+Tuner 35.72 57.103
+Tuner 6922.775 65.587
+Tuner 802.066 43.657
+Tuner 70.607 93.787
+Tuner 84.171 110.947
+Tuner 156.414 119.128
+Tuner 40.474 113.765
+Tuner 8271.889 98.855
+Tuner 858.81 626.649
+Tuner 132.736 196.135
+Tuner 186.8 74.282
+Tuner 74.314 630.58
+Tuner 23.353 125.3
+Tuner 44.377 78.74
+Tuner 49.488 5359.33
+Tuner 3590.253 66.792
+Tuner 87.837 66.152
+Tuner 810.09 43.833
+Tuner 32.09 214.946
+Tuner 65.017 91.517
+Tuner 188.014 91.262
+Tuner 22.739 68.45
+Tuner 54.501 76.251
+Tuner 95.773 90.93
+Tuner 338.69 83.907
+Tuner 32.09 66.772
+Tuner 42718.244 150.647
+Tuner 205.061 353.21
+Tuner 128.662 106.416
+Tuner 2223.354 202.003
+Tuner 250.084 140.356
+Tuner 673.712 72.607
+Tuner 10647.101 74.917
+Tuner 12183.062 88.778
+Tuner 68.29 69.571
+Tuner 25406.134 133.546
+Tuner 188.014 80.994
+Tuner 25.141 116.517
+Tuner converged in generation 84
+Tuner 810.09 47.198
+Tuner 186.303 105.462
+Tuner 24243.449 73.499
+Tuner 205.061 104.91
+Tuner 6987.212 67.491
+Tuner 22.739 68.759
+Tuner 22.739 68.68
+Tuner 27.083 65.732
+Tuner 3318.131 102.832
+Tuner 34286.043 75.388
+Tuner 135.531 105.098
+Tuner 104.251 159.279
+Tuner 8154.102 65.94
+Tuner 39.421 87.475
+Tuner 219.797 107.826
+Tuner 23.353 122.826
+Tuner 116.384 149.111
+GA 100 22.739 21
+Terminating at
+	100 generations
+	4665500 evaluations
+	28268.51 seconds
+KFold Run: 0
+Training
+	MSE: 22.739
+	Rsquared: 0.746
+Testing
+	MSE: 12.647
+	Rsquared: 0.637
+
+Run1
+GA 1 242.148 11
+GA 2 242.148 11
+GA 3 242.148 11
+GA 4 92.115 15
+GA 5 81.43 13
+GA 6 77.427 15
+GA 7 64.9 19
+GA 8 64.9 19
+GA 9 64.9 19
+GA 10 64.9 19
+GA 11 62.484 21
+GA 12 61.345 21
+GA 13 57.742 21
+GA 14 52.039 27
+GA 15 52.039 27
+GA 16 52.039 27
+GA 17 50.08 29
+GA 18 50.08 29
+GA 19 43.272 27
+Tuner 371.821 74.397
+Tuner 70.388 226.662
+Tuner 58.733 110.064
+Tuner 86.41 61.862
+Tuner 242.148 46.507
+Tuner 6299.099 95.714
+Tuner 59.369 139.154
+Tuner 259.858 82.221
+Tuner 59.297 78.716
+Tuner 295.77 179.475
+Tuner 49.868 214.254
+Tuner 106.653 95.933
+Tuner 136.859 88.282
+Tuner 120.172 82.632
+Tuner 75.328 103.669
+Tuner 581.103 62.565
+Tuner 55.071 138.57
+Tuner 46.821 157.9
+Tuner 76.554 62.674
+Tuner 219.957 40.813
+Tuner 65.409 97.216
+Tuner 116.785 114.675
+Tuner 81.629 44.949
+Tuner 556.989 94.193
+Tuner 79.118 47.546
+Tuner 102.81 125.742
+Tuner 371.821 104.876
+Tuner 201.348 101.254
+Tuner 583.827 78.542
+Tuner 374.284 98.019
+Tuner 102.81 64.402
+Tuner 133.891 52.088
+Tuner 164.112 165.286
+Tuner 128.101 93.581
+Tuner 1423.119 178.904
+Tuner 568.313 203.499
+Tuner 52.194 167.424
+Tuner 123.757 78.449
+Tuner 116.785 209.228
+Tuner 123.076 94.078
+Tuner 123.865 57.121
+Tuner 437.845 60.292
+Tuner 75.563 96.759
+Tuner 88.662 68.654
+Tuner 61.592 52.819
+Tuner 58.123 224.616
+Tuner 309.928 91.089
+Tuner 81.766 420.402
+Tuner 50.99 54.592
+Tuner 6096.342 234.871
+Tuner 140.583 54.666
+Tuner 1361.718 95.639
+Tuner 307.969 54.436
+Tuner 253.533 53.344
+Tuner 1704.965 102.017
+Tuner 122.935 87.087
+Tuner 352.778 50.392
+Tuner 50.675 95.11
+Tuner 392.314 66.591
+Tuner 275.22 52.393
+Tuner 50.868 92.805
+Tuner 1209.911 227.733
+Tuner 106.06 166.822
+Tuner 87.586 59.808
+Tuner 153.077 93.164
+Tuner 130.93 154.3
+Tuner 374.335 54.661
+Tuner 141.682 140.957
+Tuner 118.399 116.788
+Tuner 580.278 106.562
+Tuner converged in generation 98
+Tuner 944.671 61.323
+Tuner 72.391 152.743
+Tuner 604.39 80.905
+Tuner 109.605 110.647
+Tuner 206.236 373.824
+Tuner 123.076 50.876
+Tuner 62.155 55.452
+Tuner 148.277 80.677
+Tuner 397.355 90.476
+Tuner 242.148 42.037
+Tuner 288.865 175.627
+Tuner 139.422 45.721
+Tuner 76.569 36.225
+Tuner 120.16 49.869
+Tuner 58.733 167.889
+Tuner 56.009 125.554
+Tuner 206.382 62.411
+Tuner 1211.919 110.206
+Tuner 74.089 56.947
+Tuner converged in generation 81
+Tuner 233.857 46.82
+Tuner 260.324 80.39
+Tuner 123.076 72.735
+Tuner 2543.779 247.524
+Tuner 171.651 156.576
+Tuner 284.703 44.941
+Tuner 132.532 46.906
+Tuner 127.641 44.835
+Tuner 50.08 86.642
+GA 20 36.225 13
+GA 21 36.225 13
+GA 22 36.225 13
+GA 23 35.167 13
+GA 24 33.298 27
+GA 25 33.298 27
+GA 26 32.918 27
+GA 27 32.855 27
+GA 28 32.855 27
+GA 29 29.766 27
+GA 30 29.766 27
+GA 31 29.555 33
+GA 32 29.555 33
+GA 33 27.457 43
+GA 34 27.457 43
+GA 35 27.427 43
+GA 36 26.877 49
+GA 37 26.877 49
+GA 38 26.375 43
+GA 39 26.375 43
+Tuner 26.825 51.01
+Tuner converged in generation 96
+Tuner 223.01 39.539
+Tuner 223.01 39.911
+Tuner 26.877 40.864
+Tuner 34.136 49.507
+Tuner 38637.924 707.464
+Tuner 27.427 107.603
+Tuner 28.741 66.994
+Tuner 80.355 55.388
+Tuner 26.715 69.695
+Tuner 80.448 52.6
+Tuner 27.455 43.673
+Tuner 55.379 42.68
+Tuner 811.994 35.491
+Tuner 5914.887 54.069
+Tuner 27.427 107.735
+Tuner 721706.048 63.213
+Tuner 26.375 51.019
+Tuner 31.677 45.605
+Tuner 36.791 55.149
+Tuner 26.877 61.63
+Tuner 150.848 48.916
+Tuner 27.427 56.531
+Tuner 27.427 106.119
+Tuner 42.152 71.253
+Tuner 26.85 74.164
+Tuner 30.839 71.701
+Tuner 25.622 50.758
+Tuner 193651.65 669.352
+Tuner 26.375 67.266
+Tuner 1365.24 47.341
+Tuner 27.457 75.231
+Tuner 444.149 113.29
+Tuner 26.877 69.851
+Tuner 27.541 58.826
+Tuner 34.414 50.678
+Tuner 33.449 49.879
+Tuner 27.427 77.415
+Tuner 46.61 34.04
+Tuner 26.877 50.871
+Tuner 33920.163 83.056
+Tuner 27.037 54.145
+Tuner 8247.445 167.067
+Tuner 35.576 56.859
+Tuner 47.81 47.967
+Tuner 311.16 84.197
+Tuner 27.428 100.108
+Tuner 333.991 75.426
+Tuner 26.478 53.597
+Tuner 33.642 54.389
+Tuner 52.012 79.722
+Tuner 26.877 68.643
+Tuner 27.466 80.456
+Tuner 346.851 96.919
+Tuner 33.417 50.42
+Tuner 36.18 39.306
+Tuner 27.3 84.053
+Tuner 1507.686 42.565
+Tuner 61.41 62.227
+Tuner 27.427 76.992
+Tuner 26.134 97.747
+Tuner 40.981 43.453
+Tuner 57.703 67.257
+Tuner 33.411 58.498
+Tuner 33.69 44.824
+Tuner 31.77 89.072
+Tuner 27.339 47.031
+Tuner 27.457 82.854
+Tuner 36.891 74.236
+Tuner converged in generation 88
+Tuner 367.146 36.647
+Tuner 27.457 52.702
+Tuner 51.384 49.754
+Tuner 29.972 67.567
+Tuner 1560.93 42.053
+Tuner 3762.849 34.485
+Tuner 27.281 66.661
+Tuner 31.543 83.591
+Tuner 9154.603 81.086
+Tuner 58781.852 115.405
+Tuner 621.846 65.094
+Tuner 26.877 94.175
+Tuner 33.321 49.409
+Tuner 45.439 43.269
+Tuner 27.468 39.216
+Tuner 37.126 87.341
+Tuner 81.001 73.015
+Tuner 220454.028 60.257
+Tuner 37802.348 197.098
+Tuner 33.471 43.127
+Tuner 26.872 44.515
+Tuner 4822.22 42.115
+Tuner 52.948 41.617
+Tuner 102.706 47.844
+Tuner 26.504 64.57
+Tuner 103620.85 75.357
+Tuner 27.475 36.633
+Tuner 27.427 77.977
+Tuner 59.401 53.727
+GA 40 25.622 51
+GA 41 25.252 53
+GA 42 25.252 53
+GA 43 25.252 53
+GA 44 25.014 55
+GA 45 25.014 55
+GA 46 24.972 53
+GA 47 24.871 61
+GA 48 24.776 55
+GA 49 24.776 55
+GA 50 24.776 55
+GA 51 24.776 55
+GA 52 24.776 55
+GA 53 24.776 55
+GA 54 24.774 55
+GA 55 24.774 55
+GA 56 24.774 55
+GA 57 24.774 55
+GA 58 24.746 55
+GA 59 24.746 55
+Tuner 452.552 41.448
+Tuner 24.968 53.82
+Tuner 5847920.111 84.182
+Tuner 88.385 42.837
+Tuner 28.334 81.316
+Tuner 4280.881 70.726
+Tuner 30.582 56.342
+Tuner 24.776 64.127
+Tuner 24.774 49.595
+Tuner 2991.769 68.467
+Tuner 30.709 84.051
+Tuner 24.774 102.39
+Tuner 48896.434 419.147
+Tuner 4196.168 76.23
+Tuner 34.688 53.186
+Tuner 32.911 61.878
+Tuner 33.628 63.62
+Tuner 1342.783 60.763
+Tuner 35.069 86.432
+Tuner 30.005 63.271
+Tuner 24.99 69.551
+Tuner 4483.931 113.678
+Tuner 179.878 75.453
+Tuner 29.645 62.071
+Tuner 109.339 51.33
+Tuner 30.147 63.937
+Tuner 24.746 68.988
+Tuner 169.749 107.083
+Tuner 29.428 68.259
+Tuner 1220.388 53.573
+Tuner 24.774 46.108
+Tuner 30.295 47.13
+Tuner 135.888 46.405
+Tuner 27.194 61.712
+Tuner 855.479 44.016
+Tuner 28.887 80.912
+Tuner 138339.887 84.494
+Tuner 24.774 53.198
+Tuner 3687.07 38.678
+Tuner 69.481 67.887
+Tuner 28.528 42.368
+Tuner 24.774 52.46
+Tuner 80.587 110.47
+Tuner 248.221 56.907
+Tuner converged in generation 77
+Tuner 887.531 90.476
+Tuner 34.216 93.114
+Tuner 29.645 69.636
+Tuner 24.774 79.273
+Tuner 33.597 48.402
+Tuner 1471.035 41.812
+Tuner 24.774 66.059
+Tuner 46.61 40.641
+Tuner 30.295 43.883
+Tuner 24.774 77.947
+Tuner 28.235 66.639
+Tuner 29.236 41.664
+Tuner 24.774 70.667
+Tuner 24.774 74.062
+Tuner 36.827 53.43
+Tuner 186.234 66.766
+Tuner 64.864 59.056
+Tuner 841301.284 49.668
+Tuner 13812.952 90.071
+Tuner 40.6 51.733
+Tuner 30.811 76.641
+Tuner 36.18 43.039
+Tuner 219838.343 56.166
+Tuner 41.408 40.72
+Tuner 56380.61 111.503
+Tuner 852.272 40.57
+Tuner 30.765 69.94
+Tuner 25.928 61.871
+Tuner 36.415 47.531
+Tuner 25.363 46.456
+Tuner 28.528 99.366
+Tuner 30.879 68.956
+Tuner 40.849 40.578
+Tuner 30.122 79.297
+Tuner converged in generation 65
+Tuner 624.121 35.881
+Tuner 2174.475 54.179
+Tuner 30.3 64.522
+Tuner 188.174 114.57
+Tuner 2598.512 673.745
+Tuner 24.746 47.956
+Tuner 4282.282 43.243
+Tuner 41.167 47.53
+Tuner 25.169 66.302
+Tuner 24.746 67.0
+Tuner 33.905 118.874
+Tuner 46741.547 95.077
+Tuner 28.78 44.413
+Tuner 24.896 78.618
+Tuner 25.541 57.298
+Tuner 25.034 59.034
+Tuner 116.51 39.164
+Tuner 36.415 46.274
+GA 60 24.746 55
+GA 61 24.746 55
+GA 62 24.746 55
+GA 63 24.746 55
+GA 64 24.674 59
+GA 65 24.348 55
+GA 66 24.348 55
+GA 67 24.348 55
+GA 68 24.253 55
+GA 69 24.253 55
+GA 70 24.253 55
+GA 71 24.245 55
+GA 72 24.205 53
+GA 73 24.205 53
+GA 74 24.205 53
+GA 75 24.169 97
+GA 76 24.133 61
+GA 77 24.133 61
+GA 78 24.131 67
+GA 79 24.13 91
+Tuner 25.645 35.806
+Tuner 38.735 42.181
+Tuner 33.357 55.826
+Tuner 521.193 42.41
+Tuner 103477.055 68.88
+Tuner 25.087 50.425
+Tuner 157.781 42.632
+Tuner 24.155 44.668
+Tuner 24.517 62.405
+Tuner 24.636 81.526
+Tuner 24.169 86.983
+Tuner 24.169 91.551
+Tuner 24.334 75.895
+Tuner 41.054 70.97
+Tuner 24.177 67.981
+Tuner 24.152 67.421
+Tuner 24.133 71.831
+Tuner 3732.38 39.864
+Tuner 49.815 106.282
+Tuner 24.169 46.843
+Tuner 8732.702 59.968
+Tuner 41.089 85.941
+Tuner 24.633 55.571
+Tuner 24.161 74.02
+Tuner 24.153 66.044
+Tuner 29.99 68.351
+Tuner 24.169 74.417
+Tuner 521.193 42.317
+Tuner 24.169 41.38
+Tuner 31.478 50.969
+Tuner 4682.567 102.74
+Tuner 211.414 44.509
+Tuner 1279.778 64.655
+Tuner 24.199 81.136
+Tuner 40.258 97.99
+Tuner 28.74 71.17
+Tuner 721.579 52.535
+Tuner 24.156 43.802
+Tuner 24.169 87.118
+Tuner 26.175 80.769
+Tuner 24.166 80.294
+Tuner 24.894 58.105
+Tuner 19470.896 63.529
+Tuner 24.169 51.544
+Tuner 24.156 54.751
+Tuner 24.169 51.325
+Tuner 31.949 89.631
+Tuner 24.169 75.349
+Tuner 24.169 53.63
+Tuner 24.169 54.77
+Tuner 30.494 54.389
+Tuner 30.308 73.347
+Tuner 24.132 57.031
+Tuner 24.169 43.995
+Tuner 24.169 77.428
+Tuner 24.169 66.569
+Tuner 24.145 56.451
+Tuner 24.223 86.849
+Tuner 24.156 101.977
+Tuner 24.197 67.769
+Tuner 31.484 71.023
+Tuner 312.642 65.78
+Tuner 12961.438 65.92
+Tuner 505.247 108.53
+Tuner 2092.48 74.565
+Tuner 48388617.152 56.081
+Tuner 24.213 43.529
+Tuner 24.129 83.538
+Tuner 24.169 39.014
+Tuner 24.169 51.7
+Tuner 32.856 76.179
+Tuner 24.148 57.545
+Tuner 24.16 135.351
+Tuner 24.633 66.081
+Tuner 24.178 77.45
+Tuner 24.169 68.603
+Tuner 24.169 48.944
+Tuner 24.148 61.38
+Tuner 29.64 40.932
+Tuner 24.133 55.922
+Tuner 24.169 128.028
+Tuner 24.169 96.066
+Tuner 12240.564 225.48
+Tuner 140.121 43.714
+Tuner 24.169 49.079
+Tuner 24.152 62.088
+Tuner 24.149 55.526
+Tuner 24.169 40.636
+Tuner 24.154 72.012
+Tuner 24.169 40.082
+Tuner 24.131 69.849
+Tuner 24.131 52.719
+Tuner 24.169 56.663
+Tuner 24.136 57.717
+Tuner 24.169 68.319
+Tuner 24.148 89.179
+GA 80 24.129 91
+GA 81 24.124 65
+GA 82 24.111 99
+GA 83 24.111 99
+GA 84 24.111 99
+GA 85 24.096 95
+GA 86 24.096 95
+GA 87 24.096 95
+GA 88 24.062 95
+GA 89 24.062 95
+GA 90 24.025 95
+GA 91 24.025 95
+GA 92 24.025 95
+GA 93 24.002 99
+GA 94 24.002 99
+GA 95 24.002 99
+GA 96 24.002 99
+GA 97 24.002 99
+GA 98 23.994 97
+GA 99 23.994 97
+Tuner 24.016 41.576
+Tuner 24.255 51.174
+Tuner 24.016 56.795
+Tuner 25.661 72.718
+Tuner 24.009 48.726
+Tuner 24.016 61.002
+Tuner 24.132 102.091
+Tuner 24.016 52.999
+Tuner 24.168 47.883
+Tuner 33.092 59.634
+Tuner 24.016 61.821
+Tuner 24.138 45.733
+Tuner 24.016 51.381
+Tuner 39.215 72.986
+Tuner 24.009 50.001
+Tuner 24.022 57.115
+Tuner 24.269 58.465
+Tuner 24.016 50.257
+Tuner 24.144 52.999
+Tuner 24.016 54.936
+Tuner 24.025 68.547
+Tuner 24.016 41.634
+Tuner 24.307 91.514
+Tuner 274016.91 90.527
+Tuner 31.046 45.984
+Tuner 24.016 94.6
+Tuner 26.575 49.267
+Tuner 24.016 72.468
+Tuner 24.009 66.279
+Tuner 627.49 64.25
+Tuner 24.019 87.059
+Tuner 31.14 46.1
+Tuner 9537.317 66.511
+Tuner 24.016 79.863
+Tuner 30.894 45.688
+Tuner 24.015 53.719
+Tuner 24.016 72.76
+Tuner 24.108 56.761
+Tuner 24.144 91.842
+Tuner 3482.721 66.807
+Tuner 27.884 90.805
+Tuner 1730.183 44.354
+Tuner 43.49 50.367
+Tuner 24.016 53.689
+Tuner 24.011 60.136
+Tuner 31.068 55.554
+Tuner 24.016 45.642
+Tuner 24.016 54.251
+Tuner 24.016 60.749
+Tuner 24.016 70.281
+Tuner 24.119 72.642
+Tuner 2087955.688 61.623
+Tuner 24.016 78.408
+Tuner 24.016 70.188
+Tuner 24.025 42.555
+Tuner 33.832 53.79
+Tuner 1393.301 52.536
+Tuner 31.199 73.951
+Tuner 24.016 52.306
+Tuner 70.101 99.871
+Tuner 32.988 59.678
+Tuner 24.009 48.234
+Tuner 24.015 41.097
+Tuner 170987450.842 43.41
+Tuner 24.016 42.646
+Tuner 24.009 46.463
+Tuner 24.232 52.499
+Tuner 216.194 49.831
+Tuner 24.016 97.092
+Tuner 24.016 59.954
+Tuner 30.402 70.748
+Tuner 24.009 51.657
+Tuner 24.016 50.3
+Tuner 24.016 49.126
+Tuner 24.016 75.615
+Tuner 62.761 72.312
+Tuner 26.176 52.857
+Tuner 24.017 55.249
+Tuner 24.016 47.613
+Tuner converged in generation 93
+Tuner 1041.652 35.79
+Tuner 24.016 97.96
+Tuner 24.016 52.113
+Tuner 24.008 61.734
+Tuner 24.016 89.085
+Tuner 24.014 42.525
+Tuner 24.016 56.719
+Tuner 24.016 69.672
+Tuner 24.138 46.247
+Tuner 578.302 108.102
+Tuner 24.016 55.471
+Tuner 24.019 53.449
+Tuner 24.167 96.574
+Tuner 24.016 59.991
+Tuner 24.016 43.339
+Tuner 35.018 42.434
+Tuner 24.016 63.263
+Tuner 50.46 41.447
+GA 100 23.994 97
+Terminating at
+	100 generations
+	4898175 evaluations
+	43156.74 seconds
+KFold Run: 1
+Training
+	MSE: 23.994
+	Rsquared: 0.735
+Testing
+	MSE: 6.469
+	Rsquared: 0.759
+
+Run2
+GA 1 261.867 11
+GA 2 261.867 11
+GA 3 261.867 11
+GA 4 182.223 11
+GA 5 92.237 17
+GA 6 91.235 19
+GA 7 57.576 23
+GA 8 57.576 23
+GA 9 57.576 23
+GA 10 57.181 23
+GA 11 56.255 25
+GA 12 48.209 23
+GA 13 48.209 23
+GA 14 48.209 23
+GA 15 48.209 23
+GA 16 45.647 23
+GA 17 45.647 23
+GA 18 45.647 23
+GA 19 45.647 23
+Tuner 9845.648 49.612
+Tuner 51.416 70.358
+Tuner 130.893 76.976
+Tuner 12586.892 71.099
+Tuner 2390.377 76.741
+Tuner 76.297 56.776
+Tuner 65.645 48.458
+Tuner 3226.72 61.478
+Tuner 57.576 88.651
+Tuner 51.457 92.578
+Tuner 58.776 65.577
+Tuner 56.255 81.866
+Tuner 48.209 68.6
+Tuner 79.77 61.749
+Tuner 14627.549 41.929
+Tuner 68.119 73.573
+Tuner converged in generation 68
+Tuner 743.07 44.791
+Tuner 460.427 41.187
+Tuner 50.718 58.218
+Tuner 688.414 127.387
+Tuner 611.956 77.314
+Tuner 92.237 67.255
+Tuner 964.154 212.543
+Tuner 275.341 49.461
+Tuner 977.802 90.943
+Tuner 745.567 41.733
+Tuner 2593.748 77.389
+Tuner 2715.502 65.422
+Tuner 915.692 84.48
+Tuner 681.606 184.789
+Tuner 2401.492 82.57
+Tuner 3298.98 76.265
+Tuner 358.015 45.492
+Tuner 49.769 76.884
+Tuner 485.572 67.836
+Tuner 12672.932 54.58
+Tuner 229.943 50.604
+Tuner 197.404 50.478
+Tuner converged in generation 75
+Tuner 475.227 80.21
+Tuner 152.008 106.841
+Tuner 48.209 42.604
+Tuner 755.997 41.644
+Tuner 703.335 46.687
+Tuner 48.209 68.148
+Tuner 49.023 62.007
+Tuner 655.281 68.022
+Tuner 96.592 55.954
+Tuner 876.211 71.986
+Tuner 485.948 92.624
+Tuner 870.913 57.643
+Tuner 597.865 50.72
+Tuner 58.877 96.334
+Tuner 514.634 61.88
+Tuner 45.647 50.097
+Tuner 50.718 56.632
+Tuner 91.624 81.676
+Tuner 5354.121 88.336
+Tuner 914.036 67.845
+Tuner 63.841 49.237
+Tuner converged in generation 75
+Tuner 755.997 41.129
+Tuner 2364.672 57.929
+Tuner 65.488 71.282
+Tuner 45.647 63.554
+Tuner 64951.734 65.568
+Tuner 464.775 46.952
+Tuner 430.842 65.506
+Tuner 460.176 42.542
+Tuner 832.695 69.241
+Tuner 2198.661 67.725
+Tuner 63.435 67.09
+Tuner 535.887 81.465
+Tuner converged in generation 68
+Tuner 615.516 80.144
+Tuner 63357.726 79.99
+Tuner 55.726 53.317
+Tuner 55.114 93.509
+Tuner 71109.589 120.999
+Tuner 47.7 82.883
+Tuner 90.898 48.955
+Tuner 60.201 46.311
+Tuner 1007.92 52.914
+Tuner 416.288 51.826
+Tuner 825.567 169.441
+Tuner 945.053 59.768
+Tuner 1461.266 54.325
+Tuner 62.389 61.461
+Tuner 6147.09 79.082
+Tuner 58.164 73.893
+Tuner 2897.438 58.42
+Tuner 48.831 64.592
+Tuner 700.479 110.304
+Tuner 125.929 65.804
+Tuner 45.94 61.458
+Tuner 1027.144 70.817
+Tuner 1118.543 80.353
+Tuner 141.101 67.143
+Tuner 1936.001 75.474
+Tuner 66.369 83.821
+Tuner 48.209 58.413
+GA 20 41.129 7
+GA 21 41.129 7
+GA 22 41.129 7
+GA 23 41.129 7
+GA 24 41.129 7
+GA 25 41.129 7
+GA 26 41.129 7
+GA 27 41.129 7
+GA 28 41.129 7
+GA 29 41.129 7
+GA 30 41.129 7
+GA 31 41.129 7
+GA 32 41.129 7
+GA 33 41.129 7
+GA 34 41.129 7
+GA 35 41.129 7
+GA 36 41.129 7
+GA 37 41.129 7
+GA 38 41.129 7
+GA 39 41.129 7
+Tuner 5109.653 43.118
+Tuner 30077.089 55.821
+Tuner 283.056 80.719
+Tuner converged in generation 81
+Tuner 619.694 78.292
+Tuner 355.095 46.405
+Tuner 108.086 44.842
+Tuner 41.644 42.253
+Tuner 28613.987 54.166
+Tuner 41.644 43.359
+Tuner 6076.85 43.243
+Tuner 1999.791 44.734
+Tuner 594.665 76.525
+Tuner converged in generation 49
+Tuner 497.7 261.34
+Tuner 373.635 46.17
+Tuner 1368.775 76.592
+Tuner 647.499 78.38
+Tuner 41.644 41.411
+Tuner 4761.283 41.691
+Tuner 41.644 43.969
+Tuner 50.686 45.749
+Tuner 28613.987 40.28
+Tuner 44.745 41.225
+Tuner 4761.283 41.99
+Tuner converged in generation 89
+Tuner 41.644 44.011
+Tuner 506.378 40.63
+Tuner 4761.283 42.778
+Tuner converged in generation 98
+Tuner 619.694 80.616
+Tuner 41.644 44.028
+Tuner 972.018 43.177
+Tuner 41.644 42.532
+Tuner 79.471 39.578
+Tuner converged in generation 84
+Tuner 30077.089 49.967
+Tuner 506.378 45.692
+Tuner 500.313 260.28
+Tuner 6290.916 53.682
+Tuner 647.499 77.766
+Tuner 30077.089 42.628
+Tuner 6076.85 46.929
+Tuner 1999.791 42.312
+Tuner converged in generation 73
+Tuner 693.154 51.13
+Tuner converged in generation 97
+Tuner 41.644 43.79
+Tuner 41.644 42.203
+Tuner 41.644 41.299
+Tuner 3038.6 42.029
+Tuner 4868.585 43.346
+Tuner converged in generation 94
+Tuner 41.644 45.362
+Tuner 50.686 43.355
+Tuner 30077.089 47.261
+Tuner 693.154 45.867
+Tuner 594.665 77.054
+Tuner 1999.791 44.963
+Tuner converged in generation 97
+Tuner 6076.85 40.571
+Tuner converged in generation 93
+Tuner 386.768 48.688
+Tuner converged in generation 81
+Tuner 41.644 38.857
+Tuner converged in generation 88
+Tuner 619.694 77.817
+Tuner converged in generation 85
+Tuner 465.303 219.265
+Tuner converged in generation 72
+Tuner 48.956 41.734
+Tuner 41.644 40.239
+Tuner 119.257 78.075
+Tuner converged in generation 45
+Tuner 500.313 267.464
+Tuner converged in generation 70
+Tuner 465.303 244.949
+Tuner 1368.775 76.513
+Tuner converged in generation 79
+Tuner 390.752 41.1
+Tuner 1157.63 41.539
+Tuner 50.686 42.219
+Tuner 1331.477 39.336
+Tuner 48.956 42.163
+Tuner 41.644 41.102
+Tuner 166.526 77.201
+Tuner 4761.283 43.53
+Tuner 6076.85 43.76
+Tuner converged in generation 90
+Tuner 1999.791 41.039
+Tuner 4761.283 43.189
+Tuner 693.154 46.394
+Tuner converged in generation 51
+Tuner 355.095 47.649
+Tuner converged in generation 45
+Tuner 283.056 80.069
+Tuner 506.378 48.207
+Tuner converged in generation 91
+Tuner 1368.775 77.075
+Tuner converged in generation 60
+Tuner 283.056 80.371
+Tuner 41.644 39.608
+Tuner converged in generation 67
+Tuner 51.161 41.406
+Tuner 42.912 40.865
+Tuner 4868.585 47.156
+Tuner 41.644 41.953
+Tuner 6415.976 45.683
+Tuner 1331.477 40.779
+Tuner converged in generation 78
+Tuner 1368.775 76.665
+Tuner 3096.77 43.236
+Tuner 4868.585 49.197
+Tuner converged in generation 89
+Tuner 1331.477 40.598
+Tuner 41.644 40.491
+Tuner 28613.987 50.247
+GA 40 38.857 7
+GA 41 38.857 7
+GA 42 38.857 7
+GA 43 38.857 7
+GA 44 38.857 7
+GA 45 38.857 7
+GA 46 38.857 7
+GA 47 38.857 7
+GA 48 38.857 7
+GA 49 38.857 7
+GA 50 38.857 7
+GA 51 38.857 7
+GA 52 38.857 7
+GA 53 38.857 7
+GA 54 38.857 7
+GA 55 38.857 7
+GA 56 38.857 7
+GA 57 38.857 7
+GA 58 38.857 7
+GA 59 38.857 7
+Tuner 1073.415 39.834
+Tuner 385.18 43.408
+Tuner 674.323 77.075
+Tuner 1999.604 41.637
+Tuner 41.13 40.438
+Tuner 38.857 41.214
+Tuner converged in generation 82
+Tuner 98.9 44.112
+Tuner 131.099 42.762
+Tuner 385.18 39.75
+Tuner 131.085 45.606
+Tuner converged in generation 74
+Tuner 73.272 41.77
+Tuner 38.857 41.125
+Tuner 1690.173 41.608
+Tuner 38.857 44.354
+Tuner converged in generation 77
+Tuner 124.986 76.687
+Tuner converged in generation 95
+Tuner 131.085 44.39
+Tuner 41.13 39.099
+Tuner converged in generation 87
+Tuner 16282.2 43.455
+Tuner 345.879 45.205
+Tuner 38.857 40.85
+Tuner 24419.418 43.357
+Tuner 929.853 39.386
+Tuner converged in generation 69
+Tuner 38.857 47.75
+Tuner 2160.856 42.578
+Tuner 38.857 40.406
+Tuner 483.075 41.605
+Tuner converged in generation 75
+Tuner 1999.604 46.856
+Tuner 5901.737 45.563
+Tuner converged in generation 70
+Tuner 192.967 80.023
+Tuner 385.18 47.783
+Tuner converged in generation 73
+Tuner 131.099 51.217
+Tuner 44.67 42.292
+Tuner 674.323 76.198
+Tuner 38.857 43.226
+Tuner 483.075 43.072
+Tuner 350.729 76.182
+Tuner 24419.418 48.638
+Tuner 130.399 44.353
+Tuner 1271.986 39.96
+Tuner 1999.604 47.951
+Tuner 929.853 39.532
+Tuner 38.857 42.387
+Tuner converged in generation 99
+Tuner 2891.661 40.967
+Tuner 5901.737 48.113
+Tuner 385.18 43.273
+Tuner 73.272 41.785
+Tuner 1690.173 48.45
+Tuner 1690.173 45.756
+Tuner 38.857 42.854
+Tuner 146.149 42.316
+Tuner 806.122 43.046
+Tuner converged in generation 83
+Tuner 38.857 41.132
+Tuner 485.444 77.205
+Tuner converged in generation 92
+Tuner 338.392 78.036
+Tuner 38.857 42.018
+Tuner converged in generation 98
+Tuner 38.857 42.879
+Tuner converged in generation 99
+Tuner 38.857 40.675
+Tuner 38.857 41.247
+Tuner converged in generation 93
+Tuner 806.122 40.121
+Tuner 929.853 39.119
+Tuner 98.9 45.044
+Tuner 48.998 41.414
+Tuner 24419.418 41.212
+Tuner 38.857 40.114
+Tuner converged in generation 85
+Tuner 385.18 47.192
+Tuner converged in generation 65
+Tuner 697.206 260.306
+Tuner 38.857 42.031
+Tuner 674.323 76.304
+Tuner 38.857 41.994
+Tuner 806.122 42.601
+Tuner 1999.604 45.468
+Tuner 24419.418 51.468
+Tuner 44.67 42.837
+Tuner 674.323 77.348
+Tuner converged in generation 69
+Tuner 2891.661 41.751
+Tuner 38.857 40.01
+Tuner 98.9 40.797
+Tuner 38.857 46.176
+Tuner converged in generation 68
+Tuner 692.197 260.924
+Tuner 69.964 40.047
+Tuner 98.9 47.492
+Tuner converged in generation 94
+Tuner 674.323 76.461
+GA 60 38.857 7
+GA 61 38.857 7
+GA 62 38.857 7
+GA 63 38.857 7
+GA 64 38.857 7
+GA 65 38.857 7
+GA 66 38.857 7
+GA 67 38.857 7
+GA 68 38.857 7
+GA 69 38.857 7
+GA 70 38.857 7
+GA 71 38.857 7
+GA 72 38.857 7
+GA 73 38.857 7
+GA 74 38.857 7
+GA 75 38.857 7
+GA 76 38.857 7
+GA 77 38.857 7
+GA 78 38.857 7
+GA 79 38.857 7
+Tuner 69.771 45.492
+Tuner 24419.418 52.09
+Tuner 483.075 44.509
+Tuner 192.967 79.958
+Tuner 483.075 45.7
+Tuner converged in generation 88
+Tuner 338.392 78.534
+Tuner 2891.661 40.77
+Tuner 674.323 76.65
+Tuner 485.444 76.923
+Tuner converged in generation 92
+Tuner 2160.856 45.163
+Tuner 44.67 41.669
+Tuner converged in generation 84
+Tuner 485.444 77.364
+Tuner 2891.661 40.641
+Tuner 16282.2 44.768
+Tuner 98.9 42.747
+Tuner converged in generation 86
+Tuner 41.13 40.0
+Tuner 1297.516 47.778
+Tuner 1690.173 45.003
+Tuner 38.857 46.518
+Tuner 24419.418 42.698
+Tuner converged in generation 89
+Tuner 17013.615 40.662
+Tuner 146.149 41.768
+Tuner 5901.737 49.286
+Tuner 24419.418 50.691
+Tuner 69.964 39.208
+Tuner 38.857 40.98
+Tuner converged in generation 74
+Tuner 345.879 47.229
+Tuner converged in generation 82
+Tuner 44.662 40.732
+Tuner 38.857 47.212
+Tuner 24419.418 53.887
+Tuner converged in generation 72
+Tuner 5893.797 52.219
+Tuner 483.075 46.727
+Tuner 5901.737 45.941
+Tuner 38.857 39.652
+Tuner 1999.604 40.178
+Tuner converged in generation 31
+Tuner 345.879 48.473
+Tuner 483.075 44.735
+Tuner 5901.737 44.352
+Tuner 38.857 42.255
+Tuner 1999.604 46.707
+Tuner 483.075 44.544
+Tuner 338.392 79.175
+Tuner converged in generation 91
+Tuner 345.879 47.357
+Tuner 350.729 77.269
+Tuner 146.149 46.518
+Tuner converged in generation 74
+Tuner 692.197 265.674
+Tuner 1999.604 45.868
+Tuner 983.784 49.961
+Tuner converged in generation 99
+Tuner 130.399 46.073
+Tuner converged in generation 97
+Tuner 41.13 39.524
+Tuner 1297.516 51.212
+Tuner 130.399 44.247
+Tuner converged in generation 63
+Tuner 41.13 41.591
+Tuner converged in generation 83
+Tuner 38.857 42.536
+Tuner 38.857 39.903
+Tuner converged in generation 99
+Tuner 38.857 41.425
+Tuner 38.857 39.436
+Tuner 41.13 41.181
+Tuner 5901.737 44.646
+Tuner 345.879 46.855
+Tuner 483.075 45.485
+Tuner converged in generation 96
+Tuner 38.857 42.831
+Tuner converged in generation 78
+Tuner 16282.2 41.074
+Tuner 41.13 39.628
+Tuner 806.122 42.864
+Tuner 38.857 41.829
+Tuner converged in generation 94
+Tuner 697.206 261.234
+Tuner 38.857 42.123
+Tuner 38.857 41.304
+Tuner 155.829 79.798
+Tuner 1999.604 46.417
+Tuner 483.075 49.669
+Tuner 17653.494 44.715
+Tuner 38.857 40.707
+Tuner converged in generation 79
+Tuner 338.392 80.969
+Tuner 69.964 40.924
+Tuner 514.65 42.47
+Tuner 5901.737 53.574
+Tuner converged in generation 63
+Tuner 929.853 42.076
+Tuner 131.099 43.361
+Tuner 1297.516 45.219
+Tuner 131.099 43.722
+Tuner 130.399 43.825
+Tuner 155.829 77.737
+Tuner 350.729 76.334
+GA 80 38.857 7
+GA 81 38.857 7
+GA 82 38.857 7
+GA 83 38.857 7
+GA 84 38.857 7
+GA 85 38.857 7
+GA 86 38.857 7
+GA 87 38.857 7
+GA 88 38.857 7
+GA 89 38.857 7
+GA 90 38.857 7
+GA 91 38.857 7
+GA 92 38.857 7
+GA 93 38.857 7
+GA 94 38.857 7
+GA 95 38.857 7
+GA 96 38.857 7
+GA 97 38.857 7
+GA 98 38.857 7
+GA 99 38.857 7
+Tuner converged in generation 88
+Tuner 155.829 76.898
+Tuner 131.085 47.083
+Tuner 483.075 44.594
+Tuner 485.444 77.246
+Tuner 131.085 42.829
+Tuner converged in generation 68
+Tuner 674.323 76.704
+Tuner converged in generation 97
+Tuner 38.857 41.828
+Tuner 345.879 46.149
+Tuner converged in generation 86
+Tuner 40.777 40.212
+Tuner 41.13 39.328
+Tuner converged in generation 87
+Tuner 38.857 46.0
+Tuner 38.857 38.771
+Tuner 350.729 76.711
+Tuner 483.075 39.544
+Tuner 146.149 41.288
+Tuner 124.986 77.289
+Tuner converged in generation 85
+Tuner 350.729 76.274
+Tuner converged in generation 87
+Tuner 697.206 260.556
+Tuner 1999.604 46.811
+Tuner 38.857 44.965
+Tuner converged in generation 57
+Tuner 929.853 39.352
+Tuner 38.857 44.204
+Tuner 1690.173 41.914
+Tuner 2891.661 41.392
+Tuner converged in generation 79
+Tuner 619.182 231.567
+Tuner converged in generation 99
+Tuner 345.879 47.358
+Tuner converged in generation 46
+Tuner 2891.661 42.555
+Tuner 27281.037 44.469
+Tuner 345.879 45.1
+Tuner converged in generation 67
+Tuner 338.392 81.426
+Tuner 131.099 39.855
+Tuner 692.197 261.022
+Tuner converged in generation 85
+Tuner 485.444 76.843
+Tuner 130.399 50.413
+Tuner 16282.2 48.287
+Tuner 38.857 40.568
+Tuner 1690.173 42.58
+Tuner converged in generation 56
+Tuner 619.182 236.095
+Tuner converged in generation 95
+Tuner 2891.661 42.202
+Tuner converged in generation 87
+Tuner 38.857 44.923
+Tuner 1073.415 39.007
+Tuner 38.857 42.895
+Tuner 1297.516 46.148
+Tuner 1690.173 42.396
+Tuner 71.989 41.252
+Tuner 69.964 39.775
+Tuner 38.857 40.455
+Tuner 41.13 41.093
+Tuner 38.857 39.164
+Tuner 16282.2 45.666
+Tuner converged in generation 84
+Tuner 1999.604 49.997
+Tuner 48.998 40.382
+Tuner 1297.516 49.835
+Tuner 1999.604 54.572
+Tuner 160.101 40.192
+Tuner 16282.2 42.596
+Tuner 38.857 43.641
+Tuner converged in generation 67
+Tuner 345.879 47.895
+Tuner 38.857 41.429
+Tuner 124.986 77.392
+Tuner 697.206 260.094
+Tuner 5901.737 42.573
+Tuner 929.853 39.911
+Tuner 1690.173 47.438
+Tuner 38.857 48.601
+Tuner converged in generation 46
+Tuner 192.967 79.912
+Tuner 38.857 39.426
+Tuner converged in generation 95
+Tuner 131.085 48.527
+Tuner 674.323 76.677
+Tuner 697.206 261.924
+Tuner 350.729 76.598
+Tuner 483.075 47.659
+Tuner 806.122 43.597
+Tuner 806.122 43.668
+Tuner 38.857 43.008
+Tuner 1297.516 49.354
+Tuner 38.857 40.617
+Tuner converged in generation 88
+Tuner 38.857 41.157
+Tuner converged in generation 78
+Tuner 38.857 41.207
+Tuner 385.18 42.477
+Tuner converged in generation 84
+Tuner 192.967 79.976
+Tuner 483.075 47.857
+Tuner 55.91 41.039
+Tuner 350.729 76.262
+Tuner converged in generation 91
+Tuner 483.075 44.705
+Tuner 16282.2 43.314
+GA 100 38.771 7
+Terminating at
+	100 generations
+	4303300 evaluations
+	18254.27 seconds
+KFold Run: 2
+Training
+	MSE: 38.771
+	Rsquared: 0.572
+Testing
+	MSE: 17.448
+	Rsquared: -1.487
+
+Run3
+GA 1 208.806 11
+GA 2 208.806 11
+GA 3 150.118 5
+GA 4 127.794 7
+GA 5 92.377 21
+GA 6 61.447 17
+GA 7 51.754 23
+GA 8 39.65 39
+GA 9 39.65 39
+GA 10 39.65 39
+GA 11 39.65 39
+GA 12 37.771 37
+GA 13 37.771 37
+GA 14 34.459 39
+GA 15 34.459 39
+GA 16 32.873 41
+GA 17 31.537 39
+GA 18 31.537 39
+GA 19 31.537 39
+Tuner 339.378 65.465
+Tuner 64.347 65.14
+Tuner 90.996 72.39
+Tuner 38.249 62.764
+Tuner 226.127 56.956
+Tuner 34.298 42.287
+Tuner 33.97 47.21
+Tuner 38.565 157.502
+Tuner 42.573 65.116
+Tuner 544.184 58.36
+Tuner 41.183 51.097
+Tuner 31.537 52.001
+Tuner 31.537 52.596
+Tuner 203.34 73.458
+Tuner 41.559 73.458
+Tuner 78.32 273.328
+Tuner 41.862 68.638
+Tuner 95.643 132.13
+Tuner 33.256 42.719
+Tuner 76.243 58.044
+Tuner 34.87 64.981
+Tuner 343.028 42.69
+Tuner 33.04 57.315
+Tuner 32.655 176.449
+Tuner 79.012 188.524
+Tuner 521.336 42.767
+Tuner 100.849 65.274
+Tuner 37.206 53.58
+Tuner 92.436 67.563
+Tuner 34.459 65.962
+Tuner 35.524 36.335
+Tuner 43.108 307.649
+Tuner 86.499 70.065
+Tuner 39.637 280.245
+Tuner converged in generation 74
+Tuner 46.088 36.776
+Tuner 34.627 67.812
+Tuner 33.943 131.277
+Tuner 34.734 68.722
+Tuner 36.337 68.733
+Tuner 86.083 59.279
+Tuner 43.146 67.394
+Tuner 36.789 54.278
+Tuner 33.875 96.248
+Tuner 32.629 61.756
+Tuner 75.548 241.548
+Tuner 76.8 49.115
+Tuner 73.291 139.619
+Tuner 87.897 66.699
+Tuner 39.213 66.683
+Tuner 78.039 53.91
+Tuner 90.234 69.182
+Tuner 77.306 86.807
+Tuner 266.429 44.736
+Tuner 212.182 219.527
+Tuner 31.517 71.311
+Tuner 34.459 56.202
+Tuner 76.243 74.208
+Tuner 2099.56 65.584
+Tuner 210.03 64.803
+Tuner 33.466 75.855
+Tuner 363.323 74.182
+Tuner 74.744 246.217
+Tuner 87.85 66.357
+Tuner converged in generation 63
+Tuner 569.634 26.583
+Tuner 39.049 68.127
+Tuner 34.735 71.491
+Tuner 33.192 61.53
+Tuner 348.32 64.852
+Tuner 209.148 51.015
+Tuner 78.483 70.015
+Tuner 76.929 115.556
+Tuner 112.78 67.39
+Tuner 187.274 36.465
+Tuner 38.462 64.248
+Tuner 81.471 56.184
+Tuner 78.27 70.427
+Tuner 34.459 57.902
+Tuner 40.893 67.249
+Tuner 32.873 42.518
+Tuner 38.556 43.961
+Tuner 35.18 86.884
+Tuner 210.03 64.841
+Tuner 118.3 87.707
+Tuner 99.199 52.418
+Tuner 34.509 73.492
+Tuner 793.737 73.506
+Tuner 326.297 73.871
+Tuner 34.093 40.496
+Tuner 311.649 186.063
+Tuner 538.426 61.01
+Tuner 40.441 73.456
+Tuner 38.547 70.625
+Tuner 93.079 68.206
+Tuner 37.654 48.766
+GA 20 26.583 3
+GA 21 26.583 3
+GA 22 26.583 3
+GA 23 26.583 3
+GA 24 26.583 3
+GA 25 26.583 3
+GA 26 26.583 3
+GA 27 26.583 3
+GA 28 26.583 3
+GA 29 26.583 3
+GA 30 26.583 3
+GA 31 26.583 3
+GA 32 26.583 3
+GA 33 26.583 3
+GA 34 26.583 3
+GA 35 26.583 3
+GA 36 26.583 3
+GA 37 26.583 3
+GA 38 26.583 3
+GA 39 26.583 3
+Tuner converged in generation 85
+Tuner 26.583 29.826
+Tuner 26.583 29.982
+Tuner converged in generation 60
+Tuner 26.583 39.895
+Tuner 26.583 36.404
+Tuner converged in generation 72
+Tuner 26.583 25.639
+Tuner converged in generation 74
+Tuner 12650.458 58.184
+Tuner converged in generation 71
+Tuner 26.583 26.804
+Tuner converged in generation 65
+Tuner 26.583 33.536
+Tuner converged in generation 46
+Tuner 26.583 31.661
+Tuner converged in generation 84
+Tuner 107.165 39.963
+Tuner 12650.458 45.354
+Tuner 53.872 33.176
+Tuner 12650.458 45.045
+Tuner converged in generation 82
+Tuner 53.872 37.742
+Tuner converged in generation 39
+Tuner 26.583 38.409
+Tuner converged in generation 57
+Tuner 53.872 42.679
+Tuner 26.583 31.771
+Tuner 12650.458 36.193
+Tuner converged in generation 84
+Tuner 26.583 29.931
+Tuner 26.583 33.554
+Tuner 26.583 29.012
+Tuner 12650.458 49.135
+Tuner converged in generation 39
+Tuner 26.583 35.761
+Tuner converged in generation 42
+Tuner 26.583 35.661
+Tuner 26.583 30.836
+Tuner 12650.458 37.331
+Tuner converged in generation 95
+Tuner 26.583 30.725
+Tuner converged in generation 90
+Tuner 26.583 30.18
+Tuner converged in generation 84
+Tuner 26.583 28.079
+Tuner 4528.064 47.127
+Tuner converged in generation 85
+Tuner 26.583 32.006
+Tuner 12650.458 34.947
+Tuner 26.583 26.527
+Tuner 26.583 35.714
+Tuner 26.583 32.576
+Tuner converged in generation 78
+Tuner 26.583 26.445
+Tuner 26.583 32.738
+Tuner 26.583 32.152
+Tuner converged in generation 74
+Tuner 26.583 29.632
+Tuner 4528.064 37.803
+Tuner 4528.064 29.773
+Tuner 26.583 29.288
+Tuner converged in generation 55
+Tuner 107.165 40.109
+Tuner converged in generation 77
+Tuner 12650.458 53.678
+Tuner 26.583 28.497
+Tuner converged in generation 87
+Tuner 26.583 26.628
+Tuner converged in generation 84
+Tuner 12650.458 37.589
+Tuner converged in generation 80
+Tuner 26.583 33.682
+Tuner 4528.064 42.704
+Tuner converged in generation 61
+Tuner 26.583 27.82
+Tuner 26.583 26.985
+Tuner 12650.458 45.447
+Tuner converged in generation 92
+Tuner 26.583 31.268
+Tuner 26.583 33.327
+Tuner 107.165 43.627
+Tuner 12650.458 52.537
+Tuner converged in generation 85
+Tuner 12650.458 41.599
+Tuner converged in generation 34
+Tuner 26.583 26.666
+Tuner 26.583 29.471
+Tuner 107.165 41.896
+Tuner converged in generation 60
+Tuner 26.583 32.021
+Tuner 4528.064 30.146
+Tuner 26.583 30.631
+Tuner 12650.458 51.022
+Tuner 4528.064 33.906
+Tuner 26.583 40.103
+Tuner 4528.064 28.607
+Tuner converged in generation 39
+Tuner 26.583 31.993
+Tuner converged in generation 83
+Tuner 26.583 33.556
+Tuner converged in generation 68
+Tuner 12650.458 37.443
+Tuner converged in generation 37
+Tuner 26.583 35.734
+Tuner 107.165 42.371
+Tuner 26.583 27.066
+Tuner 26.583 26.435
+Tuner 26.583 28.206
+Tuner converged in generation 78
+Tuner 26.583 26.526
+Tuner converged in generation 78
+Tuner 26.583 26.924
+Tuner converged in generation 47
+Tuner 26.583 27.244
+Tuner converged in generation 49
+Tuner 26.583 29.237
+Tuner converged in generation 50
+Tuner 26.583 27.658
+Tuner converged in generation 48
+Tuner 107.165 51.385
+Tuner converged in generation 99
+Tuner 4528.064 42.758
+Tuner converged in generation 72
+Tuner 26.583 27.844
+GA 40 25.639 3
+GA 41 25.639 3
+GA 42 25.639 3
+GA 43 25.639 3
+GA 44 25.639 3
+GA 45 25.639 3
+GA 46 25.639 3
+GA 47 25.639 3
+GA 48 25.639 3
+GA 49 25.639 3
+GA 50 25.639 3
+GA 51 25.639 3
+GA 52 25.639 3
+GA 53 25.639 3
+GA 54 25.639 3
+GA 55 25.639 3
+GA 56 25.639 3
+GA 57 25.639 3
+GA 58 25.639 3
+GA 59 25.639 3
+Tuner 3929.096 47.71
+Tuner converged in generation 80
+Tuner 14864.267 25.478
+Tuner 50.898 33.905
+Tuner 14864.267 49.505
+Tuner 25.639 27.264
+Tuner converged in generation 83
+Tuner 25.639 37.412
+Tuner converged in generation 52
+Tuner 25.639 36.614
+Tuner converged in generation 71
+Tuner 25.639 26.023
+Tuner 25.639 28.212
+Tuner 3929.096 30.605
+Tuner converged in generation 53
+Tuner 25.639 29.816
+Tuner converged in generation 89
+Tuner 14864.267 49.188
+Tuner converged in generation 89
+Tuner 25.639 32.34
+Tuner converged in generation 72
+Tuner 14864.267 34.82
+Tuner converged in generation 85
+Tuner 14864.267 46.333
+Tuner 14864.267 50.001
+Tuner 25.639 29.958
+Tuner converged in generation 75
+Tuner 25.639 35.456
+Tuner converged in generation 39
+Tuner 25.639 38.489
+Tuner converged in generation 41
+Tuner 50.898 33.035
+Tuner 14864.267 64.643
+Tuner converged in generation 55
+Tuner 14864.267 39.757
+Tuner converged in generation 77
+Tuner 50.898 32.363
+Tuner converged in generation 57
+Tuner 25.639 34.238
+Tuner converged in generation 53
+Tuner 3929.096 50.429
+Tuner converged in generation 84
+Tuner 25.639 26.047
+Tuner converged in generation 55
+Tuner 25.639 27.346
+Tuner converged in generation 94
+Tuner 25.639 36.725
+Tuner converged in generation 61
+Tuner 25.639 32.727
+Tuner converged in generation 86
+Tuner 25.639 28.346
+Tuner converged in generation 78
+Tuner 50.898 32.673
+Tuner converged in generation 94
+Tuner 25.639 29.979
+Tuner converged in generation 87
+Tuner 119.62 44.199
+Tuner converged in generation 89
+Tuner 25.639 27.03
+Tuner converged in generation 69
+Tuner 14864.267 27.774
+Tuner 3929.096 63.165
+Tuner converged in generation 98
+Tuner 14864.267 26.621
+Tuner converged in generation 90
+Tuner 25.639 29.206
+Tuner converged in generation 78
+Tuner 25.639 34.183
+Tuner converged in generation 75
+Tuner 25.639 32.079
+Tuner 25.639 33.632
+Tuner converged in generation 71
+Tuner 50.898 33.948
+Tuner converged in generation 88
+Tuner 14864.267 44.977
+Tuner converged in generation 62
+Tuner 14864.267 34.701
+Tuner converged in generation 99
+Tuner 119.62 44.6
+Tuner converged in generation 69
+Tuner 25.639 28.684
+Tuner converged in generation 74
+Tuner 3929.096 27.696
+Tuner converged in generation 91
+Tuner 14864.267 54.304
+Tuner 25.639 31.942
+Tuner converged in generation 67
+Tuner 3929.096 34.286
+Tuner converged in generation 41
+Tuner 25.639 29.61
+Tuner 14864.267 30.448
+Tuner converged in generation 91
+Tuner 25.639 30.464
+Tuner 25.639 29.811
+Tuner 119.62 40.193
+Tuner converged in generation 65
+Tuner 3929.096 37.49
+Tuner 14864.267 58.196
+Tuner converged in generation 63
+Tuner 119.62 45.868
+Tuner converged in generation 83
+Tuner 14864.267 43.395
+Tuner converged in generation 86
+Tuner 3929.096 27.497
+Tuner converged in generation 59
+Tuner 25.639 26.966
+Tuner converged in generation 79
+Tuner 25.639 34.264
+Tuner converged in generation 92
+Tuner 50.898 35.316
+Tuner 119.62 41.068
+Tuner converged in generation 71
+Tuner 3929.096 29.465
+Tuner converged in generation 61
+Tuner 25.639 38.137
+Tuner converged in generation 70
+Tuner 25.639 25.619
+Tuner 14864.267 40.31
+Tuner converged in generation 53
+Tuner 25.639 36.483
+Tuner 25.639 29.231
+Tuner converged in generation 85
+Tuner 14864.267 31.597
+Tuner converged in generation 72
+Tuner 3929.096 34.23
+Tuner converged in generation 96
+Tuner 50.898 33.079
+Tuner 25.639 31.532
+Tuner converged in generation 73
+Tuner 25.639 28.426
+Tuner 14864.267 42.583
+GA 60 25.478 5
+GA 61 25.478 5
+GA 62 25.478 5
+GA 63 25.478 5
+GA 64 25.478 5
+GA 65 25.478 5
+GA 66 25.478 5
+GA 67 25.478 5
+GA 68 25.478 5
+GA 69 25.478 5
+GA 70 25.478 5
+GA 71 25.478 5
+GA 72 25.478 5
+GA 73 25.478 5
+GA 74 25.478 5
+GA 75 25.478 5
+GA 76 25.478 5
+GA 77 25.478 5
+GA 78 25.478 5
+GA 79 25.478 5
+Tuner converged in generation 67
+Tuner 1240.317 59.185
+Tuner converged in generation 90
+Tuner 25.478 31.46
+Tuner 90.571 52.627
+Tuner 25.478 37.081
+Tuner 25.478 41.161
+Tuner converged in generation 97
+Tuner 340.047 119.991
+Tuner converged in generation 98
+Tuner 13802.303 111.465
+Tuner 25.478 48.769
+Tuner converged in generation 57
+Tuner 25.478 29.684
+Tuner 5501.481 76.227
+Tuner 13802.303 90.467
+Tuner 25.478 43.288
+Tuner converged in generation 92
+Tuner 238.357 52.965
+Tuner 90.571 42.08
+Tuner converged in generation 68
+Tuner 25.478 62.702
+Tuner 25.478 32.183
+Tuner 25.478 50.677
+Tuner 3414.227 51.603
+Tuner converged in generation 86
+Tuner 25.478 50.468
+Tuner 155.343 41.971
+Tuner 25.478 45.64
+Tuner 5501.481 65.725
+Tuner converged in generation 74
+Tuner 155.343 43.311
+Tuner 25.478 46.529
+Tuner 25.478 31.574
+Tuner 5501.481 30.386
+Tuner converged in generation 97
+Tuner 13802.303 115.546
+Tuner converged in generation 78
+Tuner 90.571 50.253
+Tuner converged in generation 99
+Tuner 25.478 33.382
+Tuner 781.232 27.875
+Tuner 3414.227 43.72
+Tuner 25.478 33.602
+Tuner converged in generation 86
+Tuner 155.343 41.465
+Tuner converged in generation 93
+Tuner 46.412 30.216
+Tuner 5501.481 120.659
+Tuner 13802.303 47.43
+Tuner converged in generation 57
+Tuner 155.343 40.142
+Tuner 25.478 43.804
+Tuner 25.478 57.166
+Tuner converged in generation 84
+Tuner 3773.879 48.598
+Tuner converged in generation 70
+Tuner 238.357 55.159
+Tuner converged in generation 66
+Tuner 25.478 54.485
+Tuner 25.478 58.587
+Tuner 13802.303 54.954
+Tuner 25.478 50.27
+Tuner 5501.481 116.162
+Tuner 13802.303 82.027
+Tuner 155.343 43.403
+Tuner 5501.481 71.539
+Tuner 13802.303 71.952
+Tuner converged in generation 74
+Tuner 155.343 40.163
+Tuner converged in generation 43
+Tuner 781.232 39.603
+Tuner 155.343 51.264
+Tuner 90.571 60.925
+Tuner 238.357 29.388
+Tuner 25.478 41.631
+Tuner converged in generation 96
+Tuner 5501.481 180.155
+Tuner converged in generation 98
+Tuner 3414.227 82.211
+Tuner converged in generation 62
+Tuner 155.343 46.165
+Tuner converged in generation 72
+Tuner 340.047 80.143
+Tuner 90.571 50.7
+Tuner converged in generation 68
+Tuner 3773.879 108.22
+Tuner converged in generation 91
+Tuner 781.232 29.614
+Tuner 781.232 34.318
+Tuner converged in generation 51
+Tuner 155.343 39.803
+Tuner 25.478 48.171
+Tuner 5501.481 70.289
+Tuner 13802.303 53.094
+Tuner converged in generation 99
+Tuner 25.478 76.249
+Tuner converged in generation 97
+Tuner 25.478 69.671
+Tuner 13802.303 46.024
+Tuner 25.478 55.664
+Tuner converged in generation 91
+Tuner 25.478 42.261
+Tuner converged in generation 72
+Tuner 578.258 101.986
+Tuner converged in generation 63
+Tuner 5501.481 116.17
+Tuner 13802.303 100.955
+Tuner converged in generation 97
+Tuner 25.478 45.218
+Tuner 3414.227 49.597
+Tuner 25.478 53.568
+Tuner 13802.303 71.869
+Tuner 46.412 32.677
+Tuner 13802.303 57.681
+Tuner 90.571 76.716
+Tuner converged in generation 94
+Tuner 578.258 143.338
+Tuner 90.571 40.884
+Tuner 25.478 49.586
+GA 80 25.478 5
+GA 81 25.478 5
+GA 82 25.478 5
+GA 83 25.478 5
+GA 84 25.478 5
+GA 85 25.478 5
+GA 86 25.478 5
+GA 87 25.478 5
+GA 88 25.478 5
+GA 89 25.478 5
+GA 90 25.478 5
+GA 91 25.478 5
+GA 92 25.478 5
+GA 93 25.478 5
+GA 94 25.478 5
+GA 95 25.478 5
+GA 96 25.478 5
+GA 97 25.478 5
+GA 98 25.478 5
+GA 99 25.478 5
+Tuner 5501.481 132.876
+Tuner 5501.481 186.228
+Tuner 25.478 54.432
+Tuner 25.478 29.475
+Tuner 25.478 37.251
+Tuner 25.478 53.306
+Tuner 340.047 49.214
+Tuner 3773.879 96.647
+Tuner 13802.303 79.948
+Tuner converged in generation 50
+Tuner 90.571 64.049
+Tuner 5501.481 179.379
+Tuner 155.343 43.405
+Tuner 5501.481 143.691
+Tuner 340.047 120.442
+Tuner converged in generation 96
+Tuner 25.478 40.963
+Tuner 5501.481 48.207
+Tuner 13802.303 46.229
+Tuner converged in generation 70
+Tuner 25.478 53.127
+Tuner converged in generation 85
+Tuner 3414.227 83.398
+Tuner converged in generation 81
+Tuner 106.956 29.38
+Tuner 238.357 59.588
+Tuner 25.478 40.388
+Tuner converged in generation 86
+Tuner 25.478 61.359
+Tuner 25.478 50.357
+Tuner 90.571 59.119
+Tuner 155.343 43.716
+Tuner converged in generation 74
+Tuner 25.478 55.998
+Tuner 13802.303 75.687
+Tuner 5501.481 125.822
+Tuner converged in generation 87
+Tuner 253.902 112.196
+Tuner 25.478 61.646
+Tuner converged in generation 85
+Tuner 25.478 46.166
+Tuner converged in generation 86
+Tuner 578.258 74.283
+Tuner converged in generation 72
+Tuner 155.343 40.535
+Tuner converged in generation 87
+Tuner 13802.303 79.013
+Tuner converged in generation 49
+Tuner 106.956 29.024
+Tuner converged in generation 80
+Tuner 3773.879 70.115
+Tuner converged in generation 76
+Tuner 106.956 32.409
+Tuner converged in generation 83
+Tuner 5501.481 93.044
+Tuner 578.258 69.294
+Tuner 90.571 56.582
+Tuner 37.991 49.052
+Tuner converged in generation 85
+Tuner 340.047 83.312
+Tuner converged in generation 71
+Tuner 3773.879 89.291
+Tuner 25.478 53.368
+Tuner converged in generation 53
+Tuner 25.478 30.505
+Tuner 238.357 126.727
+Tuner 1447.049 70.988
+Tuner 13802.303 148.405
+Tuner converged in generation 71
+Tuner 46.412 35.285
+Tuner converged in generation 64
+Tuner 106.956 26.291
+Tuner converged in generation 54
+Tuner 25.478 59.586
+Tuner converged in generation 54
+Tuner 90.571 51.071
+Tuner 25.478 63.136
+Tuner 3414.227 73.81
+Tuner 578.258 55.037
+Tuner 25.478 41.505
+Tuner converged in generation 56
+Tuner 25.478 39.497
+Tuner 106.956 29.37
+Tuner 25.478 24.594
+Tuner 3414.227 48.769
+Tuner 3414.227 51.223
+Tuner 37.991 44.628
+Tuner 13802.303 123.097
+Tuner converged in generation 79
+Tuner 3773.879 56.878
+Tuner 46.412 36.833
+Tuner converged in generation 79
+Tuner 106.956 29.264
+Tuner 9061.872 58.022
+Tuner converged in generation 91
+Tuner 5501.481 213.747
+Tuner 37.991 26.302
+Tuner 5501.481 92.128
+Tuner 13802.303 106.904
+Tuner 90.571 54.239
+Tuner 5501.481 93.742
+Tuner converged in generation 79
+Tuner 781.232 32.888
+Tuner converged in generation 67
+Tuner 90.571 48.792
+Tuner 25.478 80.878
+Tuner 781.232 36.783
+Tuner 155.343 47.085
+Tuner 7065.839 73.224
+GA 100 24.594 5
+Terminating at
+	100 generations
+	3833500 evaluations
+	17488.64 seconds
+KFold Run: 3
+Training
+	MSE: 24.594
+	Rsquared: 0.665
+Testing
+	MSE: 19.687
+	Rsquared: 0.799
+
+Run4
+GA 1 224.07 11
+GA 2 224.07 11
+GA 3 156.347 11
+GA 4 110.215 17
+GA 5 64.767 21
+GA 6 52.615 35
+GA 7 51.045 19
+GA 8 51.045 19
+GA 9 40.844 19
+GA 10 40.264 19
+GA 11 39.507 33
+GA 12 36.112 25
+GA 13 36.112 25
+GA 14 36.112 25
+GA 15 33.428 33
+GA 16 33.428 33
+GA 17 33.428 33
+GA 18 30.896 31
+GA 19 30.896 31
+Tuner 1373.264 53.216
+Tuner 280.697 46.387
+Tuner 39.035 60.822
+Tuner 33.428 82.852
+Tuner 185.006 76.306
+Tuner 1841.541 75.21
+Tuner 111.444 40.65
+Tuner 355.534 49.183
+Tuner 1012.541 82.607
+Tuner 59.077 69.86
+Tuner 49.115 72.832
+Tuner 49.696 73.532
+Tuner 33.428 67.956
+Tuner 43.037 57.401
+Tuner 53.095 73.301
+Tuner 75.955 82.704
+Tuner 924.663 80.032
+Tuner 619.605 70.013
+Tuner 71.361 70.922
+Tuner 71.824 48.809
+Tuner 402.724 51.446
+Tuner 112.225 37.79
+Tuner converged in generation 60
+Tuner 598.029 75.392
+Tuner 5444.523 80.515
+Tuner 89.692 44.065
+Tuner 43.043 71.61
+Tuner 108.57 63.566
+Tuner 69.813 60.666
+Tuner 67.395 77.724
+Tuner 356.072 69.588
+Tuner 603.215 84.458
+Tuner 578.904 69.979
+Tuner 2380.544 58.27
+Tuner 146.031 67.288
+Tuner 64.77 82.624
+Tuner 50.958 42.576
+Tuner 60.364 78.385
+Tuner 65.119 72.852
+Tuner 266.016 61.246
+Tuner 358.829 31.996
+Tuner 284.494 60.705
+Tuner 2519.772 50.502
+Tuner 7059.499 76.682
+Tuner 51.34 72.851
+Tuner 38.133 52.729
+Tuner 52.099 63.417
+Tuner 598.224 79.459
+Tuner 255.766 68.311
+Tuner 33.294 82.622
+Tuner 228.842 44.32
+Tuner 331.715 52.375
+Tuner 132.008 74.389
+Tuner 60.438 42.263
+Tuner 61.631 49.165
+Tuner 522.451 51.036
+Tuner 274.116 69.743
+Tuner 561.541 70.399
+Tuner 36.112 49.025
+Tuner 35.357 57.995
+Tuner 417.165 87.378
+Tuner 85.349 78.581
+Tuner 295.576 69.091
+Tuner 43.037 51.373
+Tuner 353.525 37.771
+Tuner 288.625 37.016
+Tuner 127.031 72.431
+Tuner 75.713 82.618
+Tuner 112.556 72.625
+Tuner 395.015 69.062
+Tuner 91.619 68.691
+Tuner 34.67 82.836
+Tuner 597.416 83.023
+Tuner 1517.185 84.499
+Tuner 43.587 82.62
+Tuner 170.351 73.391
+Tuner 284.213 82.995
+Tuner 118.086 57.43
+Tuner 72.523 76.903
+Tuner 53.259 39.889
+Tuner 249.933 38.872
+Tuner 39.874 55.76
+Tuner 65.119 48.867
+Tuner 89.692 46.826
+Tuner 279.185 80.693
+Tuner 120.459 51.792
+Tuner 4749.615 72.695
+Tuner 36.779 57.774
+Tuner 2120.242 72.971
+Tuner 39.315 61.431
+Tuner 242.498 52.09
+Tuner 344.734 38.743
+Tuner 42.296 42.739
+Tuner converged in generation 74
+Tuner 282.203 70.128
+Tuner 35.514 70.716
+Tuner 638.179 83.001
+Tuner 3470.835 64.146
+GA 20 30.896 31
+GA 21 30.896 31
+GA 22 30.896 31
+GA 23 30.896 31
+GA 24 30.752 37
+GA 25 30.752 37
+GA 26 30.155 31
+GA 27 30.155 31
+GA 28 30.155 31
+GA 29 30.155 31
+GA 30 30.155 31
+GA 31 30.155 31
+GA 32 30.155 31
+GA 33 30.155 31
+GA 34 30.155 31
+GA 35 30.155 31
+GA 36 30.155 31
+GA 37 30.155 31
+GA 38 30.155 31
+GA 39 30.155 31
+Tuner 380.727 75.105
+Tuner 99.518 82.609
+Tuner 30.673 72.976
+Tuner 1693.068 83.903
+Tuner 30.987 77.401
+Tuner 253.353 82.853
+Tuner 4771.315 79.724
+Tuner 624.665 82.701
+Tuner 619.71 83.255
+Tuner 522.451 51.837
+Tuner 145.326 78.762
+Tuner 394.367 256.601
+Tuner 32.709 70.565
+Tuner 32.289 82.845
+Tuner 35.431 82.612
+Tuner 35.94 49.436
+Tuner 54.279 79.215
+Tuner 119.237 74.734
+Tuner 429.87 77.037
+Tuner 914.01 82.983
+Tuner 54.452 82.609
+Tuner 528.543 49.892
+Tuner 396.862 72.402
+Tuner 30.673 72.172
+Tuner 240.687 376.718
+Tuner 430.745 83.016
+Tuner 395.015 67.777
+Tuner 91.836 79.843
+Tuner 33.071 41.092
+Tuner 578.904 68.511
+Tuner 117.938 62.054
+Tuner 177.767 72.628
+Tuner 458.577 79.93
+Tuner 32.649 81.313
+Tuner 429.87 50.192
+Tuner 52.04 115.258
+Tuner 62.918 78.818
+Tuner 390.131 72.16
+Tuner 429.87 61.772
+Tuner 42.981 80.464
+Tuner converged in generation 64
+Tuner 390.131 40.108
+Tuner 149.76 82.776
+Tuner 242.647 78.459
+Tuner 32.649 76.645
+Tuner 242.354 71.379
+Tuner 133.736 82.633
+Tuner 207.959 82.835
+Tuner 433.521 69.956
+Tuner 127.643 83.864
+Tuner converged in generation 64
+Tuner 598.029 77.132
+Tuner converged in generation 74
+Tuner 499.651 46.571
+Tuner 923.144 82.863
+Tuner 53.965 55.755
+Tuner 130.554 69.994
+Tuner 126.389 76.852
+Tuner 113.487 75.847
+Tuner 33.717 73.441
+Tuner 30.752 74.421
+Tuner 194.051 71.974
+Tuner 143.739 56.332
+Tuner 32.709 79.699
+Tuner 53.591 139.394
+Tuner 117.295 79.496
+Tuner 38.299 83.059
+Tuner 1156.388 69.348
+Tuner converged in generation 78
+Tuner 713.468 48.096
+Tuner 390.08 65.874
+Tuner 156.344 81.638
+Tuner 42.032 81.501
+Tuner 118.207 86.236
+Tuner 145.326 67.621
+Tuner 128.426 81.641
+Tuner 128.002 83.282
+Tuner 262.157 82.714
+Tuner 142.496 85.081
+Tuner 124.913 77.935
+Tuner 33.246 74.46
+Tuner 35.431 82.609
+Tuner 124.442 71.999
+Tuner 3779.933 82.361
+Tuner 1843.747 82.622
+Tuner 97.688 74.208
+Tuner 514.955 69.672
+Tuner 439.446 82.61
+Tuner 126.389 73.446
+Tuner 1479.492 82.806
+Tuner 102.825 82.667
+Tuner 30.752 79.62
+Tuner 103.94 38.984
+Tuner 573.051 83.091
+Tuner 139.808 67.129
+Tuner 132.306 78.558
+Tuner 611.327 122.748
+Tuner converged in generation 66
+Tuner 403.549 69.159
+Tuner 419.734 82.79
+Tuner 62.771 82.631
+Tuner 95.352 80.07
+Tuner 881.015 83.903
+Tuner 1117.237 82.667
+Tuner 128.542 75.786
+GA 40 30.155 31
+GA 41 30.155 31
+GA 42 30.155 31
+GA 43 30.155 31
+GA 44 30.155 31
+GA 45 30.155 31
+GA 46 30.155 31
+GA 47 30.155 31
+GA 48 30.155 31
+GA 49 30.155 31
+GA 50 30.155 31
+GA 51 30.155 31
+GA 52 30.155 31
+GA 53 30.155 31
+GA 54 30.155 31
+GA 55 30.155 31
+GA 56 30.155 31
+GA 57 30.155 31
+GA 58 30.155 31
+GA 59 30.155 31
+Tuner 803.444 82.509
+Tuner 40.95 66.46
+Tuner 33.499 75.849
+Tuner 1104.881 83.31
+Tuner 837.858 49.719
+Tuner 1780.472 76.628
+Tuner 395.015 82.694
+Tuner 418.653 82.631
+Tuner 93.699 66.439
+Tuner 42.477 82.609
+Tuner 238.378 46.727
+Tuner 594.305 82.616
+Tuner 114.856 70.899
+Tuner 32.794 74.578
+Tuner 107.399 82.637
+Tuner 97.959 79.085
+Tuner 127.626 82.609
+Tuner 91.528 56.77
+Tuner 39.575 82.83
+Tuner 34.452 81.004
+Tuner 33.126 67.087
+Tuner 52.824 73.651
+Tuner 52.371 70.856
+Tuner 62.037 66.013
+Tuner 803.085 83.058
+Tuner 125.626 82.612
+Tuner 388.184 69.339
+Tuner 2102.519 79.4
+Tuner 376.475 82.681
+Tuner 43.63 59.578
+Tuner 114.308 82.652
+Tuner 354.09 82.611
+Tuner 40.95 82.814
+Tuner 134.88 82.637
+Tuner 35.395 82.615
+Tuner 30.306 82.622
+Tuner 369.407 69.607
+Tuner 519.312 44.862
+Tuner 52.371 52.392
+Tuner 541.203 70.825
+Tuner 112.453 82.613
+Tuner 395.015 77.98
+Tuner 32.794 78.201
+Tuner 34.281 73.282
+Tuner 201.071 73.863
+Tuner 115.972 76.156
+Tuner 112.765 49.325
+Tuner 33.491 76.663
+Tuner 418.653 37.611
+Tuner 179.268 82.612
+Tuner 72.351 53.538
+Tuner 32.246 54.382
+Tuner 120.971 83.212
+Tuner 105.546 82.609
+Tuner 573.701 82.633
+Tuner converged in generation 76
+Tuner 403.549 67.343
+Tuner 120.807 82.763
+Tuner 415.076 74.031
+Tuner 38.378 78.82
+Tuner 116.081 78.521
+Tuner 236.337 72.676
+Tuner 91.528 88.871
+Tuner 453.377 83.407
+Tuner converged in generation 98
+Tuner 412.574 66.698
+Tuner 35.272 64.324
+Tuner 120.459 81.462
+Tuner 424.796 82.868
+Tuner 107.399 71.826
+Tuner 833.145 82.726
+Tuner 30.306 89.384
+Tuner 525.242 67.265
+Tuner 42.439 82.618
+Tuner 30.306 66.428
+Tuner 57.177 75.44
+Tuner 42.439 82.616
+Tuner 109.374 50.476
+Tuner 418.653 37.74
+Tuner 33.699 80.997
+Tuner 42.477 77.126
+Tuner 4070.497 82.639
+Tuner 566.797 71.885
+Tuner 418.653 82.618
+Tuner 6479.97 76.989
+Tuner 71.681 56.368
+Tuner 30.702 82.676
+Tuner 30.306 54.073
+Tuner 837.533 69.665
+Tuner 674.498 73.091
+Tuner 42.341 78.54
+Tuner 35.207 60.681
+Tuner 143.09 78.211
+Tuner 180.198 75.655
+Tuner 1406.589 71.99
+Tuner 584.56 105.986
+Tuner 4352.574 82.953
+Tuner 32.794 82.643
+Tuner 54.354 66.28
+Tuner 223.739 77.789
+GA 60 30.155 31
+GA 61 30.155 31
+GA 62 30.155 31
+GA 63 30.155 31
+GA 64 30.155 31
+GA 65 30.155 31
+GA 66 29.609 31
+GA 67 29.609 31
+GA 68 29.609 31
+GA 69 29.609 31
+GA 70 29.609 31
+GA 71 29.609 31
+GA 72 29.609 31
+GA 73 29.609 31
+GA 74 29.609 31
+GA 75 29.609 31
+GA 76 29.609 31
+GA 77 29.609 31
+GA 78 29.609 31
+GA 79 29.609 31
+Tuner 114.371 82.609
+Tuner 183.923 58.021
+Tuner 29.609 82.738
+Tuner 1106.712 83.585
+Tuner 29.609 82.672
+Tuner 227.267 50.676
+Tuner 4113.892 82.895
+Tuner 120.807 68.671
+Tuner 41.368 70.493
+Tuner 1405.293 80.612
+Tuner 122.699 57.065
+Tuner 118.488 61.263
+Tuner 295.576 64.938
+Tuner 30.732 75.561
+Tuner 103.488 52.14
+Tuner 803.085 47.983
+Tuner 71.681 77.763
+Tuner 29.609 60.497
+Tuner 5782.761 82.704
+Tuner 1794.946 53.583
+Tuner 113.938 62.185
+Tuner 1106.712 78.843
+Tuner 398.249 83.396
+Tuner 110.217 82.607
+Tuner 113.938 71.644
+Tuner 372.382 78.115
+Tuner 1794.946 54.938
+Tuner 30.252 82.672
+Tuner 234.88 48.277
+Tuner converged in generation 85
+Tuner 391.962 48.65
+Tuner 120.103 55.353
+Tuner 598.029 68.865
+Tuner 118.488 69.091
+Tuner 111.88 70.255
+Tuner 528.543 42.805
+Tuner 53.456 82.612
+Tuner 108.683 41.301
+Tuner 108.294 75.756
+Tuner 29.609 73.966
+Tuner 107.844 62.113
+Tuner 47.695 83.999
+Tuner 73.115 66.323
+Tuner 113.378 74.9
+Tuner 115.303 65.698
+Tuner 31.619 73.804
+Tuner 811.666 76.574
+Tuner 39.888 80.875
+Tuner 55.538 76.644
+Tuner 553.545 77.028
+Tuner 826.465 48.42
+Tuner 2955.956 77.797
+Tuner 166.811 53.835
+Tuner 166.811 80.531
+Tuner 30.749 81.679
+Tuner 60.954 45.858
+Tuner 4232.903 58.064
+Tuner 36.534 81.123
+Tuner 34.568 82.612
+Tuner 35.33 82.581
+Tuner 118.488 65.104
+Tuner 1794.946 69.79
+Tuner 29.609 81.366
+Tuner 2825.24 79.745
+Tuner 180.065 63.908
+Tuner 837.533 81.907
+Tuner 29.609 82.631
+Tuner 377.239 77.583
+Tuner 30.253 74.006
+Tuner 543.218 76.067
+Tuner 39.311 75.897
+Tuner 29.609 77.25
+Tuner 56.55 80.212
+Tuner 39.786 74.241
+Tuner 803.085 71.459
+Tuner 231.3 92.789
+Tuner 120.103 48.779
+Tuner 713.468 48.028
+Tuner 3173.471 70.452
+Tuner 54.927 96.632
+Tuner 391.962 46.701
+Tuner 172.548 67.41
+Tuner 31.871 76.872
+Tuner 5678.29 80.713
+Tuner converged in generation 86
+Tuner 131.272 47.666
+Tuner 121.922 40.649
+Tuner 5969.148 68.541
+Tuner 132.361 82.583
+Tuner 797.667 72.564
+Tuner 39.888 78.019
+Tuner 48.722 82.75
+Tuner 364.393 82.853
+Tuner 35.33 82.704
+Tuner 35.33 80.393
+Tuner 183.671 48.412
+Tuner 295.576 63.41
+Tuner 591.159 82.639
+Tuner 30.118 83.016
+GA 80 29.609 31
+GA 81 29.609 31
+GA 82 29.609 31
+GA 83 29.609 31
+GA 84 29.609 31
+GA 85 29.609 31
+GA 86 29.609 31
+GA 87 29.609 31
+GA 88 29.609 31
+GA 89 29.609 31
+GA 90 29.609 31
+GA 91 29.609 31
+GA 92 29.609 31
+GA 93 29.609 31
+GA 94 29.609 31
+GA 95 29.609 31
+GA 96 29.609 31
+GA 97 29.609 31
+GA 98 29.609 31
+GA 99 29.609 31
+Tuner 553.545 82.609
+Tuner 836.271 52.727
+Tuner 1794.946 82.613
+Tuner 409.262 70.68
+Tuner 33.076 77.073
+Tuner 31.911 82.607
+Tuner 56.55 82.067
+Tuner 33.616 67.523
+Tuner 230.508 79.487
+Tuner 120.901 82.681
+Tuner 584.56 333.819
+Tuner 43.875 57.562
+Tuner 370.901 349.919
+Tuner 217.756 78.855
+Tuner 1190.413 73.823
+Tuner 39.311 69.889
+Tuner 3741.014 82.659
+Tuner 115.547 47.316
+Tuner 370.497 82.631
+Tuner 39.877 83.719
+Tuner 49.894 54.787
+Tuner 119.916 82.609
+Tuner 29.609 82.652
+Tuner 124.882 47.681
+Tuner 347.722 84.448
+Tuner 364.405 119.022
+Tuner 1396.986 83.256
+Tuner 32.578 42.791
+Tuner 115.547 80.555
+Tuner 406.274 54.864
+Tuner converged in generation 99
+Tuner 369.407 69.616
+Tuner 181.995 63.032
+Tuner 32.794 53.626
+Tuner 108.729 82.615
+Tuner 32.835 73.812
+Tuner 115.547 82.608
+Tuner 166.368 82.609
+Tuner 29.609 68.777
+Tuner 39.888 81.837
+Tuner 118.241 42.712
+Tuner 121.186 43.635
+Tuner 1106.712 36.321
+Tuner 2255.43 84.554
+Tuner 116.443 71.787
+Tuner 29.609 82.612
+Tuner 1491.046 82.649
+Tuner 34.125 82.637
+Tuner 39.888 76.432
+Tuner 5792.393 83.423
+Tuner 55.538 71.982
+Tuner 30.118 78.429
+Tuner 584.56 349.919
+Tuner 1791.766 84.262
+Tuner 36.939 42.196
+Tuner converged in generation 80
+Tuner 255.766 70.245
+Tuner 33.432 75.07
+Tuner 39.888 82.649
+Tuner 879.439 72.763
+Tuner 8467.165 70.081
+Tuner 100.495 55.949
+Tuner 135.032 67.437
+Tuner 539.601 62.156
+Tuner 511.706 82.685
+Tuner 115.974 72.291
+Tuner 234.262 44.783
+Tuner 354.643 77.524
+Tuner 372.418 67.363
+Tuner 3053.562 83.53
+Tuner 1245.799 72.42
+Tuner 8467.165 82.83
+Tuner 120.103 47.515
+Tuner 32.27 82.69
+Tuner 29.962 50.196
+Tuner 284.931 59.262
+Tuner 32.201 60.032
+Tuner 113.906 73.807
+Tuner 545.856 70.669
+Tuner 553.545 82.7
+Tuner 596.366 83.83
+Tuner 32.446 58.053
+Tuner 114.988 71.765
+Tuner 395.015 66.841
+Tuner 490.079 82.652
+Tuner 2985.735 68.315
+Tuner 108.294 82.659
+Tuner 826.465 82.646
+Tuner 90.142 82.673
+Tuner 528.543 45.46
+Tuner 113.838 40.553
+Tuner 29.609 43.538
+Tuner 396.76 79.508
+Tuner 377.138 53.207
+Tuner 713.468 47.787
+Tuner 110.517 63.355
+Tuner 252.217 252.069
+Tuner 112.388 74.188
+Tuner 6303.588 82.628
+Tuner 354.643 73.861
+GA 100 29.609 31
+Terminating at
+	100 generations
+	4920699 evaluations
+	35174.57 seconds
+KFold Run: 4
+Training
+	MSE: 29.609
+	Rsquared: 0.642
+Testing
+	MSE: 22.909
+	Rsquared: 0.675
+
+Run5
+GA 1 211.448 11
+GA 2 211.448 11
+GA 3 145.331 11
+GA 4 145.331 11
+GA 5 76.377 13
+GA 6 48.667 27
+GA 7 48.667 27
+GA 8 48.667 27
+GA 9 48.667 27
+GA 10 48.667 27
+GA 11 48.667 27
+GA 12 44.974 27
+GA 13 44.974 27
+GA 14 44.592 25
+GA 15 44.592 25
+GA 16 44.592 25
+GA 17 44.592 25
+GA 18 43.105 25
+GA 19 43.105 25
+Tuner 48.32 57.939
+Tuner 45.693 43.385
+Tuner 519.398 54.486
+Tuner 85.691 51.839
+Tuner 541.186 49.072
+Tuner 289.412 37.829
+Tuner 130.25 67.532
+Tuner 60.627 67.739
+Tuner 533.171 75.841
+Tuner 521.87 45.493
+Tuner 201.425 41.356
+Tuner 60.627 72.735
+Tuner 130.644 47.747
+Tuner 455.196 74.198
+Tuner 3738.885 78.687
+Tuner 512.386 43.847
+Tuner 51.068 42.75
+Tuner 5337.517 70.179
+Tuner 658.069 43.165
+Tuner 48.634 66.76
+Tuner converged in generation 99
+Tuner 546.179 39.083
+Tuner 1226.789 59.16
+Tuner 43.105 47.015
+Tuner 3072.006 85.571
+Tuner 667.555 158.323
+Tuner 53.718 42.009
+Tuner 46.369 45.786
+Tuner 211.111 70.617
+Tuner 60.344 47.151
+Tuner 514.44 42.789
+Tuner 129.632 35.993
+Tuner 60.627 40.068
+Tuner 48.32 58.632
+Tuner 43.974 62.448
+Tuner 393.555 43.511
+Tuner 50.502 40.272
+Tuner 85.29 58.117
+Tuner 520.333 50.128
+Tuner 58.699 73.377
+Tuner 381.713 57.948
+Tuner 130.25 37.207
+Tuner 48.498 54.009
+Tuner 2837.341 53.307
+Tuner 998.844 45.829
+Tuner 1491.696 62.221
+Tuner 548.023 55.076
+Tuner 55.128 45.811
+Tuner 200.992 47.948
+Tuner 540.595 70.749
+Tuner converged in generation 79
+Tuner 391.666 37.017
+Tuner 514.44 34.316
+Tuner converged in generation 72
+Tuner 205.268 68.103
+Tuner 128.763 76.417
+Tuner 52.53 69.169
+Tuner 289.412 46.694
+Tuner 44.592 68.848
+Tuner 4854.426 54.505
+Tuner 130.552 44.979
+Tuner 208.031 47.336
+Tuner converged in generation 88
+Tuner 654.007 45.139
+Tuner 548.023 74.13
+Tuner 2013.413 49.284
+Tuner 227.138 42.88
+Tuner 1031.065 36.646
+Tuner 367.323 49.554
+Tuner 133.253 78.345
+Tuner 840.277 54.21
+Tuner 512.209 39.709
+Tuner 133.08 54.745
+Tuner 381.713 88.702
+Tuner 553.765 64.29
+Tuner 143.859 73.73
+Tuner 188.839 73.206
+Tuner 128.272 54.128
+Tuner 131.198 59.311
+Tuner 1998.24 49.54
+Tuner 57.557 67.601
+Tuner 1934.37 68.994
+Tuner 1009.531 47.05
+Tuner 1243.212 56.519
+Tuner 207.381 62.382
+Tuner 5455.368 53.497
+Tuner 43.974 50.819
+Tuner 519.647 37.163
+Tuner 1536.525 39.554
+Tuner 131.987 67.859
+Tuner 525.49 229.67
+Tuner 56.288 68.684
+Tuner 130.899 82.528
+Tuner 48.32 63.046
+Tuner 43.105 49.379
+Tuner 3614.6 50.558
+Tuner 54.343 65.803
+Tuner 2003.706 38.184
+Tuner 520.136 74.142
+Tuner 208.031 52.043
+Tuner 645.883 63.553
+Tuner 569.286 83.006
+Tuner 533.171 38.017
+GA 20 34.316 13
+GA 21 34.316 13
+GA 22 34.316 13
+GA 23 33.981 11
+GA 24 33.981 11
+GA 25 33.981 11
+GA 26 33.452 9
+GA 27 33.318 11
+GA 28 33.318 11
+GA 29 33.318 11
+GA 30 33.318 11
+GA 31 33.318 11
+GA 32 33.318 11
+GA 33 33.276 11
+GA 34 33.276 11
+GA 35 33.276 11
+GA 36 33.276 11
+GA 37 33.276 11
+GA 38 33.276 11
+GA 39 33.276 11
+Tuner 33.276 39.058
+Tuner 230.263 37.618
+Tuner 208.327 40.215
+Tuner 65.863 41.35
+Tuner 39.82 39.68
+Tuner 468.215 212.015
+Tuner 33.491 36.651
+Tuner 50.388 38.723
+Tuner 33.452 36.163
+Tuner 362.838 68.976
+Tuner 1196.806 37.673
+Tuner 1124.807 54.491
+Tuner 2741.597 50.135
+Tuner 1500.39 58.854
+Tuner converged in generation 80
+Tuner 323.782 37.457
+Tuner converged in generation 90
+Tuner 33.276 42.643
+Tuner 4375.48 50.37
+Tuner converged in generation 97
+Tuner 43.851 38.012
+Tuner 866.68 45.474
+Tuner 379.145 35.919
+Tuner 5014.242 45.383
+Tuner 405.968 43.482
+Tuner 70.994 68.995
+Tuner 408.114 48.061
+Tuner 323.782 36.45
+Tuner converged in generation 49
+Tuner 232.867 65.716
+Tuner 34.673 50.577
+Tuner 40.684 36.637
+Tuner 97.812 67.589
+Tuner converged in generation 76
+Tuner 82.219 66.855
+Tuner converged in generation 93
+Tuner 214.446 65.743
+Tuner 34.378 41.714
+Tuner 43.266 45.544
+Tuner converged in generation 86
+Tuner 567.91 67.957
+Tuner 4367.531 58.792
+Tuner 141.473 41.918
+Tuner 4994.661 43.891
+Tuner 34.225 39.73
+Tuner 78.601 57.592
+Tuner 214.446 67.081
+Tuner 866.68 58.637
+Tuner 77.791 47.021
+Tuner converged in generation 85
+Tuner 33.276 33.302
+Tuner 40.684 36.416
+Tuner 40.684 37.548
+Tuner 33.318 43.471
+Tuner 41.451 48.907
+Tuner 93.438 44.621
+Tuner 41.27 43.037
+Tuner converged in generation 96
+Tuner 567.91 67.979
+Tuner 83.477 45.02
+Tuner 34.378 45.206
+Tuner 61.42 41.347
+Tuner 34.225 44.36
+Tuner 944.094 42.085
+Tuner 3706.994 36.892
+Tuner 33.276 40.06
+Tuner 944.094 40.152
+Tuner converged in generation 86
+Tuner 33.491 35.462
+Tuner 54.049 45.242
+Tuner 34.619 39.253
+Tuner 23679.994 42.519
+Tuner 35.977 58.232
+Tuner 980.214 75.633
+Tuner 33.981 43.345
+Tuner 62.071 44.454
+Tuner 413.878 66.446
+Tuner 83.477 40.507
+Tuner 4336.936 55.443
+Tuner 167.423 41.846
+Tuner converged in generation 94
+Tuner 362.838 67.478
+Tuner 107.144 66.229
+Tuner 34.673 42.617
+Tuner 412.876 55.013
+Tuner 33.276 37.9
+Tuner 33.276 44.991
+Tuner 2732.205 46.914
+Tuner 36.726 38.262
+Tuner converged in generation 70
+Tuner 468.215 214.258
+Tuner 34.673 38.802
+Tuner 33.276 45.516
+Tuner 208.327 42.73
+Tuner 208.327 60.028
+Tuner 33.276 41.165
+Tuner 62.071 43.246
+Tuner 747.598 49.972
+Tuner 699.655 74.105
+Tuner 34.673 39.626
+Tuner 98.671 49.842
+Tuner converged in generation 52
+Tuner 468.215 212.901
+Tuner 403.416 39.669
+GA 40 33.276 11
+GA 41 33.276 11
+GA 42 33.276 11
+GA 43 33.276 11
+GA 44 33.276 11
+GA 45 33.276 11
+GA 46 33.276 11
+GA 47 33.276 11
+GA 48 33.276 11
+GA 49 33.276 11
+GA 50 33.276 11
+GA 51 33.276 11
+GA 52 33.276 11
+GA 53 33.276 11
+GA 54 33.276 11
+GA 55 33.276 11
+GA 56 33.276 11
+GA 57 33.276 11
+GA 58 33.276 11
+GA 59 33.276 11
+Tuner 405.968 40.879
+Tuner 788.199 67.278
+Tuner 33.276 34.926
+Tuner 96.741 51.705
+Tuner 979.514 73.955
+Tuner 379.145 50.209
+Tuner 62.071 54.292
+Tuner 62.071 47.049
+Tuner 34.673 41.933
+Tuner 57.434 39.196
+Tuner 33.276 40.653
+Tuner 33.276 37.958
+Tuner 413.878 65.748
+Tuner 77.791 57.267
+Tuner 34.378 36.594
+Tuner 61.42 35.305
+Tuner 33.418 36.141
+Tuner 34.247 40.083
+Tuner 34.225 39.788
+Tuner 37.356 36.293
+Tuner 36.932 38.082
+Tuner converged in generation 98
+Tuner 41.27 59.17
+Tuner converged in generation 88
+Tuner 1196.806 36.525
+Tuner 34.378 38.96
+Tuner 17618.336 39.842
+Tuner converged in generation 84
+Tuner 788.199 66.447
+Tuner converged in generation 41
+Tuner 699.655 74.455
+Tuner 40.99 50.581
+Tuner 57.434 40.71
+Tuner 208.327 53.128
+Tuner converged in generation 40
+Tuner 979.514 74.017
+Tuner 1053.879 35.954
+Tuner 77.791 61.786
+Tuner 2732.205 65.132
+Tuner 33.276 38.012
+Tuner 405.968 38.387
+Tuner 70.823 40.434
+Tuner 81.662 36.412
+Tuner 90.747 36.799
+Tuner 468.215 211.314
+Tuner 290.182 56.44
+Tuner 33.276 40.824
+Tuner 33.276 36.409
+Tuner converged in generation 89
+Tuner 468.215 214.322
+Tuner 208.327 38.839
+Tuner 1196.806 37.701
+Tuner 39.82 42.773
+Tuner 36.932 42.752
+Tuner converged in generation 50
+Tuner 793.52 66.728
+Tuner 57.434 38.437
+Tuner 979.514 74.005
+Tuner 107.144 65.743
+Tuner 6231.405 41.58
+Tuner converged in generation 97
+Tuner 587.36 65.559
+Tuner 4994.661 41.371
+Tuner 37.484 37.464
+Tuner 61.42 37.719
+Tuner 5083.987 53.827
+Tuner 23679.994 37.366
+Tuner 33.276 37.282
+Tuner 40.684 36.511
+Tuner 48.378 34.56
+Tuner 33.276 35.267
+Tuner 41.27 43.448
+Tuner 77.791 46.034
+Tuner 70.823 64.631
+Tuner 82.219 65.491
+Tuner 33.276 37.624
+Tuner 410.372 47.535
+Tuner 33.276 40.647
+Tuner 42.742 42.595
+Tuner 33.939 43.061
+Tuner 634.287 65.714
+Tuner 1124.807 40.459
+Tuner 403.416 38.131
+Tuner 35.167 35.934
+Tuner 40.684 34.365
+Tuner 33.276 33.785
+Tuner 254.875 50.701
+Tuner 4994.661 44.493
+Tuner 77.791 50.046
+Tuner 410.372 37.786
+Tuner 34.378 52.263
+Tuner 33.418 34.926
+Tuner 403.416 36.399
+Tuner converged in generation 50
+Tuner 699.655 74.247
+Tuner 34.247 42.921
+Tuner converged in generation 89
+Tuner 480.226 185.937
+Tuner 33.53 37.397
+Tuner 70.823 41.148
+Tuner 34.225 34.693
+Tuner 699.655 74.007
+Tuner 190.848 46.685
+GA 60 33.276 11
+GA 61 33.276 11
+GA 62 33.276 11
+GA 63 33.276 11
+GA 64 33.276 11
+GA 65 33.276 11
+GA 66 33.276 11
+GA 67 33.276 11
+GA 68 33.276 11
+GA 69 33.276 11
+GA 70 33.276 11
+GA 71 33.276 11
+GA 72 33.276 11
+GA 73 33.276 11
+GA 74 33.276 11
+GA 75 33.276 11
+GA 76 33.276 11
+GA 77 33.276 11
+GA 78 33.276 11
+GA 79 33.276 11
+Tuner 403.416 34.872
+Tuner converged in generation 84
+Tuner 223.076 65.773
+Tuner 33.276 39.43
+Tuner 33.939 36.949
+Tuner 362.838 66.037
+Tuner 90.747 36.072
+Tuner 34.225 38.145
+Tuner 34.378 43.553
+Tuner 699.655 73.975
+Tuner 33.276 39.545
+Tuner 107.144 66.962
+Tuner 107.144 66.552
+Tuner 866.68 71.432
+Tuner 37.462 51.319
+Tuner 40.99 52.253
+Tuner 34.247 37.174
+Tuner 65.863 37.085
+Tuner 33.276 41.52
+Tuner 34.673 40.936
+Tuner 33.939 37.825
+Tuner 62.071 48.323
+Tuner 3341.453 38.982
+Tuner 38.103 49.359
+Tuner 43.851 51.878
+Tuner 40.99 41.516
+Tuner 107.144 66.927
+Tuner 77.791 63.301
+Tuner 33.276 41.68
+Tuner 33.276 42.77
+Tuner 43.636 46.323
+Tuner 403.416 37.139
+Tuner 4994.661 52.685
+Tuner 70.823 43.863
+Tuner 33.276 38.524
+Tuner 107.144 65.698
+Tuner 129.218 66.227
+Tuner 788.199 66.138
+Tuner 34.623 37.889
+Tuner 33.893 44.258
+Tuner 34.378 39.239
+Tuner converged in generation 73
+Tuner 467.077 209.792
+Tuner 62.071 53.051
+Tuner 37.356 40.057
+Tuner 33.276 38.143
+Tuner 62.071 36.541
+Tuner 107.144 67.185
+Tuner 208.327 45.044
+Tuner 37.356 37.856
+Tuner 33.893 47.144
+Tuner 176.416 36.461
+Tuner 37.484 44.102
+Tuner 14470.454 68.568
+Tuner 270.457 49.09
+Tuner 77.791 40.059
+Tuner converged in generation 73
+Tuner 33.276 41.632
+Tuner 17618.336 45.13
+Tuner 37.484 37.645
+Tuner 107.144 65.734
+Tuner 42.742 39.636
+Tuner 34.247 45.14
+Tuner 3341.453 39.287
+Tuner 403.416 36.339
+Tuner converged in generation 74
+Tuner 349.175 68.601
+Tuner 35.167 38.233
+Tuner 37.356 34.661
+Tuner converged in generation 56
+Tuner 468.215 215.396
+Tuner 57.809 47.467
+Tuner 634.287 68.759
+Tuner 33.893 51.996
+Tuner 33.276 42.777
+Tuner 37.356 34.576
+Tuner 34.378 46.003
+Tuner 468.215 208.508
+Tuner 2732.205 53.842
+Tuner converged in generation 70
+Tuner 35.167 36.122
+Tuner converged in generation 99
+Tuner 341.378 67.797
+Tuner 34.248 39.233
+Tuner 83.477 61.72
+Tuner 41.27 43.557
+Tuner 70.823 56.277
+Tuner 1124.807 44.814
+Tuner 866.68 63.595
+Tuner converged in generation 60
+Tuner 468.215 210.011
+Tuner 83.477 48.077
+Tuner 43.636 48.16
+Tuner 34.426 47.435
+Tuner converged in generation 97
+Tuner 37.356 36.55
+Tuner 270.457 47.516
+Tuner 33.276 48.785
+Tuner 40.99 37.768
+Tuner 1196.806 37.576
+Tuner 323.782 39.296
+Tuner 42.094 55.586
+Tuner 866.68 45.71
+GA 80 33.276 11
+GA 81 33.276 11
+GA 82 33.276 11
+GA 83 33.276 11
+GA 84 33.276 11
+GA 85 33.276 11
+GA 86 33.276 11
+GA 87 33.276 11
+GA 88 33.276 11
+GA 89 33.276 11
+GA 90 33.276 11
+GA 91 33.276 11
+GA 92 33.276 11
+GA 93 33.276 11
+GA 94 33.276 11
+GA 95 33.276 11
+GA 96 33.276 11
+GA 97 33.276 11
+GA 98 33.276 11
+GA 99 33.276 11
+Tuner 401.759 37.167
+Tuner 215.971 42.563
+Tuner 34.225 38.371
+Tuner 90.747 53.425
+Tuner 34.378 44.07
+Tuner 61.42 37.691
+Tuner 129.218 67.121
+Tuner 34.623 43.088
+Tuner 133.982 36.336
+Tuner 379.145 62.479
+Tuner 176.416 35.261
+Tuner 341.378 67.126
+Tuner 34.247 38.675
+Tuner 41.451 46.41
+Tuner 98.671 38.441
+Tuner 207.466 50.157
+Tuner 323.782 44.695
+Tuner 37.462 40.697
+Tuner 90.747 49.841
+Tuner 403.416 39.344
+Tuner 17618.336 49.775
+Tuner 41.27 42.932
+Tuner 37.356 33.631
+Tuner 77.791 48.427
+Tuner 41.451 39.927
+Tuner 33.276 36.939
+Tuner 91.111 34.125
+Tuner 1555.256 46.782
+Tuner converged in generation 95
+Tuner 39.82 42.837
+Tuner 33.276 39.808
+Tuner 39.82 38.915
+Tuner 33.893 42.919
+Tuner 40.189 39.085
+Tuner 467.077 208.194
+Tuner 107.144 68.849
+Tuner 269.866 49.581
+Tuner 33.276 37.757
+Tuner 401.759 36.985
+Tuner 78.601 41.82
+Tuner 34.181 37.759
+Tuner 83.477 38.894
+Tuner 362.838 67.154
+Tuner 1500.401 41.443
+Tuner 410.372 38.578
+Tuner 43.636 37.772
+Tuner 34.673 45.165
+Tuner 341.378 67.074
+Tuner converged in generation 71
+Tuner 323.782 36.715
+Tuner 38.103 33.271
+Tuner 90.747 48.574
+Tuner converged in generation 90
+Tuner 48.378 38.652
+Tuner 341.378 66.416
+Tuner 34.426 46.425
+Tuner 567.91 67.995
+Tuner 70.823 38.708
+Tuner 34.247 38.251
+Tuner converged in generation 86
+Tuner 1229.349 38.059
+Tuner 33.276 42.551
+Tuner 41.27 50.387
+Tuner converged in generation 62
+Tuner 468.215 207.886
+Tuner 323.782 36.818
+Tuner 468.215 209.969
+Tuner converged in generation 73
+Tuner 34.418 38.664
+Tuner 34.673 35.0
+Tuner 33.276 44.049
+Tuner 290.208 73.293
+Tuner 33.452 34.599
+Tuner 34.426 50.951
+Tuner 215.971 43.211
+Tuner 98.671 35.288
+Tuner 323.782 36.246
+Tuner 33.276 39.097
+Tuner 33.276 41.508
+Tuner converged in generation 96
+Tuner 43.636 51.5
+Tuner 78.601 37.565
+Tuner converged in generation 83
+Tuner 349.175 66.479
+Tuner 33.276 45.52
+Tuner 37.484 37.054
+Tuner 33.276 40.759
+Tuner 4994.661 38.009
+Tuner converged in generation 55
+Tuner 699.655 74.052
+Tuner 567.91 68.261
+Tuner 270.457 59.244
+Tuner converged in generation 95
+Tuner 77.791 39.922
+Tuner 33.276 46.284
+Tuner 81.662 60.641
+Tuner 33.276 49.116
+Tuner 2732.205 53.761
+Tuner 34.673 35.648
+Tuner 17618.336 53.897
+Tuner 323.782 42.905
+Tuner 2732.205 58.619
+GA 100 33.271 11
+Terminating at
+	100 generations
+	4652600 evaluations
+	22945.74 seconds
+KFold Run: 5
+Training
+	MSE: 33.271
+	Rsquared: 0.56
+Testing
+	MSE: 66.749
+	Rsquared: 0.113
+
+Run6
+GA 1 250.881 11
+GA 2 250.881 11
+GA 3 250.881 11
+GA 4 95.855 15
+GA 5 84.681 13
+GA 6 71.01 15
+GA 7 66.264 23
+GA 8 64.39 25
+GA 9 64.39 25
+GA 10 57.248 23
+GA 11 57.248 23
+GA 12 57.248 23
+GA 13 57.248 23
+GA 14 57.248 23
+GA 15 49.793 29
+GA 16 49.793 29
+GA 17 49.793 29
+GA 18 49.793 29
+GA 19 49.793 29
+Tuner 131.173 105.783
+Tuner 64.48 47.955
+Tuner 1178.123 92.436
+Tuner 144.243 49.181
+Tuner 411.444 110.927
+Tuner 882.879 178.675
+Tuner 65.96 39.215
+Tuner 590.177 113.802
+Tuner 551.019 42.486
+Tuner 127.992 58.496
+Tuner 2677.032 47.539
+Tuner 941.308 131.091
+Tuner 471.329 76.786
+Tuner 357.611 60.85
+Tuner 61.074 39.878
+Tuner 148.725 51.557
+Tuner 592.532 57.595
+Tuner 734.214 51.045
+Tuner 248.284 77.503
+Tuner 349.807 48.835
+Tuner 215.531 61.273
+Tuner 664.44 89.004
+Tuner 186.271 73.63
+Tuner 518.68 77.657
+Tuner 99.757 44.899
+Tuner 2694.032 51.297
+Tuner 100.061 49.119
+Tuner 50.689 71.641
+Tuner 1466.227 90.113
+Tuner 67.737 74.875
+Tuner 5316.375 53.573
+Tuner 58.021 85.047
+Tuner 77.85 76.545
+Tuner 5825.798 83.242
+Tuner 183.653 42.66
+Tuner 50.708 63.767
+Tuner 100.395 103.661
+Tuner 6183.589 50.134
+Tuner 263.361 86.073
+Tuner 117.305 69.497
+Tuner 60.079 67.064
+Tuner 49.793 48.677
+Tuner 50.074 57.033
+Tuner 86.648 58.305
+Tuner 133.784 44.137
+Tuner 337.527 74.89
+Tuner 186.271 69.356
+Tuner 865.029 77.201
+Tuner 1423.605 77.257
+Tuner 82.907 45.985
+Tuner 216.346 101.004
+Tuner 151.491 42.017
+Tuner 883.905 45.038
+Tuner 152.941 41.257
+Tuner 50.708 69.377
+Tuner 724.341 43.404
+Tuner 1531.711 63.478
+Tuner 2703.85 69.582
+Tuner 86.349 78.426
+Tuner 1016.964 66.593
+Tuner 99.211 84.345
+Tuner 65.245 59.572
+Tuner converged in generation 92
+Tuner 248.3 49.18
+Tuner 1041.572 45.103
+Tuner 141.21 42.371
+Tuner 57.042 51.396
+Tuner 72.686 64.431
+Tuner 50.875 61.331
+Tuner 63.562 54.729
+Tuner 9677.399 220.254
+Tuner 311.75 78.92
+Tuner 808.525 92.937
+Tuner 138.249 101.269
+Tuner 182.426 56.381
+Tuner 6177.842 49.011
+Tuner 264.706 40.235
+Tuner 53.36 52.698
+Tuner 122.839 52.521
+Tuner 595.452 45.588
+Tuner 130.37 65.657
+Tuner 272.207 105.342
+Tuner 101.098 52.631
+Tuner 51.074 114.263
+Tuner 822.919 61.48
+Tuner 231.467 72.402
+Tuner 75.489 83.714
+Tuner 85.675 65.566
+Tuner 133.784 52.951
+Tuner 1074.985 54.45
+Tuner 189.736 48.214
+Tuner 430.647 40.993
+GA 20 39.215 31
+GA 21 39.215 31
+GA 22 39.215 31
+GA 23 39.215 31
+GA 24 39.215 31
+GA 25 39.215 31
+GA 26 39.215 31
+GA 27 39.215 31
+GA 28 39.215 31
+GA 29 39.215 31
+GA 30 39.215 31
+GA 31 39.215 31
+GA 32 39.215 31
+GA 33 39.215 31
+GA 34 39.215 31
+GA 35 39.215 31
+GA 36 39.215 31
+GA 37 39.215 31
+GA 38 39.215 31
+GA 39 39.215 31
+Tuner 39.215 59.213
+Tuner 39.215 38.322
+Tuner 39.215 82.909
+Tuner 1547083483.151 120.288
+Tuner 802.726 70.62
+Tuner 39.215 59.65
+Tuner 39.215 47.244
+Tuner 39.215 59.423
+Tuner 39.215 60.199
+Tuner 39.215 65.459
+Tuner 10805.909 106.588
+Tuner 39.215 38.79
+Tuner 39.215 82.045
+Tuner 39.215 74.878
+Tuner 39.215 51.129
+Tuner 39.215 47.05
+Tuner 39.215 58.299
+Tuner 191.503 37.626
+Tuner 39.215 43.99
+Tuner 343.065 80.392
+Tuner 46.967 44.959
+Tuner 39.215 43.71
+Tuner 66427805.444 79.577
+Tuner 39.215 45.5
+Tuner 39.215 80.011
+Tuner 39.215 53.32
+Tuner 39.215 59.22
+Tuner 39.215 85.797
+Tuner 39.215 53.132
+Tuner 39.215 56.015
+Tuner 39.215 73.403
+Tuner 39.215 66.348
+Tuner 39.215 57.278
+Tuner 480602862.35 39.278
+Tuner 39.215 49.958
+Tuner 39.215 51.273
+Tuner 39.215 86.416
+Tuner 39.215 62.022
+Tuner 39.215 55.468
+Tuner 39.215 55.668
+Tuner 21198041.12 48.961
+Tuner 39.215 68.333
+Tuner 39.215 60.461
+Tuner 39.215 55.791
+Tuner 1464.584 50.176
+Tuner 39.215 53.552
+Tuner 191.503 42.469
+Tuner 230.764 56.137
+Tuner 39.215 66.704
+Tuner 39.215 49.454
+Tuner 773437.447 50.14
+Tuner 39.215 90.661
+Tuner 39.215 55.236
+Tuner 41.414 59.189
+Tuner 39.215 65.788
+Tuner 39.215 82.704
+Tuner 39.215 67.247
+Tuner 39.215 45.053
+Tuner 389.201 67.456
+Tuner 39.215 56.596
+Tuner 481.627 45.11
+Tuner 39.215 55.953
+Tuner converged in generation 71
+Tuner 151.258 47.927
+Tuner 39.215 44.435
+Tuner 39.215 48.457
+Tuner 436.149 63.84
+Tuner 38582.439 51.676
+Tuner 1228.905 47.492
+Tuner 39.215 65.208
+Tuner 39.215 82.889
+Tuner 39.215 81.023
+Tuner 39.215 54.58
+Tuner 370.193 91.865
+Tuner 39.215 79.22
+Tuner 39.215 57.378
+Tuner 41.538 63.496
+Tuner 39.215 81.738
+Tuner 64.765 74.753
+Tuner 39.215 70.506
+Tuner 39.215 50.04
+Tuner 39.215 77.038
+Tuner 60.665 82.233
+Tuner 39.215 57.749
+Tuner 434.957 102.34
+Tuner 551.413 85.65
+Tuner 190.366 53.599
+Tuner 39.215 40.415
+Tuner 130591.161 84.574
+Tuner 39.215 75.648
+Tuner 39.215 57.651
+Tuner 39.215 43.695
+Tuner 789.279 62.092
+Tuner 39.215 61.216
+Tuner 39.215 57.919
+Tuner 39.215 74.582
+Tuner 39.215 39.849
+Tuner 39.215 55.195
+GA 40 37.626 9
+GA 41 37.626 9
+GA 42 37.626 9
+GA 43 37.626 9
+GA 44 37.626 9
+GA 45 37.626 9
+GA 46 37.536 9
+GA 47 37.536 9
+GA 48 37.536 9
+GA 49 37.536 9
+GA 50 37.482 9
+GA 51 37.482 9
+GA 52 37.482 9
+GA 53 37.482 9
+GA 54 37.482 9
+GA 55 37.269 9
+GA 56 37.269 9
+GA 57 37.269 9
+GA 58 37.269 9
+GA 59 37.269 9
+Tuner 47.452 40.508
+Tuner 7834.538 40.318
+Tuner 371.545 37.431
+Tuner 1266.616 76.02
+Tuner converged in generation 81
+Tuner 802.216 38.8
+Tuner converged in generation 93
+Tuner 38.633 37.677
+Tuner 320.648 40.202
+Tuner 37.269 45.803
+Tuner 45.881 38.666
+Tuner 39.648 38.759
+Tuner converged in generation 97
+Tuner 488.443 78.93
+Tuner 39.648 38.684
+Tuner 37.269 42.421
+Tuner 371.545 50.12
+Tuner converged in generation 82
+Tuner 445.024 219.102
+Tuner 49.241 38.95
+Tuner 613.282 43.266
+Tuner 86.952 48.439
+Tuner 200.015 40.255
+Tuner 438.164 250.653
+Tuner converged in generation 99
+Tuner 37.482 46.021
+Tuner 136.578 76.703
+Tuner 2548.442 39.304
+Tuner converged in generation 54
+Tuner 438.164 250.283
+Tuner 518.439 40.568
+Tuner 37.269 41.217
+Tuner 3115.175 46.45
+Tuner 279.955 39.252
+Tuner converged in generation 72
+Tuner 201.454 91.865
+Tuner 150.211 43.23
+Tuner 37.359 52.032
+Tuner 37.269 43.726
+Tuner converged in generation 83
+Tuner 679.283 39.251
+Tuner 238.331 45.871
+Tuner 5573.161 40.175
+Tuner 484.471 80.029
+Tuner 5573.161 39.036
+Tuner 37.269 40.439
+Tuner 39.113 40.183
+Tuner 150.211 41.033
+Tuner 324.229 45.312
+Tuner converged in generation 60
+Tuner 201.454 91.865
+Tuner 309.423 43.718
+Tuner 144.771 41.575
+Tuner 204.245 42.314
+Tuner converged in generation 77
+Tuner 37.269 39.279
+Tuner converged in generation 89
+Tuner 121091.139 38.199
+Tuner converged in generation 86
+Tuner 40.665 40.131
+Tuner 84.265 43.211
+Tuner converged in generation 87
+Tuner 471.67 42.969
+Tuner converged in generation 86
+Tuner 437.45 245.794
+Tuner 39.448 42.421
+Tuner 320.648 44.361
+Tuner 6372.255 47.635
+Tuner 84.265 44.874
+Tuner 2482.37 49.748
+Tuner converged in generation 86
+Tuner 437.45 242.902
+Tuner 324.229 44.59
+Tuner 398.716 47.727
+Tuner 37.565 43.686
+Tuner 395.47 78.09
+Tuner 26014.202 48.207
+Tuner converged in generation 95
+Tuner 1405.233 38.985
+Tuner 37.269 44.947
+Tuner 37.269 42.905
+Tuner 726.477 37.999
+Tuner converged in generation 66
+Tuner 445.024 222.507
+Tuner converged in generation 88
+Tuner 471.67 39.002
+Tuner converged in generation 99
+Tuner 184.728 38.004
+Tuner 1215.145 44.425
+Tuner converged in generation 68
+Tuner 45.881 41.519
+Tuner 518.439 43.222
+Tuner 39.113 38.633
+Tuner 3325.435 46.626
+Tuner converged in generation 85
+Tuner 40.534 42.621
+Tuner 398.716 44.997
+Tuner 70670.206 42.952
+Tuner converged in generation 82
+Tuner 52.945 42.675
+Tuner 37.482 42.922
+Tuner 1215.145 39.929
+Tuner 309.147 38.312
+Tuner converged in generation 98
+Tuner 389.718 76.283
+Tuner 679.283 40.743
+Tuner converged in generation 86
+Tuner 445.024 231.799
+Tuner 762.802 46.842
+Tuner 3019.145 51.389
+Tuner converged in generation 85
+Tuner 1441.244 44.76
+Tuner 2712.143 48.429
+Tuner 395.47 78.689
+Tuner 37.482 45.178
+Tuner 805.246 45.427
+Tuner 679.283 40.035
+Tuner converged in generation 63
+Tuner 1215.145 42.776
+Tuner 37.482 40.02
+Tuner 39.393 44.611
+GA 60 37.269 9
+GA 61 37.214 9
+GA 62 37.214 9
+GA 63 37.214 9
+GA 64 37.214 9
+GA 65 37.214 9
+GA 66 37.214 9
+GA 67 37.214 9
+GA 68 37.214 9
+GA 69 37.214 9
+GA 70 37.214 9
+GA 71 37.214 9
+GA 72 37.214 9
+GA 73 37.214 9
+GA 74 37.214 9
+GA 75 37.214 9
+GA 76 37.214 9
+GA 77 37.214 9
+GA 78 37.214 9
+GA 79 37.214 9
+Tuner 264.571 38.775
+Tuner 169.251 76.723
+Tuner 389.718 76.06
+Tuner converged in generation 95
+Tuner 37.214 45.744
+Tuner 324.594 51.596
+Tuner converged in generation 90
+Tuner 697.106 48.406
+Tuner 49.311 47.591
+Tuner 37.214 40.126
+Tuner 169.251 75.966
+Tuner 270.107 78.935
+Tuner converged in generation 86
+Tuner 37.214 47.183
+Tuner 49.979 41.859
+Tuner 39.746 42.481
+Tuner 37.359 52.716
+Tuner 2692.697 47.69
+Tuner 359.412 65.152
+Tuner 309.423 40.644
+Tuner converged in generation 75
+Tuner 445.024 213.802
+Tuner 17973.897 90.445
+Tuner converged in generation 91
+Tuner 37.214 42.21
+Tuner 2692.697 46.007
+Tuner converged in generation 98
+Tuner 151.348 44.126
+Tuner 2692.697 46.218
+Tuner 26714.663 44.683
+Tuner 49.979 46.383
+Tuner 40.504 38.648
+Tuner converged in generation 88
+Tuner 37.214 40.593
+Tuner 3058.054 44.225
+Tuner 37.214 44.003
+Tuner 169.251 77.257
+Tuner 711.803 53.032
+Tuner 235.744 45.719
+Tuner 1765.919 67.662
+Tuner 69887.884 47.887
+Tuner 37.214 46.992
+Tuner converged in generation 99
+Tuner 1398.158 42.292
+Tuner 166.844 39.366
+Tuner converged in generation 99
+Tuner 199.956 40.591
+Tuner 488.443 78.886
+Tuner 2692.697 60.119
+Tuner 37.214 43.966
+Tuner 25716.362 47.146
+Tuner 83.799 65.807
+Tuner 5573.304 55.908
+Tuner 7750.438 49.36
+Tuner 166.844 38.848
+Tuner converged in generation 76
+Tuner 37.214 45.501
+Tuner 39.352 42.807
+Tuner 2438.083 60.198
+Tuner 169.251 76.082
+Tuner 151.348 50.156
+Tuner 49.979 38.414
+Tuner 151.348 60.187
+Tuner 169.251 78.985
+Tuner 169.251 77.843
+Tuner converged in generation 93
+Tuner 395.47 75.996
+Tuner 37.214 43.359
+Tuner 49.979 40.257
+Tuner converged in generation 85
+Tuner 49.311 49.897
+Tuner converged in generation 76
+Tuner 488.443 79.123
+Tuner 359.412 53.868
+Tuner converged in generation 74
+Tuner 39.352 44.638
+Tuner 235.744 44.056
+Tuner 308.698 49.119
+Tuner 39.352 45.066
+Tuner 39.352 40.307
+Tuner 395.47 77.139
+Tuner 37.214 45.173
+Tuner 37.214 45.214
+Tuner converged in generation 96
+Tuner 437.45 243.524
+Tuner 359.412 51.107
+Tuner 169.251 75.783
+Tuner 395.47 79.412
+Tuner 39.746 42.195
+Tuner 395.47 77.449
+Tuner 235.744 53.639
+Tuner 437.45 248.268
+Tuner 37.214 39.426
+Tuner 3058.054 54.721
+Tuner 5573.304 40.122
+Tuner converged in generation 80
+Tuner 37.214 49.406
+Tuner 2438.083 54.931
+Tuner converged in generation 65
+Tuner 308.698 44.217
+Tuner 49.311 48.174
+Tuner 40.646 40.108
+Tuner 112022.18 54.186
+Tuner 199.956 46.054
+Tuner 49.979 38.595
+Tuner 37.214 53.552
+GA 80 37.214 9
+GA 81 37.214 9
+GA 82 37.214 9
+GA 83 37.214 9
+GA 84 37.214 9
+GA 85 37.214 9
+GA 86 37.214 9
+GA 87 37.214 9
+GA 88 37.214 9
+GA 89 37.214 9
+GA 90 37.214 9
+GA 91 37.214 9
+GA 92 37.214 9
+GA 93 37.214 9
+GA 94 37.214 9
+GA 95 37.214 9
+GA 96 37.214 9
+GA 97 37.214 9
+GA 98 37.214 9
+GA 99 37.214 9
+Tuner 395.47 78.831
+Tuner converged in generation 93
+Tuner 37.359 44.781
+Tuner 569.809 51.687
+Tuner converged in generation 95
+Tuner 488.443 79.374
+Tuner 569.809 64.944
+Tuner 48.892 46.733
+Tuner 37.214 45.113
+Tuner 40.504 38.867
+Tuner 151.348 51.202
+Tuner 309.423 51.116
+Tuner converged in generation 98
+Tuner 389.718 76.777
+Tuner converged in generation 88
+Tuner 37.214 49.599
+Tuner converged in generation 88
+Tuner 308.698 40.167
+Tuner 69887.884 52.118
+Tuner 37.214 39.76
+Tuner 308.698 42.478
+Tuner 1398.158 45.403
+Tuner 40.646 44.699
+Tuner 569.809 46.287
+Tuner 39.746 44.411
+Tuner 711.803 39.277
+Tuner 37.214 53.324
+Tuner converged in generation 96
+Tuner 324.594 56.643
+Tuner 369.073 45.356
+Tuner 83.799 45.836
+Tuner converged in generation 95
+Tuner 251.809 76.775
+Tuner converged in generation 80
+Tuner 445.024 206.211
+Tuner 697.106 41.032
+Tuner 235.744 50.129
+Tuner 2692.697 71.429
+Tuner converged in generation 70
+Tuner 395.47 84.383
+Tuner 5573.304 51.341
+Tuner 69887.884 41.773
+Tuner 395.47 77.059
+Tuner 151.348 46.671
+Tuner converged in generation 40
+Tuner 215.449 78.981
+Tuner 39.352 44.92
+Tuner 37.214 48.664
+Tuner converged in generation 94
+Tuner 151.348 55.65
+Tuner 471.67 41.433
+Tuner 287.272 78.839
+Tuner 39.352 42.214
+Tuner 471.67 38.81
+Tuner 39.352 45.055
+Tuner 437.45 244.052
+Tuner converged in generation 82
+Tuner 309.147 42.919
+Tuner converged in generation 59
+Tuner 1398.158 48.468
+Tuner 37.214 37.336
+Tuner converged in generation 90
+Tuner 471.67 44.092
+Tuner 37.214 42.635
+Tuner 37.214 53.539
+Tuner 37.565 41.498
+Tuner converged in generation 81
+Tuner 324.594 42.817
+Tuner 711.803 45.121
+Tuner converged in generation 86
+Tuner 389.718 76.122
+Tuner 37.214 46.363
+Tuner 2692.697 51.591
+Tuner 49.311 43.597
+Tuner 17973.897 63.108
+Tuner 287.272 78.902
+Tuner 17973.897 63.072
+Tuner 437.45 252.919
+Tuner 69887.884 41.693
+Tuner converged in generation 52
+Tuner 1398.158 42.476
+Tuner 711.803 54.226
+Tuner 369.073 41.059
+Tuner 264.571 43.945
+Tuner converged in generation 82
+Tuner 1398.158 43.018
+Tuner 711.803 49.765
+Tuner converged in generation 88
+Tuner 199.956 41.405
+Tuner 49.979 42.372
+Tuner 37.214 44.901
+Tuner 37.269 40.267
+Tuner 37.214 51.393
+Tuner converged in generation 55
+Tuner 445.024 222.128
+Tuner 169.251 77.256
+Tuner 37.214 43.781
+Tuner 137.74 76.411
+Tuner 359.412 38.371
+Tuner converged in generation 95
+Tuner 309.423 45.563
+Tuner 37.214 43.818
+Tuner 17973.897 53.408
+Tuner 395.47 77.095
+Tuner 40.646 43.245
+Tuner 2692.697 43.425
+Tuner 83.799 59.295
+Tuner 2677.358 56.683
+Tuner 25747.582 65.211
+Tuner 199.956 39.782
+GA 100 37.214 9
+Terminating at
+	100 generations
+	4560911 evaluations
+	29674.42 seconds
+KFold Run: 6
+Training
+	MSE: 37.214
+	Rsquared: 0.595
+Testing
+	MSE: 31.294
+	Rsquared: -0.956
+
+Run7
+GA 1 251.264 11
+GA 2 251.264 11
+GA 3 251.264 11
+GA 4 130.928 17
+GA 5 103.952 7
+GA 6 80.767 17
+GA 7 65.59 21
+GA 8 46.254 33
+GA 9 46.254 33
+GA 10 40.364 23
+GA 11 39.347 27
+GA 12 39.347 27
+GA 13 38.175 31
+GA 14 38.175 31
+GA 15 34.293 35
+GA 16 34.293 35
+GA 17 30.469 31
+GA 18 29.415 31
+GA 19 27.315 31
+Tuner 92.85 75.114
+Tuner 62.501 75.382
+Tuner 63.643 40.544
+Tuner converged in generation 62
+Tuner 644.642 26.693
+Tuner 37.895 77.204
+Tuner 52.305 58.601
+Tuner 79.505 75.191
+Tuner 439.579 137.799
+Tuner 35.16 56.506
+Tuner 434.465 77.739
+Tuner 237.432 56.798
+Tuner 86.06 101.538
+Tuner 36.588 64.831
+Tuner 524.781 222.41
+Tuner 329.39 111.497
+Tuner 128.81 115.34
+Tuner 40.547 50.806
+Tuner 39.559 228.554
+Tuner 60.692 115.705
+Tuner 67.432 111.241
+Tuner 36.097 49.648
+Tuner 34.165 90.992
+Tuner 51.067 55.246
+Tuner 218.02 45.112
+Tuner 1230.556 110.676
+Tuner 607.601 48.6
+Tuner 497.337 31.501
+Tuner 635.452 95.483
+Tuner 36.097 45.188
+Tuner 126.868 85.326
+Tuner 185.719 251.803
+Tuner 51.082 88.078
+Tuner 52.5 203.254
+Tuner 537.521 144.091
+Tuner 44.89 56.005
+Tuner 60.696 56.977
+Tuner 39.275 47.492
+Tuner 372.304 43.992
+Tuner 37.842 65.065
+Tuner 154.236 65.492
+Tuner 73.422 414.012
+Tuner 64.112 196.911
+Tuner 164.813 60.352
+Tuner 39.518 84.938
+Tuner 34.937 71.726
+Tuner 33.169 22.064
+Tuner 43.992 62.195
+Tuner 56.285 279.42
+Tuner 41.454 50.708
+Tuner 29.415 36.239
+Tuner 40.509 145.623
+Tuner 60.56 41.124
+Tuner 168.095 112.723
+Tuner 275.321 233.482
+Tuner 210.708 30.531
+Tuner 246.571 107.411
+Tuner 49.701 94.668
+Tuner 38.687 46.781
+Tuner 68.253 164.897
+Tuner 58.689 364.967
+Tuner 50.715 60.722
+Tuner 60.135 97.909
+Tuner 1084.566 42.499
+Tuner 77.239 76.139
+Tuner 63.643 113.85
+Tuner 131.245 29.242
+Tuner 318.587 137.237
+Tuner 53.683 75.82
+Tuner 41.732 36.33
+Tuner converged in generation 81
+Tuner 584.779 49.972
+Tuner 37.288 75.254
+Tuner 204.71 207.806
+Tuner 119.114 77.915
+Tuner 835.944 78.72
+Tuner 496.148 73.721
+Tuner 84.741 89.01
+Tuner 39.037 113.555
+Tuner 319.434 321.294
+Tuner 179.453 139.508
+Tuner 130.43 34.354
+Tuner 106.026 91.441
+Tuner 36.888 139.728
+Tuner 486.904 46.618
+Tuner 44.709 41.878
+Tuner 590.858 220.286
+Tuner converged in generation 71
+Tuner 236.577 19.633
+Tuner 302.149 59.171
+Tuner 54.852 127.043
+Tuner 103.419 87.982
+Tuner 120.952 43.261
+Tuner 141.32 76.046
+Tuner 45.947 90.942
+Tuner 71.384 66.6
+Tuner 2115.891 36.194
+Tuner 68.469 50.889
+GA 20 19.633 9
+GA 21 19.633 9
+GA 22 19.01 53
+GA 23 19.01 53
+GA 24 18.777 43
+GA 25 18.327 53
+GA 26 18.327 53
+GA 27 18.327 53
+GA 28 18.178 55
+GA 29 18.178 51
+GA 30 17.31 57
+GA 31 16.836 57
+GA 32 16.836 57
+GA 33 15.833 53
+GA 34 15.833 53
+GA 35 15.833 53
+GA 36 15.833 53
+GA 37 15.585 53
+GA 38 15.119 63
+GA 39 14.806 61
+Tuner 15.083 446.253
+Tuner 14.806 153.195
+Tuner 16.495 201.606
+Tuner 1565.501 394.272
+Tuner 54.721 176.181
+Tuner 18.288 203.947
+Tuner 14.115 521.783
+Tuner 69.835 135.546
+Tuner 15.531 317.019
+Tuner 15.626 288.966
+Tuner 15.585 398.06
+Tuner 26.436 825.113
+Tuner 139.05 62.352
+Tuner 15.585 283.936
+Tuner 15.139 381.376
+Tuner 188.212 139.884
+Tuner 14.806 477.835
+Tuner 159.75 88.872
+Tuner 2614241.606 409.782
+Tuner 67.152 364.238
+Tuner 15.833 167.013
+Tuner 15.82 93.659
+Tuner 57.642 203.293
+Tuner 16.303 101.429
+Tuner 15.997 406.94
+Tuner 539617.139 57.799
+Tuner 16.576 290.007
+Tuner 58.584 621.477
+Tuner 15.833 713.143
+Tuner 16.829 71.267
+Tuner 16.19 85.559
+Tuner 15.523 330.898
+Tuner 15.119 143.401
+Tuner 15.634 103.828
+Tuner 29.06 185.741
+Tuner 15.563 131.961
+Tuner 19.119 165.825
+Tuner 18.887 198.718
+Tuner 15.833 464.285
+Tuner 19.549 38.903
+Tuner 242.541 158.916
+Tuner 37.579 129.053
+Tuner 253.793 54.07
+Tuner 15.608 412.414
+Tuner 18.893 336.751
+Tuner 15.547 103.54
+Tuner 16.039 522.096
+Tuner 53.132 135.669
+Tuner 17.034 369.714
+Tuner 20.334 404.634
+Tuner 18.429 407.894
+Tuner 20.798 462.023
+Tuner 17.457 273.605
+Tuner 16.276 421.457
+Tuner 15.523 63.836
+Tuner 15.238 46.998
+Tuner 15.531 117.865
+Tuner 15.218 136.202
+Tuner 15.587 182.589
+Tuner 15.531 311.48
+Tuner 16.19 132.52
+Tuner 22.075 76.185
+Tuner 15.154 562.2
+Tuner 15.833 57.93
+Tuner 94.865 145.261
+Tuner 141.896 33.308
+Tuner 1177.575 113.639
+Tuner 22.601 333.904
+Tuner 15.628 152.792
+Tuner converged in generation 44
+Tuner 417.791 52.942
+Tuner 16.495 129.959
+Tuner 94.614 167.969
+Tuner 15.487 176.955
+Tuner 16.13 473.715
+Tuner 16.76 376.863
+Tuner 16.356 41.921
+Tuner 15.585 272.737
+Tuner 15.833 343.505
+Tuner 20.334 86.397
+Tuner 18.707 149.124
+Tuner 15.585 1218.952
+Tuner 138.302 41.341
+Tuner 15.746 122.128
+Tuner 18.087 176.585
+Tuner 6026.948 2880.548
+Tuner 15.119 76.171
+Tuner 15.369 465.87
+Tuner 15.544 43.483
+Tuner 15.531 57.693
+Tuner 15.585 74.347
+Tuner 30.667 732.774
+GA 40 14.115 53
+GA 41 14.0 59
+GA 42 13.678 59
+GA 43 13.301 65
+GA 44 13.301 65
+GA 45 12.76 61
+GA 46 12.76 61
+GA 47 12.76 61
+GA 48 12.308 77
+GA 49 12.308 77
+GA 50 12.308 77
+GA 51 12.188 63
+GA 52 11.446 75
+GA 53 11.446 75
+GA 54 11.412 77
+GA 55 11.125 83
+GA 56 10.632 83
+GA 57 10.554 65
+GA 58 10.554 65
+GA 59 10.47 93
+Tuner 10.979 114.949
+Tuner 423.176 32.78
+Tuner 117.448 57.182
+Tuner 16.455 498.176
+Tuner 1797.072 205.993
+Tuner 547.185 26.635
+Tuner 10.734 175.373
+Tuner 30.057 472.214
+Tuner 17.027 74.363
+Tuner 11.459 104.416
+Tuner 11.023 373.017
+Tuner 6609.976 607.383
+Tuner 10.734 289.746
+Tuner 704.39 599.742
+Tuner 20.069 235.739
+Tuner 11.202 236.729
+Tuner 10.891 589.648
+Tuner 408.142 129.599
+Tuner 13.23 203.418
+Tuner 10.79 237.282
+Tuner 12.226 754.932
+Tuner 15.659 411.477
+Tuner 11.104 481.372
+Tuner 11.394 412.565
+Tuner 117.463 419.06
+Tuner 10.958 256.154
+Tuner 10.734 528.561
+Tuner 11.072 693.753
+Tuner 10.805 1420.345
+Tuner 138.369 41.915
+Tuner 12.573 404.34
+Tuner 15.881 153.931
+Tuner 11.125 412.414
+Tuner 10.805 73.196
+Tuner 400.37 35.143
+Tuner 10.805 871.225
+Tuner 11.136 1243.459
+Tuner 30.695 286.414
+Tuner 12.045 607.425
+Tuner 11.972 438.295
+Tuner 11.125 427.654
+Tuner 10.965 121.437
+Tuner 10.67 703.749
+Tuner 11.913 857.69
+Tuner 11.023 346.077
+Tuner 16.565 325.48
+Tuner 17.868 295.924
+Tuner 13.73 794.496
+Tuner 17.331 115.07
+Tuner 12.082 914.672
+Tuner 11.023 81.318
+Tuner 17.265 373.163
+Tuner 1904.869 403.009
+Tuner 10.734 431.055
+Tuner 13.536 3197.296
+Tuner 11.125 519.018
+Tuner 12.155 571.077
+Tuner 37.61 374.367
+Tuner 10.805 290.369
+Tuner 11.075 402.935
+Tuner 10.755 91.25
+Tuner 11.383 682.364
+Tuner 10.79 133.713
+Tuner 37.61 117.985
+Tuner 10.932 442.48
+Tuner 56.623 115.942
+Tuner 11.065 818.992
+Tuner 609.313 498.176
+Tuner 10.805 659.395
+Tuner 11.023 573.248
+Tuner 10.734 275.811
+Tuner 11.313 890.49
+Tuner 10.755 3174.393
+Tuner 29.156 465.87
+Tuner 11.796 473.826
+Tuner 10.958 103.047
+Tuner 10.79 297.48
+Tuner 10.955 688.784
+Tuner 37.718 285.534
+Tuner 121.669 210.246
+Tuner 10.446 447.5
+Tuner 16.492 227.081
+Tuner 1997.468 557.941
+Tuner 14.712 136.208
+Tuner 11.762 340.877
+Tuner 10.734 548.463
+Tuner 11.488 786.602
+Tuner 58.407 688.784
+Tuner 51.513 99.917
+Tuner 10.734 391.672
+Tuner 73.115 195.267
+Tuner 584.361 208.431
+Tuner 13.068 493.78
+Tuner 142.22 44.888
+Tuner 12.809 454.085
+Tuner 10.513 115.556
+GA 60 10.446 95
+GA 61 10.334 83
+GA 62 10.223 83
+GA 63 9.935 93
+GA 64 9.935 93
+GA 65 9.935 93
+GA 66 9.935 93
+GA 67 9.935 93
+GA 68 9.892 93
+GA 69 9.892 93
+GA 70 9.892 93
+GA 71 9.892 93
+GA 72 9.856 95
+GA 73 9.856 95
+GA 74 9.856 95
+GA 75 9.76 93
+GA 76 9.76 93
+GA 77 9.76 93
+GA 78 9.756 95
+GA 79 9.685 95
+Tuner 84.37 117.85
+Tuner 9.76 793.267
+Tuner 9.76 302.365
+Tuner 12.139 566.629
+Tuner 51.691 232.473
+Tuner 9.85 630.97
+Tuner 24.096 58.257
+Tuner 10.643 531.762
+Tuner 10.142 450.197
+Tuner 9.76 544.687
+Tuner 37.852 140.672
+Tuner 990.196 1144.443
+Tuner 12.951 655.906
+Tuner 9.928 311.065
+Tuner 9.76 50.037
+Tuner 9.76 419.81
+Tuner 11.262 1250.142
+Tuner 9.959 664.243
+Tuner 12.204 469.838
+Tuner 11.207 134.419
+Tuner 10.722 489.98
+Tuner 9.76 696.18
+Tuner 11.162 979.664
+Tuner 11.422 536.051
+Tuner 12.529 624.789
+Tuner 1267.637 12802.656
+Tuner 9.802 557.792
+Tuner 10.293 688.784
+Tuner 9.76 373.163
+Tuner 22.203 238.606
+Tuner 26.696 237.094
+Tuner 9.935 334.451
+Tuner 9.83 402.892
+Tuner 10.193 618.469
+Tuner 11.706 334.08
+Tuner 9.992 52.275
+Tuner 11.006 208.953
+Tuner 20.728 2706.628
+Tuner 24.943 320.446
+Tuner 10.754 621.328
+Tuner 9.76 369.829
+Tuner 56.536 180.496
+Tuner 63.079 377.948
+Tuner 12.37 683.836
+Tuner 160.028 466.296
+Tuner 11.65 596.942
+Tuner 9.892 363.778
+Tuner 10.393 1008.782
+Tuner 10.309 269.859
+Tuner 10.701 298.912
+Tuner 10.853 731.055
+Tuner 19.028 589.07
+Tuner 13.093 461.922
+Tuner 9.685 584.542
+Tuner 9.76 346.136
+Tuner 10.989 1851.665
+Tuner 11.781 709.313
+Tuner 134.283 80.374
+Tuner 9.76 362.748
+Tuner 9.716 844.082
+Tuner 26.064 91.577
+Tuner 11.706 281.282
+Tuner 503.441 31.417
+Tuner 9.76 260.214
+Tuner 12.882 84.942
+Tuner 153.628 74.189
+Tuner 9.856 498.176
+Tuner 19.033 644.97
+Tuner 10.805 445.431
+Tuner 66.749 210.113
+Tuner 10.199 353.499
+Tuner 11.481 73.476
+Tuner 9.76 598.187
+Tuner 9.76 739.367
+Tuner 12.727 339.384
+Tuner 9.948 547.168
+Tuner 416.39 291.611
+Tuner 9.76 734.219
+Tuner 37.61 62.783
+Tuner 10.032 616.66
+Tuner 29.762 789.307
+Tuner 29903.069 25.182
+Tuner 9.685 494.068
+Tuner 10.663 431.055
+Tuner 12.924 1399.35
+Tuner 11.756 355.329
+Tuner 9.76 619.008
+Tuner 9.76 387.241
+Tuner 10.89 442.48
+Tuner 14.903 212.906
+Tuner 10.401 74.192
+Tuner 14.733 499.511
+Tuner 11.207 852.101
+Tuner 10.613 179.128
+Tuner 27.8 74.991
+Tuner 139.592 40.002
+Tuner 9.76 461.922
+Tuner 9.965 613.215
+GA 80 9.685 95
+GA 81 9.685 95
+GA 82 9.684 99
+GA 83 9.684 99
+GA 84 9.684 99
+GA 85 9.636 99
+GA 86 9.636 99
+GA 87 9.636 99
+GA 88 9.636 99
+GA 89 9.636 99
+GA 90 9.636 99
+GA 91 9.636 99
+GA 92 9.636 99
+GA 93 9.636 99
+GA 94 9.636 99
+GA 95 9.636 99
+GA 96 9.622 99
+GA 97 9.622 99
+GA 98 9.622 99
+GA 99 9.622 99
+Tuner 9.597 74.256
+Tuner 9.641 80.218
+Tuner 9.641 892.992
+Tuner 9.641 3073.52
+Tuner 88.702 555.985
+Tuner 10.864 438.652
+Tuner 9.641 637.35
+Tuner 11.243 154.011
+Tuner 9.641 3081.291
+Tuner 9.641 829.948
+Tuner 9.641 75.346
+Tuner 9.641 2338.975
+Tuner 18.426 38.268
+Tuner 9.641 165.098
+Tuner 9.641 188.585
+Tuner 9.641 410.419
+Tuner 37.61 91.198
+Tuner 10.552 124.11
+Tuner 14.738 92.192
+Tuner 9.744 5368.146
+Tuner 11.539 211.446
+Tuner 12.921 323.538
+Tuner 9.641 1273.373
+Tuner 10.028 86.326
+Tuner 11.461 137.045
+Tuner 11.004 593.618
+Tuner 9.641 523.246
+Tuner 9.622 609.721
+Tuner 10.853 180.811
+Tuner 125.654 109.087
+Tuner 9.641 563.361
+Tuner 9.622 269.929
+Tuner 17.966 557.792
+Tuner 12.854 473.826
+Tuner 9.622 514.799
+Tuner 9.641 54.876
+Tuner 9.622 302.223
+Tuner 9.641 580.034
+Tuner 9.641 664.243
+Tuner 9.641 502.304
+Tuner 9.641 79.285
+Tuner 10.209 301.92
+Tuner 11.388 410.164
+Tuner 11.929 566.894
+Tuner 16.542 177.851
+Tuner 10.858 12053.074
+Tuner 69.597 457.993
+Tuner 11.264 616.66
+Tuner 9.641 1783.779
+Tuner 10.298 659.395
+Tuner 9.641 12056.109
+Tuner 9.641 776.974
+Tuner 9.996 123.527
+Tuner 16.483 238.5
+Tuner 9.641 427.287
+Tuner 9.641 74.247
+Tuner 9.622 617.816
+Tuner 9.641 664.481
+Tuner 9.641 683.172
+Tuner 9.641 87.552
+Tuner 9.641 438.352
+Tuner 9.641 832.493
+Tuner 9.622 731.911
+Tuner 9.641 575.431
+Tuner 9.641 137.878
+Tuner 10.127 83.853
+Tuner 9.641 74.21
+Tuner 133.3 51.04
+Tuner 9.641 356.331
+Tuner 9.641 372.881
+Tuner 24.548 353.463
+Tuner 9.996 593.618
+Tuner 444.736 65.074
+Tuner 69.597 595.253
+Tuner 11.004 74.388
+Tuner 9.641 297.035
+Tuner 9.641 698.741
+Tuner 9.641 678.908
+Tuner 10.127 1351.38
+Tuner 11.22 485.911
+Tuner 9.641 1464.006
+Tuner 10.914 355.625
+Tuner 9.641 255.409
+Tuner 70.716 329.77
+Tuner 9.72 367.186
+Tuner 418.147 124.026
+Tuner 12.704 723.982
+Tuner 9.641 714.237
+Tuner 9.641 320.39
+Tuner 10.848 542.813
+Tuner 10.097 956.97
+Tuner 10.189 1240.466
+Tuner 11.033 2015.343
+Tuner 409.964 33.304
+Tuner 1259.367 1332.28
+Tuner 10.596 63.709
+Tuner 9.641 718.709
+Tuner 9.641 146.257
+GA 100 9.597 89
+Terminating at
+	100 generations
+	4822719 evaluations
+	43872.12 seconds
+KFold Run: 7
+Training
+	MSE: 9.597
+	Rsquared: 0.871
+Testing
+	MSE: 108.863
+	Rsquared: 0.27
+
+Run8
+GA 1 269.459 11
+GA 2 269.459 11
+GA 3 264.961 17
+GA 4 163.051 13
+GA 5 89.505 5
+GA 6 57.558 19
+GA 7 57.558 19
+GA 8 48.015 21
+GA 9 48.015 21
+GA 10 48.015 21
+GA 11 43.166 21
+GA 12 37.902 29
+GA 13 34.929 25
+GA 14 33.873 29
+GA 15 33.873 29
+GA 16 33.225 25
+GA 17 31.239 33
+GA 18 29.333 33
+GA 19 29.333 33
+Tuner 38.399 82.145
+Tuner 137.899 62.141
+Tuner 133.473 82.395
+Tuner 643.613 82.464
+Tuner 127.927 39.571
+Tuner 42.968 80.393
+Tuner converged in generation 79
+Tuner 186.326 40.469
+Tuner 249.865 54.079
+Tuner 41.457 58.751
+Tuner 44.946 63.457
+Tuner 915.937 41.993
+Tuner 31.722 57.248
+Tuner 111.96 51.937
+Tuner 562.69 60.152
+Tuner 48.028 64.541
+Tuner 51.608 81.955
+Tuner 65.371 89.57
+Tuner 750.366 78.327
+Tuner 37.503 82.765
+Tuner 665.688 53.909
+Tuner 272.855 45.599
+Tuner 128.795 82.439
+Tuner 243.611 898.626
+Tuner 602.635 82.733
+Tuner 1043.756 81.945
+Tuner 218.807 40.147
+Tuner 827.746 83.837
+Tuner 31.386 59.32
+Tuner 407.879 36.605
+Tuner 39.487 65.309
+Tuner 142.079 81.998
+Tuner 688.629 81.949
+Tuner 35.972 75.418
+Tuner 184.531 64.416
+Tuner 131.524 36.802
+Tuner 134.794 35.89
+Tuner 36.62 81.946
+Tuner 129.474 81.934
+Tuner 57.477 115.841
+Tuner 667.492 82.735
+Tuner 49.657 81.96
+Tuner 126.265 82.101
+Tuner 112.821 81.931
+Tuner 55.815 82.862
+Tuner 279.361 81.989
+Tuner 221.75 58.068
+Tuner 652.246 81.928
+Tuner 56.643 67.037
+Tuner 102.594 76.176
+Tuner 116.722 35.76
+Tuner 108.007 81.928
+Tuner 163.881 82.061
+Tuner 58.872 55.49
+Tuner 137.251 44.649
+Tuner 131.663 43.195
+Tuner 137.484 41.077
+Tuner 126.117 82.464
+Tuner 62.896 71.82
+Tuner 33.334 38.239
+Tuner 33.133 82.027
+Tuner 42.281 58.657
+Tuner 121.628 47.64
+Tuner 258.621 70.255
+Tuner 129.859 77.6
+Tuner 126.896 79.061
+Tuner converged in generation 96
+Tuner 184.773 45.334
+Tuner 98.95 40.789
+Tuner 33.225 34.351
+Tuner 1115.508 81.927
+Tuner 146.274 61.588
+Tuner 57.271 68.6
+Tuner 772.171 81.998
+Tuner 648.702 82.027
+Tuner 241.888 49.554
+Tuner 116.722 52.031
+Tuner 40.297 81.928
+Tuner 955.413 56.782
+Tuner 68.399 81.981
+Tuner 428.988 81.96
+Tuner 249.211 42.322
+Tuner 41.306 81.949
+Tuner 82.869 82.101
+Tuner 482.845 82.194
+Tuner 62.062 64.402
+Tuner 68.399 83.408
+Tuner 1727.578 82.178
+Tuner 39.198 81.373
+Tuner converged in generation 86
+Tuner 440.306 63.973
+Tuner 130.307 39.83
+Tuner 33.873 82.736
+Tuner 202.972 39.861
+Tuner 29.333 74.318
+Tuner 577.047 78.738
+Tuner 40.472 65.168
+GA 20 29.333 33
+GA 21 29.116 31
+GA 22 26.464 33
+GA 23 26.464 33
+GA 24 26.464 33
+GA 25 25.748 41
+GA 26 25.748 41
+GA 27 25.748 41
+GA 28 25.748 41
+GA 29 25.55 41
+GA 30 25.55 41
+GA 31 25.55 41
+GA 32 25.55 41
+GA 33 23.939 39
+GA 34 23.939 39
+GA 35 23.939 39
+GA 36 23.939 39
+GA 37 23.939 39
+GA 38 23.939 39
+GA 39 23.939 39
+Tuner 82.593 83.137
+Tuner 170.475 40.454
+Tuner converged in generation 48
+Tuner 273.665 81.927
+Tuner 479.414 53.256
+Tuner converged in generation 76
+Tuner 172.317 81.927
+Tuner 50.501 80.579
+Tuner 118.24 81.928
+Tuner 27.834 81.937
+Tuner 627.045 58.433
+Tuner 110.131 39.328
+Tuner 108.331 85.662
+Tuner 140.477 81.989
+Tuner 45.536 82.185
+Tuner 106.448 79.974
+Tuner 589.433 82.247
+Tuner 89.982 42.222
+Tuner 110.806 81.927
+Tuner 100.945 64.844
+Tuner 101.577 40.252
+Tuner 2835.72 82.061
+Tuner 107.699 78.187
+Tuner 46.514 82.017
+Tuner 1047.032 82.073
+Tuner 176.582 36.94
+Tuner 33.681 81.874
+Tuner 164.283 82.086
+Tuner 105.844 199.09
+Tuner 34.992 80.362
+Tuner converged in generation 86
+Tuner 547.881 81.927
+Tuner 202.524 81.937
+Tuner 167.257 81.94
+Tuner 25.349 64.827
+Tuner 77.261 81.961
+Tuner 775.779 74.764
+Tuner 97.24 81.927
+Tuner 287.775 28.869
+Tuner 43.454 37.533
+Tuner converged in generation 69
+Tuner 287.545 81.927
+Tuner 27.943 81.945
+Tuner 135.097 42.264
+Tuner 159.883 45.15
+Tuner 412.041 52.008
+Tuner 277.45 221.896
+Tuner 32.101 81.946
+Tuner 106.852 80.509
+Tuner 33.406 82.248
+Tuner 104.106 70.408
+Tuner 105.781 81.974
+Tuner 32.101 81.936
+Tuner 616.592 79.761
+Tuner 27.943 41.249
+Tuner 2507.32 81.931
+Tuner 25.55 68.615
+Tuner 178.148 82.676
+Tuner 31.942 58.153
+Tuner 25.748 81.961
+Tuner 23.956 48.973
+Tuner 119.103 85.793
+Tuner 112.247 70.857
+Tuner 25.55 82.371
+Tuner 90.305 81.931
+Tuner 33.474 51.473
+Tuner 436.536 424.583
+Tuner 112.247 51.272
+Tuner 152.487 81.94
+Tuner 1170.697 78.547
+Tuner 110.645 39.768
+Tuner 98.469 82.177
+Tuner 45.269 45.411
+Tuner 99.201 64.257
+Tuner 24.381 79.869
+Tuner 30.803 82.145
+Tuner 54.25 79.524
+Tuner 34.941 75.28
+Tuner 80.122 82.463
+Tuner 170.475 82.1
+Tuner 167.145 35.391
+Tuner 206.177 72.225
+Tuner converged in generation 81
+Tuner 287.545 81.927
+Tuner 23.939 74.528
+Tuner 45.969 79.099
+Tuner 834.384 60.699
+Tuner 32.744 69.995
+Tuner 89.34 58.849
+Tuner 539.321 81.934
+Tuner 126.604 47.071
+Tuner 31.272 62.905
+Tuner converged in generation 72
+Tuner 120.437 80.019
+Tuner 32.416 43.353
+Tuner 228.458 39.11
+Tuner 848.258 64.709
+Tuner 202.247 40.82
+Tuner 115.188 59.694
+Tuner 80.885 81.981
+Tuner 32.101 40.327
+Tuner 45.269 77.284
+Tuner 48.633 83.175
+Tuner 236.044 81.927
+GA 40 23.939 39
+GA 41 23.939 39
+GA 42 23.722 39
+GA 43 23.722 39
+GA 44 23.722 39
+GA 45 23.722 39
+GA 46 23.722 39
+GA 47 23.722 39
+GA 48 23.722 39
+GA 49 23.722 39
+GA 50 23.722 39
+GA 51 23.722 39
+GA 52 23.722 39
+GA 53 23.722 39
+GA 54 23.722 39
+GA 55 23.722 39
+GA 56 23.722 39
+GA 57 23.722 39
+GA 58 23.722 39
+GA 59 23.722 39
+Tuner 178.872 81.477
+Tuner 23.722 60.967
+Tuner 148.167 61.643
+Tuner 144.88 59.585
+Tuner 158.664 81.998
+Tuner 50.35 78.496
+Tuner 29.924 81.98
+Tuner 23.722 84.756
+Tuner 561.173 45.79
+Tuner 296.146 44.407
+Tuner 381.38 81.94
+Tuner 118.404 81.94
+Tuner 39.874 80.202
+Tuner 91.261 73.304
+Tuner converged in generation 92
+Tuner 186.326 39.803
+Tuner 832.975 84.169
+Tuner 101.968 82.395
+Tuner 68.426 41.285
+Tuner 46.51 81.96
+Tuner 86.892 36.455
+Tuner 118.499 82.595
+Tuner 106.861 81.927
+Tuner 40.995 74.598
+Tuner 99.593 82.392
+Tuner 28.405 53.612
+Tuner 52.759 82.038
+Tuner 53.367 141.476
+Tuner 128.625 81.69
+Tuner 23.722 81.934
+Tuner 33.241 51.078
+Tuner 25.558 81.974
+Tuner 418.355 39.923
+Tuner 23.722 54.26
+Tuner 560.474 81.144
+Tuner 33.354 41.881
+Tuner 144.635 56.095
+Tuner 35.904 80.235
+Tuner 184.773 82.061
+Tuner 112.057 81.931
+Tuner 186.326 80.716
+Tuner 241.252 71.092
+Tuner 31.642 83.051
+Tuner 402.575 80.422
+Tuner 23.722 81.927
+Tuner 160.596 83.367
+Tuner 34.296 68.445
+Tuner 139.477 81.931
+Tuner 24.943 54.095
+Tuner 38.167 51.511
+Tuner 29.683 83.172
+Tuner 268.653 70.065
+Tuner 168.755 53.286
+Tuner 170.475 44.667
+Tuner 296.146 37.344
+Tuner 29.634 82.466
+Tuner 50.015 81.961
+Tuner 23.722 71.694
+Tuner 258.538 440.446
+Tuner 112.444 81.927
+Tuner 6342.1 81.931
+Tuner 50.205 39.907
+Tuner 273.665 81.927
+Tuner 25.729 80.669
+Tuner 50.202 47.41
+Tuner 52.02 80.561
+Tuner 29.755 81.974
+Tuner 561.173 66.577
+Tuner 36.298 53.038
+Tuner 348.071 69.534
+Tuner 35.904 73.251
+Tuner 56.498 81.927
+Tuner 111.919 82.482
+Tuner 103.979 82.061
+Tuner 815.761 82.05
+Tuner 23.722 75.047
+Tuner 38.651 62.973
+Tuner 29.634 41.42
+Tuner 276.568 81.94
+Tuner 32.701 73.267
+Tuner 54.89 81.927
+Tuner 45.936 50.877
+Tuner 31.642 82.662
+Tuner 204.445 44.238
+Tuner 1724.784 82.115
+Tuner 87.029 72.316
+Tuner 43.749 82.145
+Tuner 94.362 76.73
+Tuner 54.41 81.934
+Tuner 92.477 81.945
+Tuner 198.302 67.863
+Tuner 561.173 37.402
+Tuner 73.928 82.311
+Tuner 28.135 85.791
+Tuner 61.771 75.072
+Tuner 35.655 58.88
+Tuner 276.568 81.927
+Tuner 26.364 82.074
+GA 60 23.722 39
+GA 61 23.722 39
+GA 62 23.722 39
+GA 63 23.722 39
+GA 64 23.722 39
+GA 65 23.722 39
+GA 66 23.722 39
+GA 67 23.722 39
+GA 68 23.722 39
+GA 69 23.722 39
+GA 70 23.722 39
+GA 71 23.722 39
+GA 72 23.722 39
+GA 73 23.722 39
+GA 74 23.722 39
+GA 75 23.722 39
+GA 76 23.722 39
+GA 77 23.722 39
+GA 78 23.722 39
+GA 79 23.722 39
+Tuner 167.145 42.776
+Tuner 478.455 36.528
+Tuner 170.475 82.115
+Tuner 94.362 45.596
+Tuner 108.192 64.87
+Tuner 23.722 82.062
+Tuner 144.88 50.359
+Tuner 44.381 81.967
+Tuner 99.495 81.646
+Tuner 125.616 81.94
+Tuner 56.071 82.007
+Tuner 36.059 80.334
+Tuner 28.622 83.705
+Tuner 133.411 80.071
+Tuner 109.993 53.85
+Tuner 114.628 81.965
+Tuner 521.669 82.038
+Tuner 94.489 81.95
+Tuner 28.84 81.94
+Tuner 418.355 40.455
+Tuner 6316.493 80.145
+Tuner 686.886 82.16
+Tuner 758.868 82.027
+Tuner 28.84 81.223
+Tuner 123.649 79.948
+Tuner 28.84 69.992
+Tuner 240.879 65.498
+Tuner 47.215 81.928
+Tuner 125.749 46.529
+Tuner 181.792 64.094
+Tuner 23.722 81.927
+Tuner 175.719 45.462
+Tuner 1469.42 83.529
+Tuner 101.968 81.927
+Tuner 428.988 80.733
+Tuner 28.405 66.883
+Tuner 54.231 198.666
+Tuner 46.51 81.989
+Tuner 43.172 63.547
+Tuner 112.64 83.063
+Tuner 139.477 48.897
+Tuner 109.181 66.969
+Tuner 54.41 81.929
+Tuner 34.712 57.384
+Tuner 222.239 43.585
+Tuner 37.356 81.929
+Tuner 142.37 47.517
+Tuner 126.243 81.931
+Tuner 112.057 80.192
+Tuner 4483.627 81.981
+Tuner 32.946 78.158
+Tuner 201.437 50.003
+Tuner 29.548 50.222
+Tuner 57.263 46.686
+Tuner 29.538 78.225
+Tuner 993.952 81.928
+Tuner 114.617 82.418
+Tuner 28.84 78.492
+Tuner 92.678 79.86
+Tuner 184.773 37.739
+Tuner 103.223 82.099
+Tuner 23.722 67.253
+Tuner 227.215 81.981
+Tuner 832.975 82.038
+Tuner 28.995 32.679
+Tuner 184.773 48.399
+Tuner 236.044 81.928
+Tuner converged in generation 77
+Tuner 571.605 34.039
+Tuner 103.163 59.972
+Tuner 1120.788 82.863
+Tuner 1080.339 82.065
+Tuner 104.878 81.947
+Tuner 24.005 81.998
+Tuner 172.317 81.927
+Tuner 31.642 76.328
+Tuner 204.445 77.074
+Tuner 105.516 69.46
+Tuner 68.235 43.509
+Tuner 98.694 58.525
+Tuner 115.321 58.454
+Tuner 29.894 81.974
+Tuner converged in generation 87
+Tuner 163.203 64.824
+Tuner 30.613 71.638
+Tuner 148.167 44.048
+Tuner 92.477 82.165
+Tuner 2615.183 81.941
+Tuner 29.893 81.972
+Tuner 23.722 82.25
+Tuner 184.773 42.245
+Tuner 90.877 84.538
+Tuner 69.239 40.996
+Tuner 398.958 81.934
+Tuner 118.499 63.636
+Tuner 35.904 82.061
+GA 80 23.722 39
+GA 81 23.722 39
+GA 82 23.722 39
+GA 83 23.722 39
+GA 84 23.722 39
+GA 85 23.722 39
+GA 86 23.722 39
+GA 87 23.722 39
+GA 88 23.722 39
+GA 89 23.722 39
+GA 90 23.722 39
+GA 91 23.722 39
+GA 92 23.722 39
+GA 93 23.722 39
+GA 94 23.722 39
+GA 95 23.722 39
+GA 96 23.722 39
+GA 97 23.722 39
+GA 98 23.722 39
+GA 99 23.722 39
+Tuner 112.802 39.021
+Tuner 24.622 65.337
+Tuner 31.515 82.115
+Tuner 23.722 82.115
+Tuner 148.167 56.595
+Tuner 26.757 82.122
+Tuner 34.296 82.007
+Tuner 409.597 81.961
+Tuner 204.445 60.496
+Tuner 418.355 40.293
+Tuner 23.722 82.268
+Tuner 54.41 40.032
+Tuner 993.952 81.937
+Tuner 111.702 66.337
+Tuner 38.651 68.84
+Tuner 106.852 67.111
+Tuner 147.517 36.101
+Tuner 109.77 81.929
+Tuner 2139.393 48.157
+Tuner 1073.881 81.928
+Tuner 50.205 68.322
+Tuner 28.84 76.197
+Tuner 25.729 81.927
+Tuner 28.11 61.013
+Tuner 29.634 81.931
+Tuner 128.328 150.281
+Tuner 160.844 82.37
+Tuner 114.983 73.283
+Tuner 158.718 49.623
+Tuner 31.642 38.664
+Tuner 682.317 36.683
+Tuner 214.157 81.934
+Tuner 64.854 399.157
+Tuner 45.036 67.7
+Tuner 25.558 81.981
+Tuner 54.594 80.077
+Tuner 23.722 81.708
+Tuner 409.597 82.061
+Tuner 31.642 81.989
+Tuner 58.513 62.136
+Tuner 23.722 40.163
+Tuner 180.857 49.679
+Tuner 90.839 82.038
+Tuner 189.761 31.706
+Tuner 144.88 81.981
+Tuner 33.548 81.854
+Tuner 114.141 73.044
+Tuner 128.357 58.718
+Tuner 227.215 83.563
+Tuner 4393.208 89.481
+Tuner 29.233 68.089
+Tuner 241.252 75.333
+Tuner 155.986 40.487
+Tuner 23.722 81.927
+Tuner 189.761 35.046
+Tuner 25.699 82.566
+Tuner 48.015 76.598
+Tuner 28.622 73.775
+Tuner 106.861 56.619
+Tuner 25.729 60.445
+Tuner 23.722 78.654
+Tuner 101.968 77.13
+Tuner 31.515 63.333
+Tuner 99.495 67.871
+Tuner 40.335 82.715
+Tuner 29.471 81.945
+Tuner converged in generation 90
+Tuner 441.755 40.976
+Tuner 174.7 53.924
+Tuner 99.666 58.252
+Tuner 105.975 71.314
+Tuner 54.41 53.099
+Tuner 630.17 75.688
+Tuner 135.47 46.032
+Tuner 55.683 204.852
+Tuner 227.215 81.93
+Tuner 101.968 52.919
+Tuner 191.837 27.937
+Tuner 31.202 82.797
+Tuner 118.538 82.183
+Tuner 103.163 52.429
+Tuner 3616.234 82.161
+Tuner 101.949 80.383
+Tuner 446.034 50.884
+Tuner 23.722 53.122
+Tuner 106.852 48.154
+Tuner 292.736 52.87
+Tuner converged in generation 92
+Tuner 147.517 34.412
+Tuner 7462.684 82.962
+Tuner 648.702 82.027
+Tuner 101.968 67.819
+Tuner 97.961 82.057
+Tuner 36.059 82.439
+Tuner 90.877 82.464
+Tuner 23.722 70.317
+Tuner 262.638 81.944
+Tuner 77.198 81.927
+Tuner 119.86 36.534
+Tuner converged in generation 88
+Tuner 228.458 42.162
+Tuner 158.664 81.927
+GA 100 23.722 39
+Terminating at
+	100 generations
+	4851698 evaluations
+	36651.84 seconds
+KFold Run: 8
+Training
+	MSE: 23.722
+	Rsquared: 0.71
+Testing
+	MSE: 54.311
+	Rsquared: -1.882
+
+Run9
+GA 1 259.328 11
+GA 2 259.328 11
+GA 3 259.328 11
+GA 4 220.41 15
+GA 5 96.0 11
+GA 6 82.798 19
+GA 7 67.594 21
+GA 8 62.291 23
+GA 9 59.901 21
+GA 10 59.901 21
+GA 11 50.827 31
+GA 12 50.827 31
+GA 13 50.827 31
+GA 14 50.827 31
+GA 15 50.827 31
+GA 16 50.827 31
+GA 17 50.827 31
+GA 18 50.827 31
+GA 19 44.218 37
+Tuner 169.26 55.898
+Tuner 448.359 88.18
+Tuner 85.124 44.274
+Tuner 451.378 85.943
+Tuner 53.065 61.287
+Tuner 121.61 57.298
+Tuner 447.481 42.156
+Tuner 51.833 64.723
+Tuner 53.523 53.16
+Tuner 341.716 47.697
+Tuner 70.989 78.819
+Tuner converged in generation 87
+Tuner 1118.969 87.457
+Tuner 169.608 42.432
+Tuner 56.311 76.154
+Tuner 52.127 50.032
+Tuner 178.005 46.019
+Tuner 166.381 114.048
+Tuner 72.97 65.532
+Tuner 142.975 71.139
+Tuner 68.653 82.522
+Tuner 54.237 47.548
+Tuner 124.776 42.592
+Tuner 52.936 75.072
+Tuner 148.611 47.618
+Tuner 83.793 47.429
+Tuner 177.317 44.939
+Tuner 2135.17 67.654
+Tuner 176.846 45.64
+Tuner 59.276 69.837
+Tuner 91.175 44.655
+Tuner 346.701 97.82
+Tuner 730.61 167.14
+Tuner converged in generation 84
+Tuner 402.796 40.846
+Tuner 4337.946 40.722
+Tuner 111.249 42.183
+Tuner 56.311 51.823
+Tuner 1712.386 67.874
+Tuner 130.915 68.716
+Tuner 120.747 86.001
+Tuner 1407.623 56.92
+Tuner 577.757 47.397
+Tuner 276.579 55.663
+Tuner 643.96 102.36
+Tuner 337.447 72.394
+Tuner converged in generation 46
+Tuner 489.112 88.17
+Tuner 62.561 42.571
+Tuner 6667.818 97.954
+Tuner 61.106 62.153
+Tuner 115.239 47.31
+Tuner 894.789 50.428
+Tuner 179.65 60.199
+Tuner 80.901 70.741
+Tuner 769.714 53.756
+Tuner 1097.899 84.343
+Tuner 242.483 58.465
+Tuner 1427.071 53.382
+Tuner 162.836 50.439
+Tuner 53.714 65.493
+Tuner 213.839 47.139
+Tuner 155.591 93.19
+Tuner converged in generation 97
+Tuner 56.311 63.436
+Tuner 200.949 66.449
+Tuner 110.769 50.239
+Tuner 52.936 45.677
+Tuner 164.35 49.643
+Tuner 153.617 84.836
+Tuner 610.566 133.408
+Tuner 60.006 51.423
+Tuner 331.883 48.65
+Tuner 85.631 44.102
+Tuner converged in generation 79
+Tuner 746.914 39.633
+Tuner 83.243 48.697
+Tuner 147.391 89.924
+Tuner 585.687 75.631
+Tuner 133.212 45.713
+Tuner 650.414 70.569
+Tuner 103.648 46.895
+Tuner 658.042 181.473
+Tuner 55.793 54.707
+Tuner 61.773 64.326
+Tuner 63.142 53.047
+Tuner 54.237 53.322
+Tuner 587.948 66.053
+Tuner 44.581 52.48
+Tuner 746.947 34.682
+Tuner 100.651 81.311
+Tuner 57.316 46.984
+Tuner 54.712 53.024
+Tuner 2100.885 58.851
+Tuner 239.306 79.369
+Tuner 53.523 41.137
+Tuner 544.139 138.648
+Tuner 335.236 56.422
+Tuner 346.496 51.854
+Tuner 5783.947 284.573
+Tuner 167.412 77.225
+Tuner 75.512 46.385
+Tuner 109.737 70.386
+GA 20 34.682 5
+GA 21 34.682 5
+GA 22 34.682 5
+GA 23 34.682 5
+GA 24 34.682 5
+GA 25 34.682 5
+GA 26 33.529 7
+GA 27 33.529 7
+GA 28 33.529 7
+GA 29 32.878 7
+GA 30 32.878 7
+GA 31 32.878 7
+GA 32 32.878 7
+GA 33 32.878 7
+GA 34 32.878 7
+GA 35 32.878 7
+GA 36 32.878 7
+GA 37 32.878 7
+GA 38 32.878 7
+GA 39 32.878 7
+Tuner converged in generation 51
+Tuner 871.442 223.509
+Tuner 871.442 219.892
+Tuner 32.878 33.104
+Tuner 73.31 41.236
+Tuner 619.3 37.937
+Tuner converged in generation 97
+Tuner 657.141 35.512
+Tuner 32.878 34.437
+Tuner converged in generation 78
+Tuner 32.878 34.897
+Tuner converged in generation 86
+Tuner 57.049 33.774
+Tuner 1001.962 33.91
+Tuner 32.878 33.703
+Tuner 16227.6 36.307
+Tuner 73.31 41.081
+Tuner 32.878 32.541
+Tuner 73.31 41.265
+Tuner converged in generation 97
+Tuner 563.45 32.358
+Tuner 73.31 41.287
+Tuner converged in generation 84
+Tuner 437.574 41.545
+Tuner 73.31 41.348
+Tuner converged in generation 92
+Tuner 437.574 41.087
+Tuner 462.19 33.132
+Tuner 32.878 32.649
+Tuner 19574.291 34.572
+Tuner 123.66 33.202
+Tuner converged in generation 83
+Tuner 437.574 41.187
+Tuner 16227.6 32.828
+Tuner converged in generation 79
+Tuner 871.442 210.345
+Tuner 52.712 35.958
+Tuner converged in generation 58
+Tuner 871.442 208.192
+Tuner 1251.931 34.841
+Tuner 73.31 41.362
+Tuner converged in generation 87
+Tuner 32.878 34.12
+Tuner 48.581 34.623
+Tuner converged in generation 88
+Tuner 33.529 33.145
+Tuner converged in generation 82
+Tuner 52.712 33.073
+Tuner 1001.962 38.196
+Tuner 52.712 33.684
+Tuner 32.878 32.84
+Tuner 57.049 39.413
+Tuner 8914.241 33.91
+Tuner 437.574 41.317
+Tuner 16227.6 34.905
+Tuner converged in generation 56
+Tuner 843.205 223.61
+Tuner 843.205 220.444
+Tuner 52.712 33.035
+Tuner 32.878 32.885
+Tuner converged in generation 73
+Tuner 843.205 221.856
+Tuner 73.31 41.196
+Tuner 51.684 32.346
+Tuner 56.04 33.666
+Tuner converged in generation 93
+Tuner 16227.6 33.466
+Tuner converged in generation 70
+Tuner 871.442 213.559
+Tuner 32.878 32.696
+Tuner 78.44 33.064
+Tuner 619.3 39.631
+Tuner 32.878 35.223
+Tuner 32.878 34.45
+Tuner converged in generation 77
+Tuner 32.878 35.928
+Tuner converged in generation 98
+Tuner 51.684 36.372
+Tuner 1251.931 41.882
+Tuner 32.878 33.654
+Tuner 33.529 35.688
+Tuner 32.878 33.217
+Tuner 366.787 41.549
+Tuner 32.878 32.99
+Tuner 32.878 32.564
+Tuner 33.529 33.578
+Tuner 1001.962 36.448
+Tuner converged in generation 70
+Tuner 33.529 38.474
+Tuner 16227.6 34.07
+Tuner converged in generation 86
+Tuner 462.19 33.206
+Tuner 8914.241 39.251
+Tuner converged in generation 74
+Tuner 32.878 36.079
+Tuner 73.31 41.249
+Tuner 33.529 35.607
+Tuner 32.878 35.878
+Tuner 32.878 33.372
+Tuner 52.712 32.66
+Tuner converged in generation 94
+Tuner 32.878 36.698
+Tuner 32.878 37.116
+Tuner 32.878 33.681
+Tuner converged in generation 93
+Tuner 52.712 36.848
+Tuner 73.31 41.624
+Tuner 1001.962 34.233
+Tuner 73.31 41.306
+Tuner 871.442 207.268
+Tuner converged in generation 57
+Tuner 871.442 205.096
+Tuner 32.878 33.645
+Tuner 32.878 33.315
+Tuner 619.3 35.909
+Tuner 32.878 33.478
+GA 40 32.346 9
+GA 41 32.346 9
+GA 42 32.346 9
+GA 43 32.346 9
+GA 44 32.337 9
+GA 45 32.337 9
+GA 46 32.337 9
+GA 47 32.337 9
+GA 48 32.337 9
+GA 49 32.337 9
+GA 50 32.337 9
+GA 51 32.337 9
+GA 52 32.337 9
+GA 53 32.337 9
+GA 54 32.337 9
+GA 55 32.337 9
+GA 56 32.337 9
+GA 57 32.337 9
+GA 58 32.337 9
+GA 59 32.337 9
+Tuner 32.337 34.588
+Tuner 1318.925 33.571
+Tuner 96.101 32.52
+Tuner converged in generation 83
+Tuner 1318.925 35.124
+Tuner 32.337 35.351
+Tuner 3710.404 33.629
+Tuner 43566.506 38.523
+Tuner 32.337 33.714
+Tuner 974.914 33.855
+Tuner 32.337 37.926
+Tuner 234.908 32.853
+Tuner 921.058 215.704
+Tuner 3899.874 40.155
+Tuner converged in generation 86
+Tuner 32.337 35.998
+Tuner 125.103 33.708
+Tuner 6319.958 37.626
+Tuner 32.428 36.54
+Tuner 82.86 38.54
+Tuner 66.214 32.975
+Tuner 75.051 33.766
+Tuner 32.337 34.733
+Tuner converged in generation 63
+Tuner 129.646 33.259
+Tuner 40992.435 32.399
+Tuner converged in generation 95
+Tuner 115.871 34.495
+Tuner 278.297 33.563
+Tuner 32.337 33.525
+Tuner 66.214 34.984
+Tuner converged in generation 92
+Tuner 125.103 34.158
+Tuner 6335.631 37.496
+Tuner 16511.089 39.402
+Tuner 1318.925 35.803
+Tuner 278.297 32.666
+Tuner 16511.089 38.637
+Tuner 32.337 32.368
+Tuner 82.86 33.065
+Tuner 32.337 34.096
+Tuner 82.86 39.34
+Tuner 4180.884 34.052
+Tuner 43566.506 36.488
+Tuner 32.337 34.259
+Tuner 32.337 36.265
+Tuner converged in generation 59
+Tuner 234.908 33.339
+Tuner 4180.884 33.098
+Tuner 9815.317 36.585
+Tuner 32.337 32.365
+Tuner 130.742 33.515
+Tuner 1105.535 35.504
+Tuner 16511.089 41.479
+Tuner 32.337 37.451
+Tuner 9815.317 36.879
+Tuner 1413.432 32.902
+Tuner 43566.506 35.996
+Tuner converged in generation 88
+Tuner 32.337 33.989
+Tuner converged in generation 58
+Tuner 330.925 207.144
+Tuner 974.914 35.91
+Tuner 3899.874 38.575
+Tuner 32.337 35.917
+Tuner converged in generation 88
+Tuner 921.058 223.688
+Tuner 32.337 36.782
+Tuner 32.337 34.481
+Tuner 234.908 33.546
+Tuner 32.337 33.794
+Tuner 43566.506 34.285
+Tuner 66.214 33.991
+Tuner converged in generation 70
+Tuner 330.925 218.945
+Tuner 3710.404 34.659
+Tuner 3899.874 37.98
+Tuner 278.297 34.252
+Tuner 203.101 34.977
+Tuner 32.337 33.261
+Tuner 974.914 33.044
+Tuner converged in generation 45
+Tuner 234.908 40.388
+Tuner 475.966 35.595
+Tuner 6335.631 45.22
+Tuner 43566.506 48.957
+Tuner 9815.317 33.767
+Tuner 234.908 35.119
+Tuner 6319.958 37.249
+Tuner 130.742 32.376
+Tuner 32.337 32.709
+Tuner 6319.958 38.639
+Tuner 1318.925 33.162
+Tuner 253.101 32.639
+Tuner 16511.089 34.952
+GA 60 32.337 9
+GA 61 32.337 9
+GA 62 32.337 9
+GA 63 32.337 9
+GA 64 32.337 9
+GA 65 32.337 9
+GA 66 32.337 9
+GA 67 32.337 9
+GA 68 32.337 9
+GA 69 32.337 9
+GA 70 32.337 9
+GA 71 32.337 9
+GA 72 32.337 9
+GA 73 32.337 9
+GA 74 32.337 9
+GA 75 32.337 9
+GA 76 32.337 9
+GA 77 32.337 9
+GA 78 32.337 9
+GA 79 32.337 9
+Tuner converged in generation 97
+Tuner 4180.884 32.558
+Tuner 1226.877 33.792
+Tuner 96.101 34.641
+Tuner 115.871 35.193
+Tuner 9815.317 35.916
+Tuner 278.297 36.552
+Tuner converged in generation 89
+Tuner 330.925 217.528
+Tuner 1413.432 36.828
+Tuner converged in generation 90
+Tuner 115.871 35.425
+Tuner 82.86 34.741
+Tuner converged in generation 67
+Tuner 125.103 34.993
+Tuner 6319.958 37.644
+Tuner 32.346 32.909
+Tuner 16511.089 32.497
+Tuner 234.908 33.484
+Tuner 1413.432 39.45
+Tuner 32.337 35.504
+Tuner 1413.432 36.762
+Tuner 32.337 36.258
+Tuner 115.871 35.702
+Tuner converged in generation 61
+Tuner 921.058 219.071
+Tuner 6319.958 44.032
+Tuner 3955.416 32.262
+Tuner 25851.708 36.057
+Tuner 32.337 38.217
+Tuner 974.914 33.97
+Tuner 115.871 33.78
+Tuner 33.683 36.11
+Tuner 33.08 33.113
+Tuner 66.214 35.151
+Tuner 43566.506 37.928
+Tuner converged in generation 87
+Tuner 330.925 209.99
+Tuner 32.428 34.424
+Tuner 6335.631 40.784
+Tuner converged in generation 99
+Tuner 234.908 34.288
+Tuner converged in generation 81
+Tuner 32.337 35.574
+Tuner 32.337 36.768
+Tuner 234.908 34.655
+Tuner converged in generation 78
+Tuner 129.646 34.125
+Tuner 32.337 38.649
+Tuner 129.646 35.828
+Tuner 1226.877 37.402
+Tuner 6335.631 37.894
+Tuner 33.683 43.373
+Tuner 43566.506 33.374
+Tuner 3425.186 38.725
+Tuner converged in generation 72
+Tuner 115.871 35.427
+Tuner 82.86 39.665
+Tuner 32.337 32.71
+Tuner 32.337 37.403
+Tuner 32.337 35.78
+Tuner 278.297 34.281
+Tuner converged in generation 65
+Tuner 115.871 36.898
+Tuner converged in generation 99
+Tuner 82.86 32.815
+Tuner 2880.225 32.808
+Tuner 32.346 38.222
+Tuner 32.337 33.873
+Tuner converged in generation 99
+Tuner 6319.958 36.305
+Tuner 32.337 32.968
+Tuner 27020.611 34.173
+Tuner 32.346 34.741
+Tuner 203.101 33.898
+Tuner converged in generation 86
+Tuner 974.914 35.731
+Tuner 32.337 33.57
+Tuner converged in generation 63
+Tuner 921.058 213.174
+Tuner 1413.432 35.989
+Tuner 33.683 35.072
+Tuner 626.297 35.112
+Tuner 6335.631 36.509
+Tuner 4180.884 33.141
+Tuner 32.337 34.707
+Tuner 6335.631 36.151
+Tuner 32.337 33.557
+Tuner 32.337 36.55
+Tuner 253.101 35.617
+Tuner 82.86 35.44
+Tuner 32.337 33.272
+Tuner 82.86 35.108
+Tuner 3710.404 36.371
+Tuner 32.337 37.132
+Tuner 130.742 32.738
+Tuner 1413.432 34.263
+Tuner converged in generation 47
+Tuner 330.925 214.319
+Tuner 253.101 32.616
+Tuner 253.101 35.589
+GA 80 32.262 9
+GA 81 32.262 9
+GA 82 32.262 9
+GA 83 32.262 9
+GA 84 32.262 9
+GA 85 32.262 9
+GA 86 32.262 9
+GA 87 32.262 9
+GA 88 32.262 9
+GA 89 32.262 9
+GA 90 32.262 9
+GA 91 32.262 9
+GA 92 32.262 9
+GA 93 32.262 9
+GA 94 32.262 9
+GA 95 32.262 9
+GA 96 32.262 9
+GA 97 32.262 9
+GA 98 32.262 9
+GA 99 32.262 9
+Tuner 519.503 46.327
+Tuner converged in generation 92
+Tuner 92.335 34.714
+Tuner converged in generation 86
+Tuner 531.622 222.152
+Tuner 32.262 32.748
+Tuner 702.37 34.161
+Tuner 32.262 32.944
+Tuner 13753.104 33.51
+Tuner 421.207 32.586
+Tuner 1341.476 33.787
+Tuner 32.262 35.454
+Tuner 401.903 34.218
+Tuner 45.768 36.418
+Tuner 32.262 34.613
+Tuner 13753.104 37.726
+Tuner 447.279 36.545
+Tuner 34.589 36.512
+Tuner 86.251 32.656
+Tuner 40.319 36.075
+Tuner 997.901 34.546
+Tuner 1341.476 46.46
+Tuner 13753.104 40.501
+Tuner 46.62 35.241
+Tuner converged in generation 92
+Tuner 132.307 34.605
+Tuner 62.389 33.443
+Tuner 64.211 40.385
+Tuner 34.589 34.241
+Tuner 1341.476 34.171
+Tuner 621.788 34.173
+Tuner 531.622 210.767
+Tuner 114.147 33.192
+Tuner 447.279 43.07
+Tuner 32.262 35.231
+Tuner converged in generation 97
+Tuner 32.262 33.513
+Tuner 447.279 32.746
+Tuner 1644.776 34.411
+Tuner 47.159 34.805
+Tuner 32.262 33.345
+Tuner 32.262 34.801
+Tuner 34.589 33.278
+Tuner converged in generation 93
+Tuner 132.307 33.018
+Tuner 34.589 36.133
+Tuner 32.262 36.025
+Tuner converged in generation 91
+Tuner 1644.776 35.992
+Tuner converged in generation 66
+Tuner 86.251 33.113
+Tuner 96.447 40.055
+Tuner 447.279 35.985
+Tuner 39.837 35.588
+Tuner converged in generation 71
+Tuner 62.389 35.806
+Tuner 32.262 32.808
+Tuner 34.589 34.369
+Tuner converged in generation 89
+Tuner 32.262 35.611
+Tuner converged in generation 91
+Tuner 560.853 33.396
+Tuner converged in generation 83
+Tuner 702.37 32.702
+Tuner 18889.647 35.569
+Tuner 56.215 35.239
+Tuner 1563.154 34.131
+Tuner 32.262 35.204
+Tuner 997.901 37.821
+Tuner 32.262 35.766
+Tuner 46.62 35.587
+Tuner 997.901 36.912
+Tuner 513.446 35.902
+Tuner 35.065 33.641
+Tuner 32.262 33.777
+Tuner converged in generation 98
+Tuner 997.901 35.041
+Tuner 132.307 34.363
+Tuner 62.389 35.447
+Tuner 32.262 34.362
+Tuner 114.147 37.393
+Tuner 32.262 40.738
+Tuner 686.504 33.166
+Tuner 447.279 41.19
+Tuner 32.262 35.066
+Tuner converged in generation 92
+Tuner 32.262 33.621
+Tuner 513.446 42.151
+Tuner 621.788 35.794
+Tuner 621.788 39.703
+Tuner 401.903 39.649
+Tuner 1563.154 32.499
+Tuner 47.747 34.964
+Tuner converged in generation 90
+Tuner 39.837 36.439
+Tuner 40.319 32.704
+Tuner converged in generation 86
+Tuner 34.875 35.145
+Tuner converged in generation 90
+Tuner 702.37 33.701
+Tuner 763.995 35.805
+Tuner 763.995 35.815
+Tuner 47.747 35.542
+Tuner 32.262 33.054
+Tuner 47.159 32.482
+Tuner 62.389 36.5
+Tuner 34.589 36.15
+GA 100 32.262 9
+Terminating at
+	100 generations
+	4413299 evaluations
+	20354.18 seconds
+KFold Run: 9
+Training
+	MSE: 32.262
+	Rsquared: 0.641
+Testing
+	MSE: 15.037
+	Rsquared: 0.203
+
+KFold Result
+Testing
+	MSE: 35.541399597402545 30.411080005860512
+Training
+	MSE: 27.577175354222486 8.12370585928604
