@@ -68,6 +68,30 @@ class SimpleGP:
 
         return must_terminate
 
+    def _tune_generation(self, population, offspring):
+        tuned_generation = []
+        # If in Baldwin mode, tune both the population + offspring, otherwise only tune the offspring
+        if self.baldwin:
+            individuals_to_be_tuned = population + offspring
+        else:
+            individuals_to_be_tuned = offspring
+
+        for indv in individuals_to_be_tuned:
+            if indv.get_number_of_children() > 0 and self.generations in self.tuner.run_generations:
+                if random() < self.tuner.population_fraction:
+                    self.tuner.set_individual(indv)
+                    indv = self.tuner.tune_weights()
+                tuned_generation.append(indv)
+            else:
+                tuned_generation.append(indv)
+
+        # If in Lamarckian mode, the parents still need to be added to the newly tuned offspring
+        # In Baldwin mode, both parents and offspring are tuned each generation
+        if not self.baldwin:
+            tuned_generation.extend(population)
+
+        return tuned_generation
+
     def run(self):
         # Reset the GA
         self.generations = 0
@@ -100,21 +124,11 @@ class SimpleGP:
 
                 offspring.append(o)
 
-            OT = []
-            for indv in offspring:
-                if len(indv._children) > 0 and self.generations in self.tuner.run_generations:
-                    if random() < self.tuner.population_fraction:
-                        self.tuner.set_individual(indv)
-                        indv = self.tuner.tune_weights()
-                    OT.append(indv)
-                else:
-                    OT.append(indv)
+            population_and_offspring = self._tune_generation(population, offspring)
 
-            offspring = OT
+            population = Selection.tournament_select(population_and_offspring, self.pop_size, tournament_size=self.tournament_size)
 
-            PO = population + offspring
-            population = Selection.tournament_select(PO, self.pop_size, tournament_size=self.tournament_size)
-
+            # Reset the weights of all individuals if in Baldwin mode
             if self.baldwin:
                 for indv in population:
                     indv.reset_weights()
@@ -124,3 +138,4 @@ class SimpleGP:
                   f'{self.generations} '
                   f'{np.round(self.fitness_function.elite.fitness, 3)} '
                   f'{len(self.fitness_function.elite.get_subtree())}')
+
