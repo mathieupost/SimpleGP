@@ -90,6 +90,9 @@ class Node:  # Base class with general functionalities
             res += c.readable_string(indent, [self._children_scaling[i], self._children_translation[i]])
         return res
 
+    def get_number_of_children(self):
+        return len(self._children)
+
     def __get_subtree_recursive(self, result):
         result.append(self)
         for c in self._children:
