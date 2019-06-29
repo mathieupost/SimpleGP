@@ -1,0 +1,4039 @@
+Run0
+GA 1 40.513 1
+GA 2 39.578 9
+GA 3 28.649 5
+GA 4 28.649 5
+Tuner converged in generation 63
+Tuner 46.802 46.802
+Tuner 28.649 23.344
+Tuner 61.681 31.992
+Tuner 67.603 23.406
+Tuner 40.176 25.897
+Tuner converged in generation 61
+Tuner 28.649 23.343
+Tuner 38.836 26.436
+Tuner 67.603 23.35
+Tuner converged in generation 60
+Tuner 77.864 40.346
+Tuner 38.836 26.639
+Tuner 55.57 33.531
+Tuner 36.695 31.362
+Tuner 42.8 23.738
+Tuner converged in generation 82
+Tuner 39.578 31.381
+Tuner 69.87 25.098
+Tuner converged in generation 76
+Tuner 38.836 26.602
+Tuner 57.99 31.408
+Tuner 39.578 31.432
+Tuner 46.24 21.436
+Tuner 67.603 23.366
+Tuner 28.649 23.343
+Tuner converged in generation 75
+Tuner 28.649 23.348
+Tuner 76.261 24.274
+GA 5 21.436 13
+GA 6 21.436 13
+GA 7 21.01 13
+GA 8 21.01 13
+GA 9 21.01 13
+Tuner 57.398 23.774
+Tuner 27.754 23.346
+Tuner 24.267 22.088
+Tuner 49.08 40.774
+Tuner 88.783 25.493
+Tuner converged in generation 88
+Tuner 48.916 39.122
+Tuner 41.188 38.561
+Tuner 21.792 25.527
+Tuner converged in generation 97
+Tuner 45.157 20.683
+Tuner 21.436 22.519
+Tuner 28.613 22.986
+Tuner 77.975 21.159
+Tuner 25.963 24.747
+Tuner 23.873 23.304
+Tuner 23.033 23.609
+Tuner converged in generation 74
+Tuner 71.626 41.917
+Tuner 23.343 23.345
+Tuner 30.133 21.528
+Tuner 23.771 23.261
+Tuner 21.436 24.204
+Tuner 82.258 21.217
+Tuner 23.343 23.347
+Tuner converged in generation 50
+Tuner 40.513 40.513
+Tuner 25.013 23.923
+Tuner 32.0 25.218
+Tuner 40.122 27.53
+Tuner 23.343 23.348
+Tuner 45.358 31.951
+Tuner 24.639 23.342
+Tuner 56.242 34.352
+Tuner 53.843 22.167
+Tuner 40.513 40.513
+Tuner converged in generation 71
+Tuner 87.624 64.39
+Tuner 39.603 27.165
+Tuner 23.386 23.35
+Tuner 26.085 23.342
+Tuner 22.762 21.279
+Tuner converged in generation 47
+Tuner 54.6 28.743
+Tuner 28.1 26.028
+Tuner 73.098 20.9
+Tuner 25.162 24.2
+Tuner 22.828 20.157
+Tuner 41.997 26.971
+Tuner 26.245 22.343
+Tuner 21.436 23.094
+Tuner 40.345 25.021
+Tuner 76.357 23.147
+Tuner 79.657 27.626
+Tuner 23.344 23.346
+Tuner 51.839 24.015
+Tuner 32.712 27.059
+Tuner 28.406 22.081
+Tuner 69.241 21.334
+Tuner 82.592 23.35
+Tuner converged in generation 96
+Tuner 27.215 25.066
+Tuner 79.615 23.287
+Tuner converged in generation 63
+Tuner 74.839 37.874
+Tuner 43.942 21.596
+Tuner 32.755 24.365
+Tuner 39.977 26.086
+Tuner 27.908 22.492
+Tuner 32.247 25.18
+Tuner 26.18 22.651
+Tuner 80.988 19.558
+Tuner 39.743 29.748
+Tuner 54.937 32.122
+Tuner 23.738 23.608
+Tuner 46.802 46.802
+Tuner 21.792 23.611
+Tuner 37.198 23.303
+Tuner 54.6 28.746
+Tuner 27.754 22.39
+Tuner 21.436 23.86
+Tuner 44.989 26.42
+Tuner 22.955 27.118
+Tuner 34.952 28.7
+Tuner 76.365 21.625
+Tuner converged in generation 40
+Tuner 46.802 46.802
+Tuner converged in generation 98
+Tuner 78.816 39.016
+Tuner 27.754 23.079
+Tuner 23.805 22.932
+Tuner 40.301 27.683
+Tuner 37.441 21.773
+Tuner converged in generation 73
+Tuner 45.637 23.351
+Tuner 42.245 28.773
+Tuner 37.023 22.479
+Tuner 30.056 28.478
+Tuner 28.112 22.912
+Tuner 68.737 36.084
+Tuner 25.476 20.824
+Tuner converged in generation 89
+Tuner 82.258 21.301
+Tuner 30.605 21.84
+Tuner converged in generation 94
+Tuner 87.624 64.39
+Tuner 24.267 22.673
+Tuner 36.093 22.663
+Tuner 76.194 21.909
+GA 10 19.558 15
+GA 11 19.558 15
+GA 12 19.558 15
+GA 13 19.226 15
+GA 14 18.382 17
+Tuner 20.612 20.533
+Tuner 20.864 20.347
+Tuner 25.82 27.384
+Tuner 31.564 22.008
+Tuner 24.202 21.472
+Tuner 84.033 34.269
+Tuner 31.894 27.568
+Tuner 21.713 20.633
+Tuner 30.934 25.385
+Tuner 36.432 25.83
+Tuner 36.692 26.405
+Tuner 36.762 22.017
+Tuner 54.895 26.419
+Tuner 21.025 22.608
+Tuner 29.554 24.519
+Tuner 87.771 24.879
+Tuner 62.967 28.531
+Tuner 24.234 23.057
+Tuner 43.896 24.408
+Tuner 48.606 20.162
+Tuner 20.033 23.186
+Tuner 72.163 41.917
+Tuner 20.856 20.749
+Tuner 27.173 23.919
+Tuner 23.297 23.708
+Tuner 29.73 23.599
+Tuner converged in generation 64
+Tuner 75.942 64.39
+Tuner 68.128 23.568
+Tuner 45.446 24.01
+Tuner 19.773 20.577
+Tuner 58.336 22.01
+Tuner 25.227 21.784
+Tuner 32.007 27.063
+Tuner converged in generation 77
+Tuner 40.513 40.513
+Tuner 40.526 24.434
+Tuner 37.865 27.147
+Tuner converged in generation 87
+Tuner 42.732 38.471
+Tuner 26.099 22.122
+Tuner 71.626 41.917
+Tuner 22.703 20.801
+Tuner 54.373 25.275
+Tuner 36.345 28.655
+Tuner 22.304 22.435
+Tuner 31.027 21.831
+Tuner 26.543 22.869
+Tuner converged in generation 86
+Tuner 20.568 20.709
+Tuner 20.917 21.984
+Tuner 41.97 21.502
+Tuner 36.432 26.421
+Tuner 43.266 25.164
+Tuner 22.154 21.484
+Tuner converged in generation 58
+Tuner 75.942 64.392
+Tuner 19.798 23.25
+Tuner 24.654 23.703
+Tuner 34.572 27.255
+Tuner 74.097 64.39
+Tuner 19.558 23.007
+Tuner 21.635 23.555
+Tuner 20.9 22.397
+Tuner 20.144 23.279
+Tuner 30.182 26.702
+Tuner 19.558 23.22
+Tuner 22.384 22.91
+Tuner 61.944 26.921
+Tuner 75.443 32.646
+Tuner 28.525 22.316
+Tuner 19.558 23.949
+Tuner 52.507 41.917
+Tuner 27.566 21.703
+Tuner 45.771 21.902
+Tuner 26.909 21.33
+Tuner 27.991 21.242
+Tuner 32.297 21.436
+Tuner 24.427 22.571
+Tuner 19.314 23.169
+Tuner 20.723 20.723
+Tuner 29.589 21.556
+Tuner 47.615 36.462
+Tuner converged in generation 91
+Tuner 50.957 28.754
+Tuner 19.081 22.539
+Tuner 70.971 23.223
+Tuner 24.243 23.118
+Tuner 68.128 22.346
+Tuner 42.726 24.564
+Tuner converged in generation 86
+Tuner 75.942 64.391
+Tuner 19.558 24.131
+Tuner 19.226 23.504
+Tuner 19.558 23.457
+Tuner 30.635 23.074
+Tuner 22.455 23.158
+Tuner 26.969 23.307
+GA 15 18.382 17
+GA 16 18.382 17
+GA 17 17.129 17
+GA 18 16.987 27
+GA 19 16.523 17
+Tuner 32.227 21.657
+Tuner 16.794 22.609
+Tuner 22.056 24.832
+Tuner 51.882 28.18
+Tuner 32.007 26.6
+Tuner 19.387 24.423
+Tuner 18.358 22.168
+Tuner converged in generation 87
+Tuner 26.543 23.81
+Tuner 26.543 20.262
+Tuner 16.987 23.281
+Tuner 22.821 25.521
+Tuner 29.168 22.841
+Tuner 20.803 23.483
+Tuner 32.808 20.878
+Tuner 75.942 64.39
+Tuner 51.882 28.152
+Tuner 35.102 25.524
+Tuner 18.386 20.035
+Tuner 28.536 21.025
+Tuner converged in generation 65
+Tuner 50.957 28.748
+Tuner 28.488 21.111
+Tuner 71.147 26.241
+Tuner 36.981 26.106
+Tuner 20.016 25.424
+Tuner 61.107 27.568
+Tuner 72.134 25.063
+Tuner 49.172 26.407
+Tuner 45.034 23.136
+Tuner 20.389 22.603
+Tuner 20.588 22.269
+Tuner 37.324 21.939
+Tuner 26.031 21.177
+Tuner 53.545 23.344
+Tuner 20.803 22.663
+Tuner 18.514 22.434
+Tuner 18.927 21.885
+Tuner 18.382 22.05
+Tuner 26.824 22.939
+Tuner 28.893 20.525
+Tuner 22.225 28.006
+Tuner 37.177 23.1
+Tuner 37.177 21.875
+Tuner 19.301 20.374
+Tuner 51.507 22.026
+Tuner 18.386 20.355
+Tuner converged in generation 98
+Tuner 57.605 20.612
+Tuner 32.198 26.191
+Tuner 16.936 26.041
+Tuner 32.007 27.086
+Tuner 23.587 27.151
+Tuner 27.533 21.306
+Tuner 21.941 25.934
+Tuner 85.412 22.66
+Tuner 58.646 25.596
+Tuner 21.773 21.139
+Tuner 26.543 23.185
+Tuner 75.443 32.366
+Tuner 23.684 20.895
+Tuner 65.941 37.843
+Tuner 16.987 24.36
+Tuner 73.613 25.867
+Tuner 18.386 21.386
+Tuner 41.525 25.648
+Tuner 20.293 25.298
+Tuner 85.459 24.129
+Tuner 18.373 23.427
+Tuner 54.597 22.485
+Tuner 25.328 24.142
+Tuner 34.824 26.161
+Tuner converged in generation 53
+Tuner 50.957 28.759
+Tuner 51.882 28.21
+Tuner 24.506 23.994
+Tuner 26.937 24.22
+Tuner 31.45 21.509
+Tuner converged in generation 71
+Tuner 50.957 28.749
+Tuner 84.25 23.226
+Tuner 28.28 19.4
+Tuner 52.83 27.289
+Tuner 18.404 20.004
+Tuner 55.589 23.577
+Tuner 19.179 22.286
+Tuner 31.859 22.973
+Tuner 21.395 26.892
+Tuner 50.911 20.198
+Tuner 25.14 26.4
+Tuner 73.607 21.252
+Tuner 18.386 21.925
+Tuner 42.559 24.594
+Tuner 31.43 22.562
+Tuner 71.331 21.781
+Tuner 36.345 28.676
+Tuner 18.349 20.754
+GA 20 16.523 17
+Terminating at
+	20 generations
+	2977400 evaluations
+	3061.22 seconds
+KFold Run: 0
+Training
+	MSE: 16.523
+	Rsquared: 0.815
+Testing
+	MSE: 9.646
+	Rsquared: 0.723
+
+Run1
+GA 1 40.4 1
+GA 2 38.46 9
+GA 3 35.152 9
+GA 4 33.359 3
+Tuner 80.412 39.868
+Tuner 76.928 32.792
+Tuner 38.46 30.86
+Tuner converged in generation 92
+Tuner 38.921 30.91
+Tuner 38.921 30.852
+Tuner 48.739 31.717
+Tuner 49.829 30.857
+Tuner 82.765 37.883
+Tuner 48.675 42.26
+Tuner 41.74 31.242
+Tuner 53.788 25.845
+Tuner 39.289 28.87
+Tuner 68.628 37.819
+Tuner 39.155 31.625
+Tuner 62.131 23.909
+Tuner 38.46 31.125
+Tuner 39.289 28.871
+Tuner 39.692 30.835
+Tuner 53.819 20.898
+Tuner 29.616 28.825
+Tuner 75.111 38.224
+Tuner 35.152 30.841
+Tuner 39.155 31.622
+Tuner 53.709 30.799
+Tuner converged in generation 99
+Tuner 35.62 31.759
+Tuner 35.152 30.858
+Tuner converged in generation 82
+Tuner 33.359 32.958
+Tuner 36.284 31.791
+Tuner 35.62 31.716
+Tuner 66.163 66.163
+Tuner 48.675 31.785
+Tuner converged in generation 98
+Tuner 87.368 38.878
+Tuner converged in generation 59
+Tuner 39.289 28.869
+Tuner 55.866 37.938
+Tuner 53.709 30.959
+Tuner 51.794 32.792
+Tuner 89.417 30.917
+Tuner 48.873 31.064
+Tuner converged in generation 83
+Tuner 66.163 66.163
+Tuner converged in generation 94
+Tuner 80.381 39.889
+Tuner 39.452 31.691
+Tuner 35.152 30.957
+Tuner converged in generation 61
+Tuner 38.921 30.95
+Tuner converged in generation 94
+Tuner 66.163 66.163
+Tuner converged in generation 98
+Tuner 36.878 31.627
+Tuner converged in generation 69
+Tuner 44.12 35.677
+Tuner converged in generation 54
+Tuner 40.4 40.4
+Tuner 33.434 31.617
+Tuner 75.111 38.225
+Tuner 87.368 38.878
+Tuner 39.155 31.613
+Tuner 39.711 32.802
+Tuner 37.608 32.793
+Tuner converged in generation 64
+Tuner 39.93 28.802
+Tuner 36.878 31.68
+Tuner converged in generation 89
+Tuner 39.155 31.613
+Tuner 90.075 32.958
+Tuner 90.075 32.958
+Tuner converged in generation 97
+Tuner 54.143 38.878
+Tuner converged in generation 81
+Tuner 56.492 38.225
+Tuner 79.003 38.413
+Tuner 64.49 55.058
+Tuner converged in generation 67
+Tuner 36.284 31.787
+Tuner converged in generation 48
+Tuner 88.496 27.914
+Tuner 29.616 28.825
+Tuner 86.745 30.704
+Tuner 35.152 30.966
+GA 5 20.898 5
+GA 6 20.898 5
+GA 7 20.898 5
+GA 8 20.898 5
+GA 9 20.898 5
+Tuner converged in generation 64
+Tuner 42.58 28.135
+Tuner 23.726 22.663
+Tuner 28.059 21.741
+Tuner 37.664 22.346
+Tuner 33.069 23.455
+Tuner converged in generation 87
+Tuner 60.824 30.818
+Tuner 26.433 20.713
+Tuner converged in generation 75
+Tuner 40.464 36.804
+Tuner 30.661 24.202
+Tuner 23.909 21.784
+Tuner 25.06 21.015
+Tuner converged in generation 61
+Tuner 71.103 42.26
+Tuner 67.212 26.234
+Tuner converged in generation 92
+Tuner 71.103 42.26
+Tuner converged in generation 98
+Tuner 60.824 30.927
+Tuner converged in generation 82
+Tuner 39.745 28.825
+Tuner converged in generation 97
+Tuner 24.026 23.532
+Tuner 25.845 25.844
+Tuner converged in generation 93
+Tuner 38.457 22.497
+Tuner converged in generation 64
+Tuner 39.909 28.636
+Tuner 23.909 22.318
+Tuner converged in generation 54
+Tuner 47.842 25.3
+Tuner 86.623 24.368
+Tuner 24.202 21.722
+Tuner 39.626 24.063
+Tuner 20.898 20.817
+Tuner 23.909 23.774
+Tuner converged in generation 45
+Tuner 39.745 28.826
+Tuner 39.909 28.809
+Tuner 23.909 24.281
+Tuner 83.091 22.683
+Tuner 71.103 42.26
+Tuner 21.903 22.95
+Tuner 23.909 22.902
+Tuner 33.244 32.958
+Tuner 23.909 23.038
+Tuner 49.579 32.802
+Tuner converged in generation 69
+Tuner 40.296 36.964
+Tuner 42.085 21.465
+Tuner 40.541 38.399
+Tuner 20.898 20.293
+Tuner 23.909 23.692
+Tuner 74.164 21.734
+Tuner 23.909 23.823
+Tuner 23.584 22.218
+Tuner converged in generation 74
+Tuner 26.433 20.548
+Tuner 23.909 23.629
+Tuner converged in generation 63
+Tuner 52.116 28.876
+Tuner 26.649 23.253
+Tuner 21.706 20.663
+Tuner 27.746 27.331
+Tuner 32.891 24.811
+Tuner 42.58 29.272
+Tuner 37.291 26.165
+Tuner 26.154 28.479
+Tuner 33.069 24.775
+Tuner 42.085 21.627
+Tuner converged in generation 69
+Tuner 39.745 28.825
+Tuner 32.093 21.479
+Tuner 61.184 22.447
+Tuner 80.471 25.247
+Tuner 42.756 23.369
+Tuner 22.863 22.745
+Tuner 40.315 28.765
+Tuner converged in generation 81
+Tuner 41.667 28.873
+Tuner converged in generation 95
+Tuner 44.484 23.339
+Tuner 26.691 23.773
+Tuner 35.813 20.403
+Tuner 23.909 22.998
+Tuner 23.14 22.071
+Tuner 29.86 22.197
+Tuner 24.202 23.617
+Tuner 25.06 22.08
+Tuner 23.909 24.146
+Tuner converged in generation 99
+Tuner 74.828 23.068
+Tuner 74.828 24.032
+Tuner 59.104 28.587
+Tuner converged in generation 80
+Tuner 23.909 23.988
+Tuner 39.027 38.339
+Tuner 52.92 21.851
+Tuner converged in generation 64
+Tuner 39.909 28.691
+Tuner 41.248 24.333
+Tuner converged in generation 72
+Tuner 84.701 28.871
+Tuner 29.077 27.547
+Tuner converged in generation 46
+Tuner 41.667 28.873
+GA 10 20.293 5
+GA 11 20.293 5
+GA 12 20.293 5
+GA 13 20.293 5
+GA 14 20.293 5
+Tuner converged in generation 67
+Tuner 20.403 21.082
+Tuner 34.337 22.603
+Tuner converged in generation 87
+Tuner 34.267 19.934
+Tuner converged in generation 76
+Tuner 53.604 20.511
+Tuner converged in generation 54
+Tuner 40.936 38.293
+Tuner 35.725 20.391
+Tuner converged in generation 85
+Tuner 20.403 20.569
+Tuner 35.725 20.618
+Tuner 62.444 21.366
+Tuner 20.403 21.138
+Tuner converged in generation 93
+Tuner 20.403 20.538
+Tuner converged in generation 86
+Tuner 20.403 20.953
+Tuner 26.106 20.719
+Tuner 21.375 20.495
+Tuner converged in generation 85
+Tuner 28.785 21.2
+Tuner 25.902 22.047
+Tuner converged in generation 88
+Tuner 53.604 20.486
+Tuner converged in generation 87
+Tuner 27.658 20.832
+Tuner converged in generation 94
+Tuner 20.403 20.403
+Tuner converged in generation 78
+Tuner 20.403 20.232
+Tuner converged in generation 88
+Tuner 37.282 32.958
+Tuner converged in generation 44
+Tuner 20.403 21.153
+Tuner converged in generation 72
+Tuner 20.548 20.643
+Tuner converged in generation 75
+Tuner 39.978 21.233
+Tuner 26.102 20.849
+Tuner 20.403 20.63
+Tuner converged in generation 72
+Tuner 37.282 32.958
+Tuner 62.444 21.01
+Tuner 63.181 21.785
+Tuner 20.403 21.668
+Tuner 27.658 21.161
+Tuner 20.403 20.359
+Tuner converged in generation 85
+Tuner 37.282 32.958
+Tuner 63.181 22.446
+Tuner 25.902 21.84
+Tuner 27.375 20.931
+Tuner 20.403 20.368
+Tuner 20.403 20.927
+Tuner 31.808 20.89
+Tuner 40.936 38.27
+Tuner 20.403 20.464
+Tuner converged in generation 62
+Tuner 53.604 20.579
+Tuner 31.808 21.324
+Tuner converged in generation 99
+Tuner 40.936 38.232
+Tuner converged in generation 97
+Tuner 84.757 20.735
+Tuner 46.964 21.394
+Tuner converged in generation 35
+Tuner 34.787 28.876
+Tuner converged in generation 78
+Tuner 61.25 28.871
+Tuner 25.902 21.305
+Tuner 20.548 20.453
+Tuner converged in generation 57
+Tuner 50.628 23.767
+Tuner 20.403 20.625
+Tuner converged in generation 91
+Tuner 20.403 20.801
+Tuner 26.399 21.194
+Tuner converged in generation 74
+Tuner 62.092 21.467
+Tuner converged in generation 87
+Tuner 20.403 20.257
+Tuner converged in generation 79
+Tuner 84.757 22.442
+Tuner converged in generation 72
+Tuner 20.403 20.729
+Tuner 26.106 20.516
+Tuner 84.757 22.315
+Tuner converged in generation 98
+Tuner 71.908 21.195
+Tuner 20.403 20.505
+Tuner converged in generation 92
+Tuner 20.403 20.82
+Tuner converged in generation 85
+Tuner 26.106 20.605
+Tuner converged in generation 82
+Tuner 40.936 38.292
+Tuner converged in generation 66
+Tuner 26.892 20.462
+Tuner converged in generation 78
+Tuner 53.604 20.482
+Tuner converged in generation 83
+Tuner 84.757 21.501
+Tuner converged in generation 77
+Tuner 40.936 38.24
+Tuner 62.444 20.355
+Tuner 20.548 20.455
+Tuner converged in generation 46
+Tuner 37.282 32.958
+Tuner converged in generation 69
+Tuner 34.787 28.873
+Tuner converged in generation 74
+Tuner 20.548 20.448
+Tuner 26.399 21.679
+Tuner 30.015 21.905
+Tuner converged in generation 75
+Tuner 25.902 22.645
+GA 15 19.934 13
+GA 16 19.934 13
+GA 17 19.934 13
+GA 18 19.934 13
+GA 19 19.934 13
+Tuner 36.434 32.958
+Tuner converged in generation 47
+Tuner 72.118 32.958
+Tuner 21.054 20.37
+Tuner 20.232 20.83
+Tuner 51.946 20.957
+Tuner converged in generation 73
+Tuner 52.384 28.825
+Tuner 20.013 21.038
+Tuner 27.841 20.577
+Tuner 29.235 22.589
+Tuner 41.425 20.781
+Tuner 41.425 20.839
+Tuner 53.025 20.548
+Tuner converged in generation 98
+Tuner 61.482 20.448
+Tuner 51.212 23.149
+Tuner 27.389 20.877
+Tuner 41.425 19.843
+Tuner 19.934 20.46
+Tuner converged in generation 78
+Tuner 20.257 21.608
+Tuner 20.295 21.108
+Tuner 20.257 20.468
+Tuner 20.257 21.362
+Tuner 62.711 22.559
+Tuner 29.477 21.142
+Tuner 20.202 20.482
+Tuner converged in generation 66
+Tuner 20.232 20.772
+Tuner 20.257 20.542
+Tuner 87.25 21.169
+Tuner 20.355 20.678
+Tuner 26.404 20.638
+Tuner 20.4 20.563
+Tuner 57.129 21.638
+Tuner 48.865 20.518
+Tuner 39.069 23.938
+Tuner converged in generation 66
+Tuner 45.28 24.35
+Tuner converged in generation 91
+Tuner 20.302 20.35
+Tuner 36.769 22.614
+Tuner 57.129 22.102
+Tuner 21.959 20.733
+Tuner 48.271 21.876
+Tuner 90.471 22.237
+Tuner 28.53 20.412
+Tuner 20.528 20.637
+Tuner 63.55 22.774
+Tuner 19.934 21.261
+Tuner 21.847 20.679
+Tuner 47.304 28.56
+Tuner converged in generation 92
+Tuner 35.056 20.472
+Tuner 50.418 20.443
+Tuner 37.829 20.446
+Tuner 19.934 20.663
+Tuner converged in generation 78
+Tuner 38.054 28.873
+Tuner converged in generation 56
+Tuner 89.112 32.958
+Tuner 19.934 21.148
+Tuner 70.328 22.794
+Tuner 82.82 20.4
+Tuner 21.781 20.973
+Tuner 39.161 22.721
+Tuner 20.232 21.131
+Tuner 21.676 20.538
+Tuner 48.612 21.961
+Tuner converged in generation 75
+Tuner 20.232 20.272
+Tuner converged in generation 90
+Tuner 84.839 20.507
+Tuner 44.543 24.64
+Tuner 19.934 20.344
+Tuner 20.355 21.457
+Tuner 20.4 20.384
+Tuner 62.803 28.873
+Tuner converged in generation 94
+Tuner 48.865 20.466
+Tuner 28.552 22.496
+Tuner 65.427 21.067
+Tuner 19.934 20.535
+Tuner 20.618 20.885
+Tuner 20.757 20.304
+Tuner 26.765 20.693
+Tuner converged in generation 74
+Tuner 81.339 20.542
+Tuner 31.749 28.574
+Tuner 22.547 20.535
+Tuner 28.821 20.786
+Tuner 35.281 19.625
+Tuner 20.125 20.74
+Tuner 25.982 20.4
+Tuner 28.821 20.718
+Tuner 51.946 20.844
+Tuner 44.54 20.493
+Tuner 21.959 20.67
+Tuner converged in generation 88
+Tuner 36.434 32.958
+GA 20 19.625 15
+Terminating at
+	20 generations
+	2972400 evaluations
+	2248.88 seconds
+KFold Run: 1
+Training
+	MSE: 19.625
+	Rsquared: 0.783
+Testing
+	MSE: 7.68
+	Rsquared: 0.714
+
+Run2
+GA 1 40.687 3
+GA 2 40.687 3
+GA 3 35.558 11
+GA 4 34.506 9
+Tuner converged in generation 93
+Tuner 39.608 29.938
+Tuner converged in generation 79
+Tuner 39.608 29.937
+Tuner 39.364 28.533
+Tuner 40.363 28.091
+Tuner 40.363 27.942
+Tuner 39.406 32.13
+Tuner converged in generation 91
+Tuner 37.076 26.797
+Tuner 34.506 30.212
+Tuner 40.023 27.437
+Tuner 39.608 29.937
+Tuner 34.506 30.377
+Tuner 40.427 26.984
+Tuner converged in generation 46
+Tuner 39.608 29.945
+Tuner 43.586 39.867
+Tuner 39.199 27.965
+Tuner converged in generation 89
+Tuner 75.401 72.826
+Tuner 39.608 29.941
+Tuner 74.147 71.878
+Tuner converged in generation 52
+Tuner 39.608 29.934
+Tuner 49.785 26.325
+Tuner 40.687 39.879
+Tuner converged in generation 69
+Tuner 39.608 29.936
+Tuner converged in generation 72
+Tuner 40.687 39.948
+Tuner 40.687 39.872
+Tuner converged in generation 81
+Tuner 40.363 27.838
+Tuner 42.5 31.47
+Tuner converged in generation 57
+Tuner 40.687 39.927
+Tuner 34.71 30.56
+Tuner 39.608 29.938
+Tuner 34.506 30.324
+Tuner converged in generation 83
+Tuner 43.586 39.864
+Tuner 39.199 28.649
+Tuner 39.608 29.937
+Tuner converged in generation 47
+Tuner 80.219 30.004
+Tuner converged in generation 38
+Tuner 39.608 29.934
+Tuner 61.99 30.15
+Tuner 39.199 28.021
+Tuner 54.214 30.787
+Tuner converged in generation 57
+Tuner 40.812 40.812
+Tuner 46.542 29.27
+Tuner converged in generation 80
+Tuner 39.608 29.933
+Tuner converged in generation 59
+Tuner 39.608 29.936
+Tuner converged in generation 91
+Tuner 39.608 29.939
+Tuner 46.681 32.803
+Tuner 34.65 25.429
+Tuner 40.687 39.893
+Tuner converged in generation 99
+Tuner 40.256 39.678
+Tuner 51.804 25.483
+Tuner converged in generation 91
+Tuner 40.687 39.913
+Tuner 40.921 27.92
+Tuner 39.608 29.939
+Tuner converged in generation 94
+Tuner 46.681 32.789
+Tuner converged in generation 63
+Tuner 40.687 39.909
+Tuner converged in generation 58
+Tuner 40.812 29.88
+Tuner converged in generation 78
+Tuner 40.687 39.905
+Tuner 89.25 23.836
+Tuner 40.921 28.574
+Tuner converged in generation 79
+Tuner 40.687 39.917
+Tuner converged in generation 69
+Tuner 32.928 26.784
+GA 5 23.836 7
+GA 6 23.836 7
+GA 7 23.836 7
+GA 8 23.836 7
+GA 9 23.836 7
+Tuner 23.836 24.375
+Tuner converged in generation 89
+Tuner 37.728 24.622
+Tuner 40.944 24.327
+Tuner 23.836 24.195
+Tuner 25.254 23.832
+Tuner 66.455 26.116
+Tuner 89.205 30.216
+Tuner converged in generation 91
+Tuner 34.201 25.006
+Tuner 59.875 24.666
+Tuner 80.747 39.892
+Tuner 77.385 23.719
+Tuner 35.295 29.634
+Tuner 64.577 25.101
+Tuner 38.938 38.935
+Tuner 51.613 28.578
+Tuner 46.649 28.192
+Tuner 27.745 24.454
+Tuner 41.07 25.452
+Tuner 23.836 26.113
+Tuner 30.337 23.153
+Tuner 58.596 25.39
+Tuner converged in generation 80
+Tuner 84.21 28.841
+Tuner 58.573 27.356
+Tuner 32.263 28.712
+Tuner 24.541 26.877
+Tuner 24.942 27.09
+Tuner 76.662 24.481
+Tuner 72.072 25.379
+Tuner 62.465 26.624
+Tuner 78.634 26.709
+Tuner 33.006 23.184
+Tuner 23.836 24.962
+Tuner 23.836 25.049
+Tuner converged in generation 44
+Tuner 76.18 40.647
+Tuner 25.254 23.874
+Tuner 71.216 26.493
+Tuner 41.881 28.55
+Tuner 38.938 38.935
+Tuner 50.237 35.167
+Tuner converged in generation 63
+Tuner 34.827 25.448
+Tuner 81.304 40.487
+Tuner 35.524 25.307
+Tuner 37.165 24.637
+Tuner 30.633 25.586
+Tuner 23.836 24.886
+Tuner 30.78 28.032
+Tuner 72.072 26.681
+Tuner 34.904 22.662
+Tuner 23.836 25.023
+Tuner 24.419 25.119
+Tuner 26.144 24.072
+Tuner 33.737 23.923
+Tuner 25.508 25.36
+Tuner 32.715 26.378
+Tuner 44.046 23.344
+Tuner 24.908 25.61
+Tuner 62.465 26.631
+Tuner 62.465 26.629
+Tuner 36.987 27.929
+Tuner converged in generation 70
+Tuner 23.836 24.065
+Tuner 75.498 28.833
+Tuner 25.696 26.133
+Tuner 29.413 26.286
+Tuner 72.466 30.519
+Tuner 79.192 29.94
+Tuner converged in generation 84
+Tuner 32.447 26.708
+Tuner converged in generation 76
+Tuner 71.0 20.473
+Tuner 32.932 25.993
+Tuner 28.487 28.477
+Tuner 29.96 27.929
+Tuner 24.28 23.351
+Tuner 33.814 26.316
+Tuner 24.541 27.143
+Tuner 24.99 25.557
+Tuner 31.206 27.655
+Tuner 84.542 22.278
+Tuner 27.562 26.749
+Tuner 34.54 33.786
+Tuner 23.897 25.053
+Tuner 38.938 38.935
+Tuner 24.28 22.336
+Tuner 26.49 24.585
+Tuner 46.345 28.584
+Tuner 26.49 23.542
+Tuner 71.0 19.159
+Tuner 44.046 24.17
+Tuner 25.258 26.614
+Tuner 79.973 26.152
+Tuner 24.327 24.574
+Tuner converged in generation 69
+Tuner 30.633 25.542
+Tuner 44.716 28.198
+Tuner 55.419 25.742
+Tuner 23.836 24.967
+Tuner 25.258 25.952
+GA 10 19.159 5
+GA 11 19.159 5
+GA 12 19.159 5
+GA 13 19.159 5
+GA 14 19.159 5
+Tuner 21.018 23.653
+Tuner converged in generation 71
+Tuner 30.963 21.797
+Tuner 67.699 19.401
+Tuner 29.069 21.016
+Tuner 53.363 25.793
+Tuner 21.228 23.396
+Tuner 26.336 20.047
+Tuner 20.473 19.081
+Tuner 83.975 23.497
+Tuner 23.836 24.633
+Tuner 22.175 24.863
+Tuner 29.048 25.442
+Tuner 21.495 23.904
+Tuner 33.094 24.293
+Tuner 26.066 25.777
+Tuner 22.532 23.298
+Tuner 27.442 25.869
+Tuner 27.199 21.83
+Tuner 19.492 20.993
+Tuner 20.914 23.57
+Tuner 28.312 19.89
+Tuner converged in generation 98
+Tuner 27.141 19.575
+Tuner 23.161 21.89
+Tuner 23.836 23.878
+Tuner 21.018 22.682
+Tuner 20.914 24.084
+Tuner 22.206 23.421
+Tuner 54.338 24.404
+Tuner converged in generation 98
+Tuner 90.51 30.888
+Tuner 27.477 24.278
+Tuner 22.109 22.929
+Tuner 22.251 23.458
+Tuner 42.196 21.524
+Tuner converged in generation 88
+Tuner 35.203 35.167
+Tuner 22.253 22.844
+Tuner converged in generation 42
+Tuner 35.874 35.167
+Tuner 51.755 26.589
+Tuner 20.473 19.689
+Tuner converged in generation 66
+Tuner 20.473 19.478
+Tuner 50.765 21.653
+Tuner 22.2 21.546
+Tuner 22.177 23.51
+Tuner converged in generation 89
+Tuner 27.964 20.478
+Tuner 20.914 23.244
+Tuner 56.264 23.423
+Tuner 87.562 87.562
+Tuner 22.115 24.012
+Tuner 22.345 22.392
+Tuner converged in generation 98
+Tuner 20.473 18.782
+Tuner 20.913 23.604
+Tuner 20.296 19.384
+Tuner 20.473 19.571
+Tuner 21.066 23.703
+Tuner converged in generation 89
+Tuner 24.164 20.997
+Tuner converged in generation 74
+Tuner 20.473 19.262
+Tuner 30.503 23.637
+Tuner 20.914 22.359
+Tuner 22.726 22.729
+Tuner 22.183 22.788
+Tuner 84.582 33.528
+Tuner 32.66 24.86
+Tuner 22.222 24.366
+Tuner 39.067 35.167
+Tuner 20.138 18.161
+Tuner 42.0 20.715
+Tuner converged in generation 82
+Tuner 34.534 33.592
+Tuner 22.338 23.812
+Tuner 20.473 18.867
+Tuner 24.96 22.559
+Tuner converged in generation 56
+Tuner 39.067 35.167
+Tuner 22.507 20.95
+Tuner 22.336 24.059
+Tuner 20.937 21.48
+Tuner converged in generation 77
+Tuner 21.793 20.384
+Tuner 25.94 19.241
+Tuner 22.239 22.444
+Tuner 51.706 33.975
+Tuner 22.296 23.108
+Tuner converged in generation 81
+Tuner 20.473 19.286
+Tuner 70.038 25.589
+Tuner 67.113 23.729
+Tuner 20.914 23.45
+Tuner 22.381 22.413
+Tuner 22.177 24.12
+Tuner 84.761 39.873
+Tuner 90.453 22.875
+Tuner 19.951 19.385
+Tuner 24.209 20.53
+Tuner 20.771 22.609
+Tuner converged in generation 91
+Tuner 21.793 20.349
+Tuner 61.686 21.235
+Tuner 19.819 20.599
+Tuner converged in generation 76
+Tuner 39.583 38.603
+Tuner 20.473 19.229
+Tuner 20.913 24.182
+Tuner 41.252 39.77
+GA 15 18.161 11
+GA 16 18.161 11
+GA 17 18.161 11
+GA 18 18.161 11
+GA 19 17.893 9
+Tuner 18.867 19.283
+Tuner 32.565 23.026
+Tuner converged in generation 50
+Tuner 19.081 19.053
+Tuner converged in generation 98
+Tuner 20.573 19.908
+Tuner converged in generation 48
+Tuner 43.983 33.255
+Tuner 25.122 20.05
+Tuner converged in generation 84
+Tuner 19.081 19.336
+Tuner 28.903 20.44
+Tuner 43.983 33.68
+Tuner converged in generation 95
+Tuner 18.867 20.021
+Tuner converged in generation 84
+Tuner 29.043 19.644
+Tuner 19.081 19.319
+Tuner 19.835 18.963
+Tuner 28.282 20.554
+Tuner 19.022 19.548
+Tuner 48.316 32.781
+Tuner 49.013 32.785
+Tuner converged in generation 77
+Tuner 19.081 19.909
+Tuner 19.385 18.958
+Tuner 39.913 33.589
+Tuner 42.515 19.35
+Tuner 18.161 19.245
+Tuner 19.402 20.477
+Tuner 21.046 20.674
+Tuner 48.767 33.57
+Tuner converged in generation 82
+Tuner 19.081 19.398
+Tuner 59.961 18.88
+Tuner converged in generation 91
+Tuner 30.134 20.322
+Tuner 19.63 21.155
+Tuner 56.636 27.33
+Tuner 48.767 33.23
+Tuner 18.521 19.714
+Tuner converged in generation 58
+Tuner 18.867 19.244
+Tuner 48.767 33.449
+Tuner 49.013 32.811
+Tuner 19.182 19.552
+Tuner converged in generation 56
+Tuner 37.325 35.167
+Tuner 73.074 19.626
+Tuner 19.385 19.619
+Tuner 19.568 18.997
+Tuner 19.081 19.146
+Tuner 18.81 22.195
+Tuner 77.773 22.121
+Tuner converged in generation 94
+Tuner 23.171 19.992
+Tuner 19.282 19.251
+Tuner 30.715 19.823
+Tuner 19.081 19.082
+Tuner 18.867 19.974
+Tuner 19.286 18.772
+Tuner 18.867 19.311
+Tuner converged in generation 87
+Tuner 65.562 30.886
+Tuner 19.102 19.56
+Tuner 19.081 19.573
+Tuner converged in generation 87
+Tuner 56.504 32.811
+Tuner 26.385 21.84
+Tuner 42.655 38.574
+Tuner converged in generation 73
+Tuner 50.723 38.561
+Tuner 19.081 20.005
+Tuner 31.242 19.368
+Tuner converged in generation 88
+Tuner 18.867 19.2
+Tuner converged in generation 97
+Tuner 48.767 33.582
+Tuner converged in generation 98
+Tuner 36.611 35.167
+Tuner 18.867 20.183
+Tuner 23.171 20.415
+Tuner converged in generation 94
+Tuner 22.153 19.937
+Tuner converged in generation 90
+Tuner 71.501 33.789
+Tuner 20.272 19.502
+Tuner 19.081 19.147
+Tuner 48.313 33.74
+Tuner 18.161 18.89
+Tuner 18.161 19.148
+Tuner 28.588 20.656
+Tuner 62.927 20.16
+Tuner 19.081 19.169
+Tuner 55.213 38.199
+Tuner 49.013 32.791
+Tuner 29.002 21.0
+Tuner converged in generation 87
+Tuner 19.022 19.103
+Tuner 43.191 33.452
+Tuner 77.869 20.221
+Tuner 48.889 32.826
+Tuner 18.867 19.271
+Tuner 90.191 33.787
+Tuner converged in generation 87
+Tuner 20.565 20.521
+GA 20 17.893 9
+Terminating at
+	20 generations
+	3208800 evaluations
+	2469.72 seconds
+KFold Run: 2
+Training
+	MSE: 17.893
+	Rsquared: 0.803
+Testing
+	MSE: 6.924
+	Rsquared: 0.013
+
+Run3
+GA 1 34.659 1
+GA 2 31.892 9
+GA 3 31.892 9
+GA 4 31.892 9
+Tuner converged in generation 43
+Tuner 34.079 26.462
+Tuner 34.979 22.082
+Tuner converged in generation 63
+Tuner 34.079 26.468
+Tuner 32.285 29.037
+Tuner converged in generation 82
+Tuner 34.079 26.459
+Tuner converged in generation 96
+Tuner 38.739 20.431
+Tuner converged in generation 64
+Tuner 34.141 33.549
+Tuner converged in generation 70
+Tuner 34.141 33.582
+Tuner 32.043 27.606
+Tuner 34.079 26.462
+Tuner 34.079 26.457
+Tuner 32.285 29.037
+Tuner converged in generation 62
+Tuner 34.141 33.537
+Tuner converged in generation 37
+Tuner 34.141 33.718
+Tuner converged in generation 44
+Tuner 34.141 33.571
+Tuner 34.141 33.584
+Tuner converged in generation 98
+Tuner 34.079 26.462
+Tuner converged in generation 91
+Tuner 47.794 22.385
+Tuner 34.141 33.558
+Tuner 34.079 26.457
+Tuner 34.341 25.677
+Tuner converged in generation 80
+Tuner 34.079 26.462
+Tuner 34.079 26.465
+Tuner converged in generation 79
+Tuner 34.079 26.464
+Tuner converged in generation 71
+Tuner 34.079 26.46
+Tuner 39.523 25.806
+Tuner 34.079 26.463
+Tuner converged in generation 78
+Tuner 34.141 33.551
+Tuner 31.892 27.481
+Tuner converged in generation 89
+Tuner 32.285 29.037
+Tuner converged in generation 68
+Tuner 34.141 33.532
+Tuner converged in generation 82
+Tuner 34.979 22.02
+Tuner converged in generation 82
+Tuner 34.341 25.853
+Tuner converged in generation 81
+Tuner 35.853 33.323
+Tuner converged in generation 90
+Tuner 34.079 26.465
+Tuner converged in generation 99
+Tuner 45.161 27.459
+Tuner converged in generation 60
+Tuner 34.079 26.462
+Tuner 48.371 23.639
+Tuner converged in generation 62
+Tuner 34.079 26.464
+Tuner converged in generation 40
+Tuner 34.079 26.469
+Tuner converged in generation 64
+Tuner 34.079 26.462
+Tuner converged in generation 59
+Tuner 34.079 26.457
+Tuner converged in generation 63
+Tuner 34.079 26.458
+Tuner converged in generation 97
+Tuner 34.079 26.462
+Tuner 34.141 33.552
+Tuner 34.079 26.465
+Tuner 42.761 19.509
+GA 5 19.509 3
+GA 6 19.509 3
+GA 7 19.509 3
+GA 8 19.509 3
+GA 9 19.509 3
+Tuner 19.509 19.342
+Tuner 21.345 19.318
+Tuner 19.509 19.291
+Tuner converged in generation 57
+Tuner 22.385 22.41
+Tuner 19.509 19.364
+Tuner 19.509 19.306
+Tuner converged in generation 74
+Tuner 19.509 19.34
+Tuner converged in generation 63
+Tuner 19.509 19.274
+Tuner converged in generation 68
+Tuner 19.509 19.469
+Tuner 20.433 21.015
+Tuner 19.509 19.369
+Tuner 20.357 20.124
+Tuner converged in generation 92
+Tuner 57.489 20.093
+Tuner converged in generation 72
+Tuner 57.489 19.103
+Tuner 53.069 20.998
+Tuner 23.2 22.194
+Tuner converged in generation 58
+Tuner 19.509 19.392
+Tuner converged in generation 51
+Tuner 22.385 22.419
+Tuner 21.089 20.439
+Tuner 51.885 26.462
+Tuner 19.509 19.348
+Tuner 57.489 20.285
+Tuner 21.118 19.693
+Tuner 20.431 21.459
+Tuner 20.924 21.667
+Tuner converged in generation 91
+Tuner 19.509 19.416
+Tuner 19.509 19.304
+Tuner converged in generation 66
+Tuner 19.509 19.281
+Tuner 57.489 19.388
+Tuner 24.975 21.383
+Tuner 19.509 19.387
+Tuner 67.816 20.809
+Tuner 40.059 22.372
+Tuner 44.587 21.808
+Tuner converged in generation 61
+Tuner 22.385 22.397
+Tuner converged in generation 61
+Tuner 46.644 33.322
+Tuner 62.09 19.896
+Tuner 19.509 19.388
+Tuner converged in generation 97
+Tuner 19.509 19.342
+Tuner converged in generation 84
+Tuner 54.199 35.151
+Tuner converged in generation 85
+Tuner 19.509 19.327
+Tuner 19.509 19.298
+Tuner 25.597 22.271
+Tuner 21.099 20.21
+Tuner 73.32 29.699
+Tuner 19.509 19.276
+Tuner 23.575 20.864
+Tuner converged in generation 80
+Tuner 19.509 19.428
+Tuner converged in generation 90
+Tuner 22.385 22.37
+Tuner converged in generation 68
+Tuner 19.509 19.339
+Tuner 28.939 19.843
+Tuner converged in generation 59
+Tuner 19.509 19.395
+Tuner 30.703 22.164
+Tuner converged in generation 43
+Tuner 37.541 35.145
+Tuner 57.489 19.605
+Tuner converged in generation 95
+Tuner 27.918 23.644
+Tuner converged in generation 93
+Tuner 24.022 20.723
+Tuner 19.509 19.391
+Tuner converged in generation 67
+Tuner 19.509 19.529
+Tuner 20.607 19.227
+Tuner 19.509 19.351
+Tuner converged in generation 84
+Tuner 28.299 25.865
+Tuner converged in generation 63
+Tuner 25.806 25.949
+Tuner 27.936 26.462
+Tuner 57.489 20.146
+Tuner 23.438 20.979
+Tuner converged in generation 92
+Tuner 19.509 19.336
+Tuner 19.509 19.293
+Tuner 59.722 25.422
+Tuner converged in generation 83
+Tuner 19.509 19.281
+Tuner 26.843 21.162
+Tuner 27.568 19.913
+Tuner converged in generation 98
+Tuner 19.509 19.289
+Tuner converged in generation 70
+Tuner 59.722 25.502
+Tuner 44.993 22.861
+Tuner 19.509 19.392
+Tuner converged in generation 91
+Tuner 22.385 22.439
+Tuner 39.03 19.863
+Tuner converged in generation 97
+Tuner 51.885 26.462
+Tuner converged in generation 60
+Tuner 35.597 20.928
+Tuner 25.09 21.645
+Tuner converged in generation 85
+Tuner 73.32 29.699
+GA 10 19.103 5
+GA 11 19.103 5
+GA 12 19.103 5
+GA 13 19.079 9
+GA 14 18.277 11
+Tuner 19.103 20.234
+Tuner 19.081 19.576
+Tuner 19.079 19.853
+Tuner 19.103 21.988
+Tuner 30.139 26.462
+Tuner 19.103 20.044
+Tuner 28.877 20.866
+Tuner 19.103 19.694
+Tuner 19.079 19.875
+Tuner 28.877 20.859
+Tuner 19.079 19.673
+Tuner 22.039 19.155
+Tuner 19.306 19.309
+Tuner converged in generation 89
+Tuner 19.103 19.727
+Tuner 19.079 19.462
+Tuner 19.306 19.296
+Tuner converged in generation 81
+Tuner 19.103 20.002
+Tuner converged in generation 91
+Tuner 57.819 18.562
+Tuner 28.877 19.106
+Tuner 19.103 20.889
+Tuner 19.103 20.371
+Tuner 34.896 19.209
+Tuner 19.103 19.596
+Tuner converged in generation 95
+Tuner 19.103 19.674
+Tuner 34.853 19.562
+Tuner 19.103 19.821
+Tuner converged in generation 51
+Tuner 19.103 20.605
+Tuner 19.103 20.043
+Tuner converged in generation 70
+Tuner 22.039 20.071
+Tuner 61.456 19.376
+Tuner 19.103 19.919
+Tuner 19.103 19.314
+Tuner 61.039 19.304
+Tuner converged in generation 75
+Tuner 30.139 26.458
+Tuner 19.103 19.625
+Tuner 22.039 19.577
+Tuner 19.103 19.784
+Tuner 19.103 19.223
+Tuner 19.079 19.022
+Tuner 19.103 20.337
+Tuner 19.103 19.513
+Tuner 19.079 20.917
+Tuner 19.103 20.946
+Tuner 19.103 19.782
+Tuner 19.079 19.53
+Tuner 41.799 19.186
+Tuner 19.103 19.212
+Tuner converged in generation 70
+Tuner 19.103 20.057
+Tuner 19.103 19.587
+Tuner converged in generation 43
+Tuner 61.456 19.419
+Tuner converged in generation 56
+Tuner 19.103 19.614
+Tuner converged in generation 87
+Tuner 19.079 21.967
+Tuner converged in generation 95
+Tuner 19.103 20.01
+Tuner 19.103 19.685
+Tuner 61.456 19.291
+Tuner 19.079 19.438
+Tuner 19.079 19.107
+Tuner 19.079 19.014
+Tuner converged in generation 89
+Tuner 19.103 19.902
+Tuner 19.103 20.166
+Tuner converged in generation 84
+Tuner 61.039 19.37
+Tuner 19.103 19.69
+Tuner 19.079 19.132
+Tuner 19.079 19.336
+Tuner converged in generation 84
+Tuner 61.456 19.297
+Tuner 28.877 19.973
+Tuner 19.103 20.723
+Tuner 19.103 19.15
+Tuner 19.079 19.642
+Tuner 19.079 18.804
+Tuner 30.914 18.608
+Tuner 19.103 19.683
+Tuner 19.079 20.019
+Tuner 28.877 18.803
+Tuner 19.079 19.694
+Tuner converged in generation 54
+Tuner 19.079 19.749
+Tuner converged in generation 80
+Tuner 22.039 19.331
+Tuner 41.978 25.978
+Tuner converged in generation 49
+Tuner 61.456 19.388
+Tuner 19.103 20.115
+Tuner 19.103 20.099
+Tuner 19.079 19.802
+Tuner 30.139 26.458
+Tuner 19.103 21.057
+Tuner 19.103 20.29
+Tuner 34.853 20.085
+Tuner 41.799 19.392
+Tuner 22.039 19.983
+Tuner 19.079 19.397
+Tuner converged in generation 93
+Tuner 30.139 26.464
+GA 15 18.277 11
+GA 16 18.168 9
+GA 17 18.168 9
+GA 18 17.752 21
+GA 19 17.752 21
+Tuner 18.06 20.329
+Tuner 44.157 22.48
+Tuner 18.19 20.148
+Tuner 18.632 19.849
+Tuner converged in generation 96
+Tuner 18.253 19.354
+Tuner 18.168 19.161
+Tuner converged in generation 94
+Tuner 54.413 29.66
+Tuner 18.253 19.179
+Tuner 18.19 20.753
+Tuner converged in generation 99
+Tuner 66.202 19.316
+Tuner 18.168 20.439
+Tuner 68.309 20.479
+Tuner 20.752 18.783
+Tuner 22.908 20.978
+Tuner 18.168 19.981
+Tuner 19.327 19.345
+Tuner 18.603 20.307
+Tuner 19.562 19.661
+Tuner 38.597 21.307
+Tuner 29.195 19.816
+Tuner converged in generation 85
+Tuner 18.156 20.162
+Tuner converged in generation 74
+Tuner 48.222 23.802
+Tuner 37.473 20.894
+Tuner converged in generation 86
+Tuner 19.387 19.577
+Tuner 34.786 19.77
+Tuner 18.053 20.224
+Tuner 45.453 18.757
+Tuner 29.749 24.602
+Tuner 57.262 18.725
+Tuner 54.413 29.659
+Tuner converged in generation 83
+Tuner 19.312 19.841
+Tuner 35.498 26.462
+Tuner 18.196 21.178
+Tuner converged in generation 98
+Tuner 44.314 29.665
+Tuner 18.981 19.02
+Tuner 18.168 19.177
+Tuner 18.704 19.61
+Tuner converged in generation 87
+Tuner 19.354 19.483
+Tuner 18.288 19.83
+Tuner 27.156 18.318
+Tuner 18.223 18.512
+Tuner converged in generation 98
+Tuner 19.774 19.557
+Tuner 17.994 19.734
+Tuner 18.168 18.995
+Tuner converged in generation 90
+Tuner 18.168 19.829
+Tuner 18.168 18.796
+Tuner converged in generation 93
+Tuner 20.04 19.813
+Tuner 54.413 29.662
+Tuner 19.312 19.487
+Tuner 32.038 20.154
+Tuner converged in generation 71
+Tuner 40.886 29.699
+Tuner 56.445 19.938
+Tuner 20.357 20.163
+Tuner 18.375 18.484
+Tuner 18.562 19.413
+Tuner converged in generation 87
+Tuner 17.87 18.767
+Tuner converged in generation 97
+Tuner 19.973 20.027
+Tuner 18.156 18.476
+Tuner 45.86 23.625
+Tuner 20.251 19.478
+Tuner 18.277 21.048
+Tuner 27.41 19.703
+Tuner 18.982 18.642
+Tuner 20.697 20.756
+Tuner 20.149 20.177
+Tuner converged in generation 92
+Tuner 18.562 18.895
+Tuner 18.982 18.428
+Tuner 46.166 20.08
+Tuner 18.459 20.014
+Tuner 18.253 18.7
+Tuner 18.311 23.871
+Tuner 66.373 19.463
+Tuner 18.082 19.032
+Tuner 19.354 19.462
+Tuner 18.982 18.572
+Tuner 18.148 21.281
+Tuner 18.156 19.717
+Tuner 17.778 19.83
+Tuner 18.19 19.403
+Tuner converged in generation 93
+Tuner 18.168 21.063
+Tuner 18.156 19.317
+Tuner 53.792 23.625
+Tuner converged in generation 70
+Tuner 35.498 26.464
+Tuner 31.186 20.935
+Tuner converged in generation 78
+Tuner 18.156 19.804
+Tuner converged in generation 80
+Tuner 66.202 19.113
+Tuner 19.282 19.54
+Tuner 18.816 19.29
+Tuner 18.19 19.018
+Tuner 17.752 20.207
+GA 20 17.752 21
+Terminating at
+	20 generations
+	2901000 evaluations
+	2159.88 seconds
+KFold Run: 3
+Training
+	MSE: 17.752
+	Rsquared: 0.758
+Testing
+	MSE: 20.632
+	Rsquared: 0.79
+
+Run4
+GA 1 36.986 1
+GA 2 34.887 9
+GA 3 34.887 9
+GA 4 34.286 13
+Tuner 36.086 29.831
+Tuner 66.345 65.229
+Tuner 82.423 28.944
+Tuner 38.933 25.661
+Tuner 82.379 56.41
+Tuner 35.972 30.656
+Tuner 34.887 29.03
+Tuner 48.497 29.543
+Tuner 36.295 28.96
+Tuner converged in generation 44
+Tuner 46.02 41.089
+Tuner 36.086 29.824
+Tuner converged in generation 91
+Tuner 31.578 30.882
+Tuner 79.424 34.585
+Tuner converged in generation 79
+Tuner 46.567 30.882
+Tuner 47.971 28.983
+Tuner 36.086 29.824
+Tuner 68.179 26.881
+Tuner 36.53 30.071
+Tuner 36.086 29.873
+Tuner 34.887 28.839
+Tuner 35.231 28.973
+Tuner 35.98 29.648
+Tuner 73.945 36.361
+Tuner 48.497 29.567
+Tuner 36.086 29.83
+Tuner 36.086 29.828
+Tuner 35.499 29.084
+Tuner converged in generation 62
+Tuner 80.39 29.117
+Tuner 36.086 29.842
+Tuner 82.601 29.837
+Tuner 32.843 30.658
+Tuner 66.345 34.583
+Tuner converged in generation 94
+Tuner 48.497 42.37
+Tuner 56.945 23.352
+Tuner converged in generation 67
+Tuner 31.578 30.882
+Tuner 36.986 36.986
+Tuner converged in generation 83
+Tuner 78.113 35.314
+Tuner 69.594 36.361
+Tuner 47.908 29.594
+Tuner 48.497 29.535
+Tuner 35.972 30.659
+Tuner 82.607 36.986
+Tuner converged in generation 52
+Tuner 35.972 30.657
+Tuner 78.113 65.229
+Tuner 54.171 29.829
+Tuner converged in generation 84
+Tuner 36.086 29.831
+Tuner 34.286 28.994
+Tuner 36.086 29.828
+Tuner 36.086 29.823
+Tuner 36.086 29.768
+Tuner converged in generation 83
+Tuner 54.171 45.191
+Tuner 78.687 21.767
+Tuner 42.397 29.822
+GA 5 21.767 5
+GA 6 21.767 5
+GA 7 21.767 5
+GA 8 21.767 5
+GA 9 21.767 5
+Tuner converged in generation 72
+Tuner 50.6 26.53
+Tuner 22.445 21.964
+Tuner 26.844 26.709
+Tuner 26.744 25.96
+Tuner 30.626 29.536
+Tuner 22.949 22.223
+Tuner 23.528 20.63
+Tuner converged in generation 85
+Tuner 22.8 22.359
+Tuner 55.202 21.762
+Tuner converged in generation 98
+Tuner 81.913 45.191
+Tuner 29.918 29.528
+Tuner 22.525 21.121
+Tuner converged in generation 50
+Tuner 41.096 41.089
+Tuner 38.885 24.756
+Tuner 48.861 22.761
+Tuner converged in generation 94
+Tuner 67.006 24.114
+Tuner 82.269 22.172
+Tuner 61.806 36.366
+Tuner 30.603 29.751
+Tuner 33.245 26.42
+Tuner 41.096 41.089
+Tuner converged in generation 87
+Tuner 37.087 22.68
+Tuner 82.581 21.384
+Tuner 21.759 21.752
+Tuner converged in generation 82
+Tuner 41.559 36.633
+Tuner 82.348 23.176
+Tuner 23.439 23.346
+Tuner 79.643 25.827
+Tuner 56.417 31.228
+Tuner 29.256 28.924
+Tuner 33.915 28.802
+Tuner 41.181 34.308
+Tuner 29.66 29.537
+Tuner 27.4 21.636
+Tuner 37.003 36.849
+Tuner 81.027 23.927
+Tuner converged in generation 41
+Tuner 49.433 45.191
+Tuner 48.719 29.117
+Tuner 52.728 23.972
+Tuner 82.606 22.065
+Tuner 26.787 27.204
+Tuner 28.137 21.76
+Tuner 21.89 21.805
+Tuner 31.651 27.677
+Tuner 21.768 20.881
+Tuner 23.195 22.052
+Tuner 82.607 21.566
+Tuner converged in generation 93
+Tuner 77.857 31.144
+Tuner 23.464 22.308
+Tuner 23.362 22.591
+Tuner 26.472 21.732
+Tuner 31.337 22.25
+Tuner 21.781 21.858
+Tuner converged in generation 71
+Tuner 46.326 45.191
+Tuner 80.62 20.426
+Tuner converged in generation 97
+Tuner 76.506 25.686
+Tuner 21.767 21.773
+Tuner 79.56 23.508
+Tuner 79.263 25.891
+Tuner 36.054 34.13
+Tuner 35.465 30.169
+Tuner 76.775 25.622
+Tuner 26.851 27.348
+Tuner converged in generation 54
+Tuner 30.783 30.031
+Tuner 25.282 21.105
+Tuner 21.794 22.026
+Tuner 30.814 26.833
+Tuner 77.322 31.061
+Tuner 23.471 22.79
+Tuner 25.661 23.959
+Tuner 77.653 34.381
+Tuner 56.917 27.643
+Tuner 56.737 29.836
+Tuner 54.786 27.399
+Tuner 30.332 29.837
+Tuner converged in generation 82
+Tuner 46.467 34.026
+Tuner 25.863 21.755
+Tuner 24.583 22.856
+Tuner 27.83 23.22
+Tuner 57.887 26.077
+Tuner 23.724 25.4
+Tuner 82.58 29.21
+Tuner 26.581 25.971
+Tuner converged in generation 93
+Tuner 78.813 41.35
+Tuner 64.077 21.789
+Tuner 28.706 25.965
+Tuner 22.698 22.187
+Tuner 45.018 36.866
+Tuner 76.252 36.554
+Tuner converged in generation 61
+Tuner 60.285 34.74
+Tuner 41.858 21.747
+Tuner converged in generation 96
+Tuner 21.767 22.046
+Tuner 48.861 25.974
+GA 10 20.426 7
+GA 11 20.426 7
+GA 12 20.116 7
+GA 13 20.116 7
+GA 14 19.714 11
+Tuner 73.182 23.511
+Tuner 40.539 22.853
+Tuner 19.16 20.596
+Tuner 56.276 21.39
+Tuner 24.538 18.999
+Tuner 21.357 20.818
+Tuner 25.972 26.2
+Tuner converged in generation 87
+Tuner 50.533 21.731
+Tuner 20.63 19.302
+Tuner 38.762 22.713
+Tuner 26.947 19.125
+Tuner 18.477 23.147
+Tuner 20.152 19.766
+Tuner converged in generation 55
+Tuner 35.979 34.039
+Tuner 26.966 21.97
+Tuner 47.494 25.917
+Tuner 21.735 22.193
+Tuner 38.453 23.884
+Tuner 20.776 21.023
+Tuner 37.697 22.823
+Tuner converged in generation 83
+Tuner 45.308 45.191
+Tuner 27.219 19.786
+Tuner 77.574 24.7
+Tuner 40.844 26.052
+Tuner 20.426 22.281
+Tuner 38.372 26.529
+Tuner 19.219 19.453
+Tuner 41.483 20.604
+Tuner 24.893 21.2
+Tuner 42.697 20.34
+Tuner 20.426 19.678
+Tuner 19.77 22.124
+Tuner 25.972 25.523
+Tuner 31.143 21.794
+Tuner converged in generation 74
+Tuner 20.426 19.497
+Tuner 23.911 19.454
+Tuner 47.564 23.498
+Tuner 34.811 18.647
+Tuner 25.972 22.421
+Tuner 21.623 21.715
+Tuner 23.183 19.406
+Tuner 23.936 18.757
+Tuner 19.903 20.409
+Tuner converged in generation 87
+Tuner 40.539 23.1
+Tuner converged in generation 89
+Tuner 56.441 26.88
+Tuner 59.062 25.911
+Tuner 21.532 21.424
+Tuner 20.928 22.875
+Tuner 75.64 22.595
+Tuner 20.426 24.07
+Tuner converged in generation 98
+Tuner 20.116 19.335
+Tuner 20.376 20.848
+Tuner 38.762 23.711
+Tuner 23.183 18.703
+Tuner converged in generation 76
+Tuner 34.811 18.616
+Tuner 31.143 20.088
+Tuner 28.52 20.889
+Tuner 78.251 23.338
+Tuner 44.035 36.59
+Tuner converged in generation 99
+Tuner 20.426 19.026
+Tuner 35.327 22.202
+Tuner 23.183 19.366
+Tuner 25.078 19.18
+Tuner 27.937 21.803
+Tuner converged in generation 78
+Tuner 25.33 20.263
+Tuner 70.107 25.351
+Tuner 22.089 22.098
+Tuner 38.918 20.726
+Tuner 28.494 20.699
+Tuner 20.426 22.896
+Tuner converged in generation 61
+Tuner 45.323 45.191
+Tuner converged in generation 84
+Tuner 34.811 18.837
+Tuner 33.59 20.68
+Tuner 21.79 19.128
+Tuner 20.41 21.141
+Tuner 20.116 19.083
+Tuner 45.323 45.191
+Tuner 77.574 23.25
+Tuner 48.026 26.44
+Tuner 21.896 20.878
+Tuner 40.539 21.739
+Tuner 21.506 21.926
+Tuner converged in generation 93
+Tuner 20.442 19.385
+Tuner converged in generation 62
+Tuner 59.441 26.211
+Tuner converged in generation 44
+Tuner 38.372 26.535
+Tuner 22.384 21.927
+Tuner 74.722 22.567
+Tuner 25.53 22.929
+GA 15 18.477 11
+GA 16 18.477 11
+GA 17 18.435 11
+GA 18 18.435 11
+GA 19 18.435 11
+Tuner converged in generation 89
+Tuner 18.616 18.837
+Tuner 19.171 19.854
+Tuner converged in generation 95
+Tuner 18.616 18.691
+Tuner 36.995 19.779
+Tuner converged in generation 67
+Tuner 18.647 18.691
+Tuner converged in generation 61
+Tuner 18.647 18.695
+Tuner 34.163 21.72
+Tuner converged in generation 44
+Tuner 18.616 18.847
+Tuner converged in generation 92
+Tuner 18.647 18.572
+Tuner 62.744 18.739
+Tuner 28.64 26.237
+Tuner converged in generation 54
+Tuner 18.647 18.748
+Tuner converged in generation 96
+Tuner 27.909 18.865
+Tuner converged in generation 61
+Tuner 67.794 19.816
+Tuner 53.572 23.285
+Tuner 25.734 20.586
+Tuner converged in generation 52
+Tuner 46.986 35.503
+Tuner 61.398 21.744
+Tuner 33.878 19.186
+Tuner 50.928 22.609
+Tuner 18.616 18.56
+Tuner 18.647 18.595
+Tuner 18.703 19.609
+Tuner 19.222 18.911
+Tuner converged in generation 84
+Tuner 45.184 37.242
+Tuner 20.268 18.727
+Tuner converged in generation 86
+Tuner 18.616 18.649
+Tuner 63.374 20.795
+Tuner 64.387 20.926
+Tuner 33.618 30.882
+Tuner 67.794 19.976
+Tuner 30.308 18.807
+Tuner 18.435 19.145
+Tuner converged in generation 90
+Tuner 19.181 19.43
+Tuner 19.302 20.944
+Tuner 18.703 21.79
+Tuner 18.647 18.645
+Tuner converged in generation 70
+Tuner 18.703 20.745
+Tuner converged in generation 34
+Tuner 18.647 18.64
+Tuner 29.475 19.233
+Tuner 67.794 19.358
+Tuner converged in generation 81
+Tuner 64.811 20.073
+Tuner 18.501 18.549
+Tuner 18.435 18.457
+Tuner 63.971 19.956
+Tuner 27.618 20.368
+Tuner 64.811 20.006
+Tuner 18.801 20.055
+Tuner 41.844 18.629
+Tuner converged in generation 82
+Tuner 45.175 18.836
+Tuner 78.604 36.933
+Tuner converged in generation 41
+Tuner 18.616 18.737
+Tuner converged in generation 91
+Tuner 18.616 18.715
+Tuner 18.592 19.028
+Tuner converged in generation 49
+Tuner 57.225 26.534
+Tuner 42.6 19.151
+Tuner 56.952 20.547
+Tuner 18.703 20.137
+Tuner converged in generation 75
+Tuner 40.293 37.279
+Tuner converged in generation 97
+Tuner 18.703 19.474
+Tuner 26.112 18.8
+Tuner 59.992 19.072
+Tuner 19.093 18.74
+Tuner 62.744 21.955
+Tuner 44.434 26.182
+Tuner converged in generation 73
+Tuner 25.305 19.545
+Tuner converged in generation 64
+Tuner 40.496 37.306
+Tuner 18.647 18.606
+Tuner converged in generation 79
+Tuner 62.188 19.604
+Tuner converged in generation 60
+Tuner 18.616 18.801
+Tuner 19.093 18.715
+Tuner 66.32 18.519
+Tuner 22.396 18.823
+Tuner 33.618 30.882
+Tuner 29.098 19.041
+Tuner 19.535 21.491
+Tuner converged in generation 96
+Tuner 18.703 19.691
+Tuner converged in generation 83
+Tuner 18.837 18.744
+Tuner converged in generation 73
+Tuner 40.496 37.251
+Tuner converged in generation 94
+Tuner 26.181 18.702
+GA 20 18.435 11
+Terminating at
+	20 generations
+	3008400 evaluations
+	2500.43 seconds
+KFold Run: 4
+Training
+	MSE: 18.435
+	Rsquared: 0.777
+Testing
+	MSE: 27.317
+	Rsquared: 0.612
+
+Run5
+GA 1 34.711 1
+GA 2 34.425 9
+GA 3 34.425 9
+GA 4 34.425 9
+Tuner converged in generation 82
+Tuner 34.56 23.666
+Tuner 34.56 23.66
+Tuner converged in generation 71
+Tuner 34.56 23.659
+Tuner 34.56 23.66
+Tuner 65.25 34.514
+Tuner 34.56 23.67
+Tuner 34.56 23.659
+GA 5 23.659 3
+GA 6 23.659 3
+GA 7 23.659 3
+GA 8 23.659 3
+GA 9 23.659 3
+Tuner converged in generation 95
+Tuner 23.659 23.664
+Tuner converged in generation 59
+Tuner 23.659 23.662
+Tuner converged in generation 76
+Tuner 26.727 22.888
+Tuner converged in generation 80
+Tuner 23.659 23.659
+Tuner converged in generation 91
+Tuner 23.659 23.66
+Tuner converged in generation 95
+Tuner 39.048 22.734
+Tuner converged in generation 89
+Tuner 23.659 23.666
+Tuner 23.659 23.668
+Tuner converged in generation 94
+Tuner 23.659 23.665
+Tuner 39.048 22.53
+Tuner 39.048 22.616
+Tuner 23.659 23.659
+Tuner 43.634 22.688
+Tuner converged in generation 64
+Tuner 39.048 22.547
+Tuner converged in generation 81
+Tuner 23.659 23.663
+Tuner converged in generation 49
+Tuner 23.659 23.666
+Tuner 23.659 23.662
+Tuner 23.659 23.661
+Tuner converged in generation 90
+Tuner 23.659 23.671
+Tuner converged in generation 71
+Tuner 39.048 22.275
+Tuner 23.659 23.656
+Tuner converged in generation 88
+Tuner 26.414 22.695
+Tuner converged in generation 57
+Tuner 23.659 23.66
+Tuner 26.414 22.804
+Tuner converged in generation 91
+Tuner 23.659 23.658
+Tuner 23.659 23.66
+Tuner 43.634 22.633
+Tuner 39.048 22.37
+Tuner 39.048 22.343
+Tuner converged in generation 27
+Tuner 23.659 23.66
+Tuner converged in generation 60
+Tuner 23.659 23.665
+Tuner converged in generation 73
+Tuner 23.659 23.661
+Tuner 39.048 22.864
+Tuner converged in generation 68
+Tuner 23.659 23.66
+Tuner converged in generation 43
+Tuner 23.659 23.668
+Tuner 39.048 22.636
+Tuner converged in generation 97
+Tuner 23.659 23.66
+Tuner converged in generation 69
+Tuner 23.659 23.666
+Tuner converged in generation 78
+Tuner 39.048 22.224
+Tuner converged in generation 49
+Tuner 23.659 23.666
+Tuner 39.048 22.335
+Tuner converged in generation 90
+Tuner 23.659 23.662
+Tuner converged in generation 96
+Tuner 23.659 23.659
+Tuner converged in generation 94
+Tuner 23.659 23.666
+Tuner converged in generation 74
+Tuner 23.66 23.654
+Tuner converged in generation 67
+Tuner 23.659 23.666
+Tuner converged in generation 80
+Tuner 23.659 23.659
+Tuner converged in generation 48
+Tuner 23.659 23.66
+Tuner converged in generation 79
+Tuner 28.273 22.778
+Tuner converged in generation 57
+Tuner 23.659 23.66
+Tuner converged in generation 57
+Tuner 23.659 23.659
+Tuner converged in generation 87
+Tuner 23.659 23.659
+Tuner 39.048 22.598
+Tuner 23.659 23.659
+Tuner converged in generation 74
+Tuner 39.13 22.808
+Tuner converged in generation 93
+Tuner 43.634 22.25
+Tuner converged in generation 80
+Tuner 23.659 23.66
+Tuner 23.659 23.659
+Tuner 23.659 23.658
+Tuner 23.659 23.659
+Tuner 39.048 22.102
+Tuner 39.048 22.255
+Tuner 28.59 22.483
+Tuner converged in generation 84
+Tuner 27.241 22.132
+Tuner 42.0 22.234
+Tuner 28.273 22.899
+Tuner 23.659 23.659
+Tuner converged in generation 60
+Tuner 23.659 23.669
+Tuner converged in generation 83
+Tuner 23.659 23.656
+Tuner 23.659 23.658
+Tuner converged in generation 72
+Tuner 23.659 23.664
+Tuner converged in generation 92
+Tuner 23.659 23.663
+Tuner converged in generation 75
+Tuner 43.916 22.584
+Tuner 39.048 22.493
+Tuner converged in generation 94
+Tuner 39.048 22.583
+Tuner converged in generation 77
+Tuner 23.659 23.665
+Tuner converged in generation 92
+Tuner 23.659 23.66
+Tuner converged in generation 85
+Tuner 23.659 23.661
+Tuner converged in generation 91
+Tuner 26.414 22.859
+GA 10 22.102 5
+GA 11 22.102 5
+GA 12 22.102 5
+GA 13 22.102 5
+GA 14 22.102 5
+Tuner converged in generation 96
+Tuner 31.579 22.642
+Tuner converged in generation 72
+Tuner 22.102 22.646
+Tuner 22.102 22.425
+Tuner converged in generation 91
+Tuner 22.102 22.4
+Tuner converged in generation 78
+Tuner 22.102 22.564
+Tuner converged in generation 82
+Tuner 22.102 22.548
+Tuner converged in generation 59
+Tuner 26.218 23.659
+Tuner 35.587 22.378
+Tuner converged in generation 71
+Tuner 22.102 22.472
+Tuner converged in generation 52
+Tuner 22.234 22.363
+Tuner 36.653 22.001
+Tuner 22.102 22.468
+Tuner converged in generation 96
+Tuner 22.102 22.193
+Tuner 22.102 22.426
+Tuner converged in generation 49
+Tuner 26.218 23.669
+Tuner 29.805 21.861
+Tuner 22.102 22.393
+Tuner 22.102 22.315
+Tuner 22.102 22.514
+Tuner 32.018 22.379
+Tuner converged in generation 58
+Tuner 22.102 22.502
+Tuner 22.132 22.952
+Tuner 22.102 22.307
+Tuner 22.102 22.296
+Tuner converged in generation 84
+Tuner 22.102 22.225
+Tuner 22.132 22.863
+Tuner 37.36 22.526
+Tuner 52.729 23.66
+Tuner 22.102 22.411
+Tuner converged in generation 82
+Tuner 26.218 23.66
+Tuner 22.102 22.396
+Tuner converged in generation 61
+Tuner 26.218 23.66
+Tuner converged in generation 98
+Tuner 33.984 22.472
+Tuner 28.5 22.065
+Tuner converged in generation 87
+Tuner 22.102 22.551
+Tuner converged in generation 84
+Tuner 22.102 22.601
+Tuner 22.102 22.289
+Tuner 26.218 23.661
+Tuner 22.102 22.604
+Tuner 22.102 22.468
+Tuner 41.647 22.217
+Tuner converged in generation 96
+Tuner 22.234 22.264
+Tuner 25.562 22.285
+Tuner 31.579 22.283
+Tuner converged in generation 80
+Tuner 22.132 23.013
+Tuner 22.234 22.222
+Tuner 25.406 21.937
+Tuner 37.58 22.023
+Tuner converged in generation 98
+Tuner 22.102 22.49
+Tuner 22.102 22.601
+Tuner 37.58 22.467
+Tuner converged in generation 68
+Tuner 22.102 22.529
+Tuner converged in generation 73
+Tuner 26.218 23.66
+Tuner converged in generation 87
+Tuner 22.102 22.173
+Tuner converged in generation 90
+Tuner 22.102 22.755
+Tuner 30.917 22.399
+Tuner 32.196 22.382
+Tuner 22.102 22.195
+Tuner converged in generation 81
+Tuner 22.102 22.422
+Tuner converged in generation 76
+Tuner 22.102 22.35
+Tuner converged in generation 86
+Tuner 22.102 22.854
+Tuner converged in generation 52
+Tuner 52.729 23.665
+Tuner 22.238 22.14
+Tuner 29.698 22.478
+Tuner 22.102 21.973
+Tuner 22.102 22.278
+Tuner 22.102 22.533
+Tuner 22.132 22.475
+Tuner 22.238 22.087
+Tuner converged in generation 68
+Tuner 22.234 22.433
+Tuner 22.102 22.442
+Tuner 45.956 22.084
+Tuner 22.102 22.666
+Tuner 29.129 22.267
+Tuner converged in generation 48
+Tuner 52.729 23.666
+Tuner 33.984 22.631
+Tuner 22.102 22.381
+Tuner converged in generation 89
+Tuner 29.698 22.366
+Tuner 26.218 23.66
+Tuner 22.102 22.698
+Tuner converged in generation 82
+Tuner 22.132 22.708
+Tuner 22.102 22.773
+Tuner converged in generation 81
+Tuner 22.102 22.571
+Tuner converged in generation 73
+Tuner 22.102 22.565
+GA 15 21.861 9
+GA 16 21.861 9
+GA 17 21.861 9
+GA 18 21.861 9
+GA 19 21.861 9
+Tuner 44.263 22.476
+Tuner 24.439 22.085
+Tuner 25.8 21.991
+Tuner 25.28 22.24
+Tuner 35.141 22.046
+Tuner 26.27 22.19
+Tuner 28.304 22.153
+Tuner 21.861 22.299
+Tuner converged in generation 39
+Tuner 24.958 23.66
+Tuner converged in generation 49
+Tuner 26.218 23.669
+Tuner 30.998 22.277
+Tuner converged in generation 58
+Tuner 21.973 22.875
+Tuner 23.68 22.613
+Tuner 22.147 22.158
+Tuner 27.606 22.314
+Tuner converged in generation 96
+Tuner 22.065 22.457
+Tuner 29.821 22.414
+Tuner 22.102 22.37
+Tuner 36.908 22.429
+Tuner 21.861 22.082
+Tuner 24.439 22.225
+Tuner 24.06 22.61
+Tuner converged in generation 79
+Tuner 24.958 23.661
+Tuner converged in generation 68
+Tuner 50.802 23.669
+Tuner 21.861 22.175
+Tuner converged in generation 75
+Tuner 21.973 22.578
+Tuner converged in generation 83
+Tuner 24.06 22.567
+Tuner 27.505 22.475
+Tuner 21.861 22.314
+Tuner 25.89 22.051
+Tuner converged in generation 75
+Tuner 28.357 22.537
+Tuner 24.06 22.013
+Tuner 21.884 22.25
+Tuner 25.8 22.457
+Tuner 23.347 22.033
+Tuner 23.534 22.435
+Tuner 30.297 21.998
+Tuner 21.937 22.501
+Tuner 22.065 22.643
+Tuner 21.861 22.15
+Tuner 21.861 22.174
+Tuner 23.863 22.806
+Tuner converged in generation 98
+Tuner 24.439 22.25
+Tuner converged in generation 88
+Tuner 39.502 22.886
+Tuner 27.407 23.66
+Tuner converged in generation 84
+Tuner 21.973 22.557
+Tuner 22.065 22.204
+Tuner 21.861 22.327
+Tuner 36.908 22.403
+Tuner converged in generation 81
+Tuner 21.861 22.441
+Tuner 24.795 22.46
+Tuner 24.439 21.841
+Tuner 22.732 22.371
+Tuner 21.921 22.424
+Tuner 24.439 22.018
+Tuner 39.502 22.56
+Tuner 24.751 22.362
+Tuner 39.787 22.436
+Tuner 24.981 22.286
+Tuner 22.206 22.321
+Tuner 30.764 22.05
+Tuner converged in generation 83
+Tuner 22.102 22.72
+Tuner converged in generation 74
+Tuner 24.958 23.66
+Tuner 25.929 22.178
+Tuner 39.082 22.371
+Tuner 22.147 22.294
+Tuner 25.405 21.929
+Tuner 31.288 22.949
+Tuner 24.439 22.325
+Tuner 64.348 22.315
+Tuner 25.478 22.678
+Tuner 24.006 22.472
+Tuner 21.894 22.424
+Tuner 30.777 22.195
+Tuner 24.227 22.076
+Tuner 36.033 22.3
+Tuner 39.502 23.131
+Tuner 24.61 22.186
+Tuner 41.888 22.301
+Tuner 21.861 22.395
+Tuner 21.861 21.92
+Tuner 25.8 22.605
+Tuner 24.439 22.338
+Tuner converged in generation 51
+Tuner 24.958 23.66
+Tuner 21.861 22.195
+Tuner 21.861 22.167
+Tuner 21.973 22.374
+GA 20 21.841 7
+Terminating at
+	20 generations
+	2365700 evaluations
+	1634.08 seconds
+KFold Run: 5
+Training
+	MSE: 21.841
+	Rsquared: 0.711
+Testing
+	MSE: 69.206
+	Rsquared: 0.08
+
+Run6
+GA 1 38.957 1
+GA 2 38.957 1
+GA 3 37.344 3
+GA 4 37.344 3
+Tuner 37.344 27.423
+Tuner converged in generation 69
+Tuner 37.344 27.424
+Tuner converged in generation 77
+Tuner 37.344 27.42
+Tuner 38.672 30.722
+Tuner 37.344 27.423
+Tuner 46.988 30.599
+Tuner converged in generation 99
+Tuner 37.344 27.421
+Tuner converged in generation 73
+Tuner 49.894 38.746
+Tuner converged in generation 96
+Tuner 37.344 27.419
+Tuner 39.422 24.958
+Tuner converged in generation 54
+Tuner 37.344 27.429
+Tuner 37.344 27.422
+Tuner converged in generation 82
+Tuner 49.894 38.746
+Tuner converged in generation 90
+Tuner 37.344 27.42
+Tuner 37.344 27.42
+Tuner converged in generation 56
+Tuner 37.344 27.422
+GA 5 24.958 15
+GA 6 24.958 15
+GA 7 22.841 7
+GA 8 22.841 7
+GA 9 22.841 7
+Tuner 24.952 24.862
+Tuner 40.589 26.708
+Tuner 24.98 23.66
+Tuner 24.952 25.761
+Tuner 58.186 24.821
+Tuner 24.958 25.322
+Tuner 53.823 23.249
+Tuner 24.708 25.01
+Tuner 43.849 25.244
+Tuner converged in generation 68
+Tuner 27.844 27.424
+Tuner converged in generation 92
+Tuner 47.644 26.605
+Tuner 27.406 26.493
+Tuner 28.102 22.938
+Tuner 28.774 27.41
+Tuner 22.841 22.7
+Tuner converged in generation 98
+Tuner 24.178 22.637
+Tuner 54.841 35.447
+Tuner 29.951 25.305
+Tuner 28.42 27.905
+Tuner 26.02 24.509
+Tuner 30.591 24.574
+Tuner 62.915 25.699
+Tuner 26.037 25.371
+Tuner 25.318 24.626
+Tuner 23.078 23.724
+Tuner 29.068 30.569
+Tuner 24.958 27.522
+Tuner 26.383 24.789
+Tuner 27.844 27.417
+Tuner 80.867 26.118
+Tuner 25.745 25.993
+Tuner 25.11 24.232
+Tuner 85.802 30.377
+Tuner 28.487 23.096
+Tuner 26.754 26.493
+Tuner 31.132 22.712
+Tuner 27.892 27.474
+Tuner 39.185 25.715
+Tuner 23.278 23.195
+Tuner 25.213 24.806
+Tuner 26.611 23.603
+Tuner 25.5 25.438
+Tuner 24.735 26.446
+Tuner 45.478 25.906
+Tuner 24.526 25.399
+Tuner 26.334 25.436
+Tuner 24.687 23.607
+Tuner 24.97 23.349
+Tuner 23.884 22.793
+Tuner 27.966 26.355
+Tuner 25.222 24.605
+Tuner 33.655 23.785
+Tuner converged in generation 45
+Tuner 27.42 27.425
+Tuner converged in generation 85
+Tuner 27.844 27.42
+Tuner 24.162 25.977
+Tuner 35.678 31.106
+Tuner 30.331 26.415
+Tuner 24.952 25.368
+Tuner converged in generation 95
+Tuner 31.395 31.084
+Tuner 24.958 27.242
+Tuner converged in generation 99
+Tuner 27.844 27.421
+Tuner 43.81 30.854
+Tuner 57.025 26.574
+Tuner converged in generation 49
+Tuner 27.42 27.425
+Tuner 24.675 27.488
+Tuner 35.983 26.553
+Tuner 90.596 25.94
+Tuner 25.221 23.141
+Tuner 28.321 26.17
+Tuner 40.81 22.428
+Tuner 23.742 30.864
+Tuner 26.229 27.069
+Tuner 25.213 24.944
+Tuner converged in generation 95
+Tuner 31.395 31.07
+Tuner 24.664 24.218
+Tuner 25.263 26.43
+Tuner 28.179 22.785
+Tuner 24.121 27.229
+Tuner 38.851 22.912
+Tuner 25.206 27.454
+Tuner 25.771 27.456
+Tuner 86.432 30.798
+Tuner 24.767 22.493
+Tuner converged in generation 92
+Tuner 22.841 23.065
+Tuner 43.554 26.898
+Tuner 24.437 26.322
+Tuner 24.958 27.672
+Tuner 26.831 22.65
+Tuner 25.769 27.464
+Tuner 27.748 27.072
+Tuner 24.958 26.454
+Tuner 28.063 27.353
+Tuner 28.309 26.988
+Tuner 47.644 26.492
+Tuner 25.209 23.858
+GA 10 22.428 17
+GA 11 22.428 17
+GA 12 22.18 23
+GA 13 22.063 27
+GA 14 22.063 27
+Tuner 28.217 23.585
+Tuner 22.318 23.761
+Tuner 22.308 23.061
+Tuner 22.433 23.495
+Tuner 23.805 23.035
+Tuner 24.044 24.381
+Tuner 27.685 26.591
+Tuner 91.658 24.697
+Tuner 22.428 22.13
+Tuner 90.589 23.327
+Tuner 27.476 26.603
+Tuner 23.133 23.806
+Tuner 23.173 22.893
+Tuner 24.91 22.994
+Tuner 23.129 22.397
+Tuner 22.428 23.229
+Tuner 47.752 23.564
+Tuner 81.106 71.571
+Tuner 23.118 22.773
+Tuner 87.981 23.679
+Tuner 22.415 23.532
+Tuner 62.181 22.692
+Tuner 22.511 23.261
+Tuner converged in generation 40
+Tuner 81.46 73.704
+Tuner 22.225 24.683
+Tuner 22.376 22.18
+Tuner 22.358 23.122
+Tuner 23.039 23.08
+Tuner converged in generation 55
+Tuner 46.811 46.788
+Tuner 22.516 24.066
+Tuner 31.339 30.859
+Tuner 28.021 27.425
+Tuner 23.03 22.897
+Tuner 22.655 23.388
+Tuner 24.215 22.973
+Tuner 68.746 27.224
+Tuner 22.298 24.183
+Tuner 23.904 21.166
+Tuner 22.262 24.229
+Tuner 22.428 23.574
+Tuner 42.007 25.095
+Tuner 22.781 23.38
+Tuner 28.807 23.443
+Tuner 22.211 22.463
+Tuner 31.38 30.869
+Tuner 64.497 22.91
+Tuner 91.644 73.704
+Tuner 22.428 22.649
+Tuner 52.462 23.433
+Tuner 23.908 24.363
+Tuner 22.752 22.193
+Tuner converged in generation 88
+Tuner 53.691 40.012
+Tuner 40.992 24.036
+Tuner 60.06 26.7
+Tuner 22.463 23.331
+Tuner 24.965 23.843
+Tuner 22.44 23.498
+Tuner 25.52 23.338
+Tuner 22.442 23.538
+Tuner 22.198 22.579
+Tuner 28.192 26.221
+Tuner 22.354 22.177
+Tuner 22.254 23.543
+Tuner 22.151 22.877
+Tuner 23.9 22.948
+Tuner 23.047 24.276
+Tuner 22.238 22.627
+Tuner 24.096 24.568
+Tuner 27.984 27.424
+Tuner 22.84 23.632
+Tuner 31.083 24.665
+Tuner 23.741 22.226
+Tuner 22.426 23.834
+Tuner 25.788 23.82
+Tuner 22.269 22.207
+Tuner 28.227 22.882
+Tuner 21.937 23.968
+Tuner 52.462 23.583
+Tuner 22.124 24.467
+Tuner 22.428 22.683
+Tuner 76.302 25.918
+Tuner 22.428 23.407
+Tuner 22.459 22.866
+Tuner 38.873 22.686
+Tuner 31.269 30.645
+Tuner 22.428 24.429
+Tuner 30.068 24.088
+Tuner 23.879 23.209
+Tuner 22.35 23.01
+Tuner 56.831 27.267
+Tuner converged in generation 97
+Tuner 38.681 23.31
+Tuner 22.203 20.722
+Tuner 22.428 23.368
+Tuner 23.023 23.604
+Tuner 83.085 25.876
+GA 15 20.722 37
+GA 16 20.539 37
+GA 17 20.539 37
+GA 18 20.537 61
+GA 19 20.053 21
+Tuner 20.449 26.335
+Tuner 71.254 24.936
+Tuner 91.249 24.828
+Tuner 39.262 23.53
+Tuner 20.791 24.931
+Tuner 20.539 24.692
+Tuner 21.042 24.169
+Tuner 23.932 23.5
+Tuner 60.721 29.557
+Tuner 20.537 26.661
+Tuner 25.1 22.312
+Tuner 21.166 25.563
+Tuner 20.539 21.792
+Tuner 20.61 24.309
+Tuner 39.934 25.807
+Tuner 20.539 24.937
+Tuner 69.85 24.119
+Tuner converged in generation 89
+Tuner 66.078 40.976
+Tuner 20.904 23.909
+Tuner 27.152 22.971
+Tuner 31.026 24.378
+Tuner 72.528 34.577
+Tuner 20.722 27.582
+Tuner 20.539 25.898
+Tuner 48.182 25.245
+Tuner 21.985 24.513
+Tuner 20.459 24.436
+Tuner 80.667 25.105
+Tuner 20.95 24.281
+Tuner 39.159 25.019
+Tuner 40.252 24.534
+Tuner 20.524 25.269
+Tuner 20.741 24.483
+Tuner 23.496 23.443
+Tuner 45.093 25.519
+Tuner 20.539 23.844
+Tuner converged in generation 88
+Tuner 73.741 73.704
+Tuner 20.669 27.36
+Tuner 26.088 24.723
+Tuner 20.514 25.197
+Tuner 20.904 23.383
+Tuner 34.909 26.626
+Tuner 21.044 24.272
+Tuner 20.529 25.036
+Tuner 20.158 21.97
+Tuner 20.904 24.108
+Tuner 57.748 40.974
+Tuner 80.904 23.311
+Tuner 69.85 23.884
+Tuner 21.655 27.149
+Tuner 21.064 23.9
+Tuner 22.295 24.008
+Tuner 78.054 31.861
+Tuner 73.634 23.061
+Tuner 77.071 24.105
+Tuner 20.536 23.012
+Tuner 20.756 24.251
+Tuner 20.558 21.612
+Tuner 39.477 24.034
+Tuner 20.329 23.489
+Tuner 71.105 26.55
+Tuner 20.978 24.758
+Tuner 20.539 24.442
+Tuner 20.518 24.767
+Tuner 22.313 24.038
+Tuner 40.42 24.518
+Tuner 20.621 23.866
+Tuner 20.479 24.355
+Tuner 20.447 24.571
+Tuner 20.546 25.026
+Tuner 20.479 23.779
+Tuner 20.841 23.242
+Tuner 20.835 23.898
+Tuner 91.807 28.363
+Tuner 20.611 25.069
+Tuner 36.638 24.493
+Tuner 42.622 24.277
+Tuner 20.529 24.621
+Tuner 42.341 26.035
+Tuner 20.538 23.881
+Tuner 20.597 24.904
+Tuner 68.457 24.782
+Tuner 41.803 24.277
+Tuner 25.371 24.125
+Tuner 20.539 24.593
+Tuner 41.167 23.774
+Tuner 20.722 25.8
+Tuner 20.499 23.079
+GA 20 20.053 21
+Terminating at
+	20 generations
+	2921088 evaluations
+	3734.12 seconds
+KFold Run: 6
+Training
+	MSE: 20.053
+	Rsquared: 0.782
+Testing
+	MSE: 14.635
+	Rsquared: 0.085
+
+Run7
+GA 1 26.389 1
+GA 2 26.389 1
+GA 3 23.361 5
+GA 4 23.361 5
+Tuner converged in generation 70
+Tuner 28.135 20.938
+Tuner 60.802 60.155
+Tuner 74.168 20.893
+Tuner converged in generation 57
+Tuner 74.168 20.783
+Tuner 60.802 21.105
+Tuner converged in generation 68
+Tuner 74.168 59.965
+Tuner converged in generation 67
+Tuner 25.161 21.158
+Tuner 25.161 21.024
+Tuner converged in generation 89
+Tuner 28.135 20.861
+Tuner converged in generation 76
+Tuner 25.161 20.891
+Tuner 25.161 20.773
+Tuner 30.238 22.928
+Tuner converged in generation 85
+Tuner 30.238 22.928
+Tuner 25.161 21.12
+Tuner 37.085 17.692
+Tuner 40.662 16.79
+Tuner converged in generation 49
+Tuner 28.135 20.691
+Tuner converged in generation 86
+Tuner 74.168 21.027
+Tuner 30.238 22.928
+Tuner 25.161 21.474
+GA 5 16.79 5
+GA 6 16.79 5
+GA 7 16.79 5
+GA 8 16.71 11
+GA 9 16.71 11
+Tuner 17.692 18.701
+Tuner 16.79 16.428
+Tuner converged in generation 89
+Tuner 51.918 17.861
+Tuner converged in generation 83
+Tuner 44.991 17.508
+Tuner 21.47 17.144
+Tuner converged in generation 94
+Tuner 16.79 16.368
+Tuner 36.615 17.307
+Tuner 64.238 17.485
+Tuner 74.12 16.96
+Tuner 18.198 16.806
+Tuner 16.79 16.068
+Tuner 51.918 18.334
+Tuner converged in generation 67
+Tuner 16.79 16.726
+Tuner 29.751 21.025
+Tuner converged in generation 92
+Tuner 30.514 16.762
+Tuner 18.289 17.989
+Tuner converged in generation 99
+Tuner 16.79 16.778
+Tuner 16.79 16.679
+Tuner 16.79 17.11
+Tuner converged in generation 62
+Tuner 18.198 17.092
+Tuner 21.216 17.981
+Tuner 19.0 18.539
+Tuner 16.79 16.511
+Tuner 16.79 16.131
+Tuner converged in generation 90
+Tuner 18.198 16.65
+Tuner 16.79 15.972
+Tuner 36.079 16.332
+Tuner 64.238 17.461
+Tuner converged in generation 82
+Tuner 21.373 21.39
+Tuner converged in generation 93
+Tuner 20.994 16.741
+Tuner 16.79 16.629
+Tuner 20.994 16.946
+Tuner 20.994 16.754
+Tuner 19.96 16.397
+Tuner 21.216 17.228
+Tuner 17.368 17.816
+Tuner 17.348 18.241
+Tuner converged in generation 90
+Tuner 16.79 16.4
+Tuner 16.79 16.974
+Tuner converged in generation 73
+Tuner 20.402 16.896
+Tuner 16.79 16.955
+Tuner 19.96 16.719
+Tuner 36.615 17.438
+Tuner 21.701 21.345
+Tuner 20.424 16.616
+Tuner 17.319 16.662
+Tuner 36.615 17.349
+Tuner converged in generation 78
+Tuner 23.593 22.928
+Tuner 16.79 16.281
+Tuner converged in generation 73
+Tuner 22.819 16.933
+Tuner 21.216 17.64
+Tuner 16.79 16.498
+Tuner converged in generation 97
+Tuner 16.79 16.656
+Tuner converged in generation 78
+Tuner 21.701 21.362
+Tuner converged in generation 85
+Tuner 16.79 16.262
+Tuner converged in generation 97
+Tuner 21.701 21.361
+Tuner converged in generation 95
+Tuner 16.79 16.238
+Tuner 51.918 17.913
+Tuner 16.79 16.624
+Tuner converged in generation 91
+Tuner 70.198 19.325
+Tuner converged in generation 88
+Tuner 36.079 15.921
+Tuner converged in generation 82
+Tuner 29.751 21.014
+Tuner 36.615 16.897
+Tuner converged in generation 85
+Tuner 36.079 16.425
+Tuner converged in generation 76
+Tuner 20.994 17.463
+Tuner converged in generation 82
+Tuner 16.79 16.605
+Tuner converged in generation 78
+Tuner 16.79 16.308
+Tuner 16.79 16.505
+Tuner converged in generation 88
+Tuner 16.79 16.412
+Tuner converged in generation 87
+Tuner 56.478 16.271
+Tuner 21.701 21.343
+Tuner converged in generation 81
+Tuner 36.615 17.353
+Tuner 16.79 17.01
+Tuner 36.615 17.238
+Tuner 21.216 16.507
+Tuner 20.153 19.441
+Tuner 18.289 18.541
+Tuner converged in generation 92
+Tuner 16.79 16.856
+Tuner 21.701 21.381
+Tuner converged in generation 61
+Tuner 23.593 22.928
+Tuner 68.947 18.004
+Tuner 16.79 16.211
+Tuner 21.373 21.36
+Tuner 16.79 16.238
+Tuner 16.79 16.831
+Tuner converged in generation 45
+Tuner 23.593 22.928
+Tuner 29.301 17.192
+Tuner converged in generation 97
+Tuner 73.846 17.489
+GA 10 15.921 7
+GA 11 15.921 7
+GA 12 15.921 7
+GA 13 15.921 7
+GA 14 15.921 7
+Tuner 22.995 22.928
+Tuner 25.781 17.011
+Tuner 26.46 21.353
+Tuner 61.785 17.334
+Tuner 25.273 16.201
+Tuner 22.821 21.36
+Tuner converged in generation 45
+Tuner 26.46 21.427
+Tuner converged in generation 71
+Tuner 15.972 17.0
+Tuner 15.921 16.599
+Tuner 15.972 16.726
+Tuner 31.497 15.717
+Tuner 22.821 21.359
+Tuner 18.603 16.146
+Tuner converged in generation 96
+Tuner 74.119 18.108
+Tuner converged in generation 73
+Tuner 16.605 16.652
+Tuner converged in generation 90
+Tuner 18.882 16.807
+Tuner 29.836 17.603
+Tuner 15.972 16.685
+Tuner converged in generation 97
+Tuner 15.972 16.439
+Tuner 18.882 16.486
+Tuner 24.81 17.239
+Tuner 23.372 16.987
+Tuner 71.73 16.068
+Tuner 28.055 17.875
+Tuner 25.064 21.307
+Tuner converged in generation 96
+Tuner 31.5 17.04
+Tuner converged in generation 57
+Tuner 22.821 21.363
+Tuner converged in generation 75
+Tuner 15.972 17.286
+Tuner 21.324 16.95
+Tuner 18.382 17.45
+Tuner converged in generation 81
+Tuner 22.919 21.365
+Tuner 15.972 17.017
+Tuner 15.972 16.045
+Tuner 15.972 16.936
+Tuner 23.372 17.058
+Tuner 22.936 22.928
+Tuner 20.293 16.781
+Tuner 23.468 21.371
+Tuner 20.293 16.895
+Tuner 19.978 16.939
+Tuner 17.601 17.096
+Tuner converged in generation 82
+Tuner 15.972 16.669
+Tuner converged in generation 88
+Tuner 15.972 16.68
+Tuner converged in generation 97
+Tuner 26.397 20.822
+Tuner 16.329 16.735
+Tuner 15.972 16.573
+Tuner 18.857 16.851
+Tuner 24.674 17.932
+Tuner 19.318 17.225
+Tuner 15.921 17.237
+Tuner 15.921 17.001
+Tuner converged in generation 85
+Tuner 15.972 16.889
+Tuner 15.921 16.689
+Tuner 63.857 16.732
+Tuner converged in generation 95
+Tuner 26.46 21.337
+Tuner 15.972 16.678
+Tuner 54.82 16.974
+Tuner 26.46 21.366
+Tuner 54.82 16.232
+Tuner 28.836 22.928
+Tuner 23.811 21.393
+Tuner 17.601 16.028
+Tuner 15.972 17.064
+Tuner converged in generation 95
+Tuner 21.816 17.29
+Tuner 21.651 16.298
+Tuner 34.658 16.747
+Tuner 18.857 16.812
+Tuner converged in generation 88
+Tuner 15.921 16.423
+Tuner 24.81 16.583
+Tuner converged in generation 85
+Tuner 15.972 16.382
+Tuner converged in generation 76
+Tuner 16.068 16.851
+Tuner converged in generation 83
+Tuner 15.921 17.069
+Tuner 18.11 16.724
+Tuner converged in generation 61
+Tuner 25.054 20.779
+Tuner 16.068 16.207
+Tuner converged in generation 92
+Tuner 24.358 16.76
+Tuner 28.577 16.974
+Tuner 48.806 17.825
+Tuner 71.73 17.127
+Tuner 22.821 21.325
+Tuner converged in generation 81
+Tuner 15.921 16.558
+Tuner 23.086 17.77
+Tuner 16.131 16.7
+Tuner 16.308 17.289
+GA 15 15.717 11
+GA 16 15.717 11
+GA 17 15.717 11
+GA 18 15.717 11
+GA 19 15.709 11
+Tuner 15.717 16.245
+Tuner 20.022 17.271
+Tuner 15.82 17.035
+Tuner converged in generation 72
+Tuner 15.921 16.512
+Tuner converged in generation 75
+Tuner 23.811 21.349
+Tuner 15.717 16.636
+Tuner 16.38 17.439
+Tuner 19.536 17.813
+Tuner 15.921 17.179
+Tuner 19.536 17.001
+Tuner 20.946 16.593
+Tuner 63.906 16.694
+Tuner 35.162 17.215
+Tuner converged in generation 97
+Tuner 23.784 16.171
+Tuner 15.633 16.826
+Tuner 32.115 16.672
+Tuner 16.932 17.243
+Tuner 35.403 17.727
+Tuner 19.931 17.108
+Tuner 21.657 16.984
+Tuner 25.828 16.297
+Tuner converged in generation 75
+Tuner 71.73 17.0
+Tuner converged in generation 61
+Tuner 28.836 22.928
+Tuner 28.466 17.372
+Tuner converged in generation 96
+Tuner 35.162 17.2
+Tuner 15.709 17.356
+Tuner 22.074 17.724
+Tuner 20.405 17.657
+Tuner 36.311 16.389
+Tuner 36.311 16.803
+Tuner 23.163 16.679
+Tuner 23.854 21.404
+Tuner 16.161 16.455
+Tuner 18.825 17.454
+Tuner 20.946 16.922
+Tuner 16.806 16.112
+Tuner 15.709 16.385
+Tuner 53.489 17.508
+Tuner 42.866 17.042
+Tuner 19.536 18.672
+Tuner 36.311 17.903
+Tuner 20.767 16.642
+Tuner 23.46 17.518
+Tuner 16.932 16.421
+Tuner 15.717 17.005
+Tuner 15.709 16.315
+Tuner 42.886 18.481
+Tuner 15.921 16.595
+Tuner 16.476 17.543
+Tuner 31.123 16.997
+Tuner converged in generation 59
+Tuner 23.784 16.631
+Tuner 31.128 17.016
+Tuner 27.233 17.784
+Tuner 22.319 16.397
+Tuner 15.921 16.567
+Tuner converged in generation 92
+Tuner 19.931 16.991
+Tuner 15.717 16.671
+Tuner 15.921 16.466
+Tuner 23.163 16.954
+Tuner 16.38 18.669
+Tuner 28.276 17.133
+Tuner converged in generation 60
+Tuner 23.811 21.344
+Tuner 15.717 16.685
+Tuner converged in generation 39
+Tuner 23.699 22.928
+Tuner 28.276 18.105
+Tuner 35.162 16.768
+Tuner 20.022 16.877
+Tuner converged in generation 99
+Tuner 15.921 16.735
+Tuner 23.699 22.928
+Tuner 63.906 17.682
+Tuner 21.334 16.494
+Tuner 32.594 17.302
+Tuner 22.936 22.928
+Tuner 22.5 15.774
+Tuner 32.741 16.301
+Tuner 15.717 17.053
+Tuner converged in generation 68
+Tuner 22.042 16.918
+Tuner 32.594 18.016
+Tuner 18.947 17.179
+Tuner 15.717 16.759
+Tuner 19.931 16.72
+Tuner 40.015 17.058
+Tuner 22.124 17.241
+Tuner 23.258 16.285
+Tuner 32.594 16.295
+Tuner 31.433 17.503
+Tuner 22.124 17.077
+Tuner 15.716 17.071
+Tuner 41.954 16.641
+Tuner 25.073 22.928
+Tuner 16.932 16.898
+GA 20 15.633 17
+Terminating at
+	20 generations
+	2716000 evaluations
+	2068.77 seconds
+KFold Run: 7
+Training
+	MSE: 15.633
+	Rsquared: 0.789
+Testing
+	MSE: 161.111
+	Rsquared: -0.081
+
+Run8
+GA 1 36.528 1
+GA 2 36.528 1
+GA 3 31.45 7
+GA 4 31.45 7
+Tuner 28.83 27.866
+Tuner 31.45 27.858
+Tuner 28.83 28.752
+Tuner 39.616 27.898
+Tuner 45.732 28.717
+Tuner converged in generation 98
+Tuner 31.073 27.858
+Tuner converged in generation 81
+Tuner 81.849 28.752
+Tuner 30.655 28.752
+Tuner 51.244 27.851
+Tuner converged in generation 62
+Tuner 34.43 27.872
+Tuner 51.347 35.842
+Tuner 32.02 27.864
+Tuner 30.797 27.849
+Tuner converged in generation 87
+Tuner 30.655 28.752
+Tuner 31.45 27.848
+Tuner 31.45 27.846
+Tuner converged in generation 74
+Tuner 28.83 27.864
+Tuner converged in generation 87
+Tuner 51.347 35.842
+Tuner 34.43 27.843
+Tuner 31.073 27.852
+Tuner 28.83 28.752
+Tuner 34.43 27.843
+Tuner converged in generation 83
+Tuner 45.732 35.646
+Tuner 30.797 27.842
+Tuner 32.02 27.844
+Tuner 34.43 27.842
+Tuner converged in generation 94
+Tuner 30.655 28.752
+Tuner 38.088 27.849
+GA 5 27.842 5
+GA 6 27.842 5
+GA 7 27.796 15
+GA 8 27.796 15
+GA 9 27.795 13
+Tuner converged in generation 69
+Tuner 27.842 27.849
+Tuner converged in generation 62
+Tuner 27.842 27.853
+Tuner 30.095 27.849
+Tuner 27.973 27.844
+Tuner converged in generation 71
+Tuner 27.842 27.864
+Tuner converged in generation 73
+Tuner 27.842 27.85
+Tuner 28.418 27.854
+Tuner 34.285 27.851
+Tuner converged in generation 62
+Tuner 27.842 27.868
+Tuner 27.842 27.843
+Tuner converged in generation 70
+Tuner 57.675 38.01
+Tuner 28.418 27.845
+Tuner converged in generation 90
+Tuner 27.978 27.842
+Tuner converged in generation 90
+Tuner 27.842 27.854
+Tuner 28.901 28.752
+Tuner converged in generation 89
+Tuner 27.842 27.854
+Tuner 34.285 27.853
+Tuner 27.842 27.846
+Tuner 52.674 27.883
+Tuner converged in generation 46
+Tuner 46.914 38.01
+Tuner 27.842 27.845
+Tuner converged in generation 86
+Tuner 28.348 27.858
+Tuner 28.143 27.845
+Tuner 34.285 27.843
+Tuner converged in generation 71
+Tuner 27.842 27.866
+Tuner 28.143 27.842
+Tuner 28.042 27.861
+Tuner converged in generation 43
+Tuner 36.248 35.842
+Tuner converged in generation 92
+Tuner 52.042 28.752
+Tuner 28.348 27.855
+Tuner 65.577 35.842
+Tuner 27.898 27.854
+Tuner converged in generation 90
+Tuner 36.248 35.842
+Tuner converged in generation 52
+Tuner 27.842 27.88
+Tuner 27.842 27.85
+Tuner 27.842 27.853
+Tuner converged in generation 74
+Tuner 52.042 28.752
+Tuner 27.973 27.847
+Tuner 28.813 28.752
+Tuner 27.842 27.854
+Tuner 38.772 27.849
+Tuner 28.901 28.752
+Tuner converged in generation 85
+Tuner 56.691 35.842
+Tuner 48.675 27.859
+Tuner converged in generation 67
+Tuner 79.593 38.01
+Tuner 28.143 27.854
+Tuner 27.848 27.847
+Tuner 57.675 38.01
+Tuner 28.143 27.848
+Tuner 44.488 27.862
+Tuner 28.564 27.853
+Tuner 41.645 27.846
+Tuner 79.593 38.01
+Tuner 27.842 27.861
+Tuner 30.095 27.847
+Tuner 28.143 27.849
+Tuner 32.828 27.846
+Tuner converged in generation 65
+Tuner 39.616 39.616
+Tuner 36.248 35.842
+Tuner converged in generation 96
+Tuner 27.842 27.845
+Tuner 28.591 27.852
+Tuner 28.452 27.852
+Tuner 27.842 27.846
+Tuner 27.846 27.853
+Tuner 27.842 27.844
+Tuner converged in generation 77
+Tuner 27.842 27.859
+Tuner 27.867 27.844
+Tuner 27.842 27.842
+Tuner converged in generation 60
+Tuner 27.842 27.858
+Tuner 28.813 28.752
+Tuner 28.901 28.752
+Tuner converged in generation 69
+Tuner 27.842 27.854
+Tuner converged in generation 97
+Tuner 27.842 27.851
+Tuner 34.285 27.848
+Tuner 36.248 35.842
+Tuner 41.645 27.871
+Tuner 28.752 28.752
+Tuner 27.947 27.866
+Tuner 27.899 27.844
+Tuner 71.901 27.855
+Tuner 30.095 27.855
+Tuner converged in generation 98
+Tuner 28.143 27.844
+Tuner converged in generation 86
+Tuner 27.842 27.852
+Tuner converged in generation 57
+Tuner 28.813 28.752
+Tuner converged in generation 82
+Tuner 65.577 35.842
+Tuner 27.923 27.842
+Tuner 27.886 27.842
+Tuner 27.846 27.855
+Tuner 27.842 27.883
+Tuner 27.852 27.843
+Tuner 28.785 27.857
+Tuner 61.847 35.842
+Tuner 31.293 27.866
+Tuner 27.842 27.858
+Tuner converged in generation 74
+Tuner 36.248 35.842
+GA 10 27.795 13
+GA 11 27.795 13
+GA 12 27.795 13
+GA 13 27.795 13
+GA 14 27.781 15
+Tuner converged in generation 76
+Tuner 72.771 35.646
+Tuner 27.781 27.81
+Tuner 27.842 27.845
+Tuner 33.343 27.851
+Tuner 27.848 27.854
+Tuner 37.903 28.715
+Tuner 27.849 27.833
+Tuner converged in generation 79
+Tuner 27.842 27.849
+Tuner converged in generation 98
+Tuner 28.822 28.752
+Tuner converged in generation 84
+Tuner 65.389 35.842
+Tuner 33.422 28.752
+Tuner 27.842 27.847
+Tuner 28.597 27.78
+Tuner converged in generation 90
+Tuner 27.842 27.856
+Tuner 28.334 27.843
+Tuner converged in generation 53
+Tuner 36.248 35.842
+Tuner 27.844 27.842
+Tuner 28.021 27.843
+Tuner 27.846 27.856
+Tuner 27.8 27.84
+Tuner 65.389 35.842
+Tuner 37.903 28.713
+Tuner 27.827 27.796
+Tuner 28.753 28.752
+Tuner 27.792 27.857
+Tuner 27.856 27.846
+Tuner 27.917 27.801
+Tuner converged in generation 85
+Tuner 27.973 27.844
+Tuner 27.809 27.833
+Tuner 30.533 27.84
+Tuner 28.729 28.713
+Tuner 29.783 27.849
+Tuner 27.859 27.779
+Tuner 28.852 28.752
+Tuner 27.878 27.81
+Tuner 27.866 27.828
+Tuner 27.83 27.855
+Tuner 28.854 28.752
+Tuner 30.829 27.802
+Tuner converged in generation 72
+Tuner 56.26 35.842
+Tuner 28.224 27.767
+Tuner 27.842 27.845
+Tuner 28.141 27.853
+Tuner 32.057 28.713
+Tuner 27.867 27.826
+Tuner 27.853 27.808
+Tuner 28.05 27.846
+Tuner 28.961 27.825
+Tuner 45.736 27.849
+Tuner converged in generation 83
+Tuner 28.755 28.752
+Tuner 27.781 27.858
+Tuner converged in generation 92
+Tuner 28.822 28.752
+Tuner 27.842 27.85
+Tuner 29.895 28.752
+Tuner 71.855 39.397
+Tuner converged in generation 93
+Tuner 28.149 27.866
+Tuner 31.352 27.85
+Tuner 28.71 27.794
+Tuner converged in generation 72
+Tuner 28.822 28.752
+Tuner 33.083 27.836
+Tuner 36.309 35.842
+Tuner 28.731 27.848
+Tuner 57.675 38.01
+Tuner 27.842 27.853
+Tuner 27.931 27.803
+Tuner 67.976 27.836
+Tuner 27.842 27.842
+Tuner 53.074 27.812
+Tuner 27.842 27.844
+Tuner converged in generation 66
+Tuner 28.813 28.752
+Tuner 40.024 27.843
+Tuner 35.778 28.715
+Tuner 29.173 28.729
+Tuner 43.554 27.837
+Tuner 27.847 27.85
+Tuner 48.993 37.693
+Tuner 27.822 27.795
+Tuner 27.84 27.841
+Tuner 33.575 28.752
+Tuner 27.842 27.842
+Tuner 27.842 27.842
+Tuner 81.426 27.829
+Tuner 72.771 35.646
+Tuner 27.886 27.843
+Tuner 28.047 27.848
+Tuner converged in generation 89
+Tuner 44.485 39.397
+Tuner 27.846 27.782
+Tuner 39.662 28.713
+Tuner 27.842 27.842
+Tuner 27.894 27.845
+Tuner 28.705 27.836
+Tuner converged in generation 87
+Tuner 28.048 27.853
+Tuner 64.87 28.713
+Tuner 27.842 27.842
+Tuner 79.501 38.01
+GA 15 27.767 15
+GA 16 27.767 15
+GA 17 27.767 15
+GA 18 27.767 15
+GA 19 27.767 15
+Tuner 27.777 27.822
+Tuner converged in generation 86
+Tuner 77.133 70.211
+Tuner 80.152 34.806
+Tuner 27.776 27.77
+Tuner 27.777 27.8
+Tuner 27.786 27.791
+Tuner 27.776 27.805
+Tuner 27.813 27.812
+Tuner 27.832 27.843
+Tuner 41.758 27.839
+Tuner 27.772 27.799
+Tuner 27.932 27.851
+Tuner 27.859 27.833
+Tuner converged in generation 90
+Tuner 43.528 34.805
+Tuner 27.781 27.779
+Tuner 27.872 27.832
+Tuner 35.437 27.843
+Tuner 80.137 27.866
+Tuner 27.768 27.809
+Tuner 27.776 27.788
+Tuner converged in generation 85
+Tuner 71.427 34.804
+Tuner 28.757 27.788
+Tuner converged in generation 95
+Tuner 30.621 27.843
+Tuner 27.773 27.827
+Tuner 28.145 27.814
+Tuner 30.421 27.793
+Tuner 27.885 27.85
+Tuner 28.301 27.857
+Tuner 28.283 27.798
+Tuner 30.89 27.792
+Tuner 28.592 27.779
+Tuner 30.204 27.865
+Tuner 27.791 27.814
+Tuner 42.263 34.807
+Tuner 27.776 27.803
+Tuner 29.682 27.838
+Tuner 28.653 27.788
+Tuner 27.855 27.842
+Tuner 27.78 27.783
+Tuner 27.964 27.844
+Tuner 29.327 27.806
+Tuner 28.067 27.852
+Tuner 36.248 35.842
+Tuner 36.528 35.842
+Tuner 61.529 27.826
+Tuner 27.776 27.786
+Tuner 36.827 27.818
+Tuner converged in generation 54
+Tuner 38.728 27.865
+Tuner 38.307 28.723
+Tuner 37.307 27.799
+Tuner 30.685 27.779
+Tuner 43.977 27.847
+Tuner 66.016 27.794
+Tuner 27.99 27.839
+Tuner 27.947 27.854
+Tuner 28.226 27.775
+Tuner 74.116 35.646
+Tuner 29.634 27.785
+Tuner 29.026 27.853
+Tuner 27.781 27.808
+Tuner converged in generation 99
+Tuner 72.771 69.202
+Tuner 36.205 28.715
+Tuner 27.785 27.835
+Tuner 30.427 27.827
+Tuner 30.204 27.827
+Tuner 28.554 27.844
+Tuner 28.586 27.847
+Tuner 28.409 27.852
+Tuner 30.988 27.835
+Tuner 27.784 27.811
+Tuner 27.781 27.835
+Tuner 27.781 27.772
+Tuner 27.767 27.82
+Tuner 28.135 27.844
+Tuner 27.839 27.812
+Tuner 28.003 27.808
+Tuner 29.556 27.824
+Tuner 45.732 35.646
+Tuner 27.838 27.788
+Tuner 27.844 27.788
+Tuner 27.772 27.785
+Tuner 28.438 27.833
+Tuner 41.252 27.883
+Tuner 28.037 27.772
+Tuner 27.847 27.802
+Tuner 27.765 27.809
+Tuner 29.589 27.849
+Tuner 27.775 27.85
+Tuner 27.863 27.805
+Tuner 28.752 28.714
+Tuner 27.845 27.796
+Tuner 45.732 35.646
+Tuner 27.776 27.802
+Tuner converged in generation 82
+Tuner 27.781 27.82
+GA 20 27.765 75
+Terminating at
+	20 generations
+	3031199 evaluations
+	2851.7 seconds
+KFold Run: 8
+Training
+	MSE: 27.765
+	Rsquared: 0.661
+Testing
+	MSE: 48.42
+	Rsquared: -1.569
+
+Run9
+GA 1 41.043 1
+GA 2 41.043 1
+GA 3 39.105 3
+GA 4 39.105 3
+Tuner 39.105 28.95
+Tuner converged in generation 97
+Tuner 39.105 28.948
+Tuner 39.105 28.947
+Tuner converged in generation 82
+Tuner 39.105 28.953
+Tuner converged in generation 37
+Tuner 39.105 28.949
+Tuner converged in generation 67
+Tuner 39.105 28.951
+Tuner 39.105 28.953
+Tuner converged in generation 65
+Tuner 39.105 28.947
+Tuner converged in generation 98
+Tuner 39.105 28.949
+GA 5 28.947 3
+GA 6 28.947 3
+GA 7 28.947 3
+GA 8 28.947 3
+GA 9 28.947 3
+Tuner 28.948 28.948
+Tuner 47.378 28.526
+Tuner converged in generation 64
+Tuner 28.948 28.949
+Tuner 46.175 28.563
+Tuner 47.378 28.31
+Tuner converged in generation 90
+Tuner 31.274 28.555
+Tuner converged in generation 99
+Tuner 47.378 28.363
+Tuner converged in generation 57
+Tuner 28.947 28.952
+Tuner converged in generation 62
+Tuner 28.947 28.949
+Tuner converged in generation 84
+Tuner 28.947 28.948
+Tuner converged in generation 80
+Tuner 31.685 28.597
+Tuner converged in generation 71
+Tuner 28.947 28.953
+Tuner converged in generation 82
+Tuner 28.947 28.945
+Tuner 47.378 28.513
+Tuner converged in generation 92
+Tuner 28.947 28.949
+Tuner converged in generation 94
+Tuner 50.974 28.637
+Tuner converged in generation 41
+Tuner 28.947 28.946
+Tuner converged in generation 82
+Tuner 28.948 28.948
+Tuner converged in generation 65
+Tuner 33.08 28.246
+Tuner 35.312 28.244
+Tuner converged in generation 82
+Tuner 32.241 28.749
+Tuner converged in generation 82
+Tuner 51.795 28.674
+Tuner converged in generation 73
+Tuner 28.947 28.948
+Tuner 47.378 28.497
+Tuner 28.947 28.951
+Tuner 28.947 28.949
+Tuner 28.947 28.947
+Tuner 31.274 28.668
+Tuner converged in generation 62
+Tuner 28.947 28.95
+Tuner converged in generation 51
+Tuner 28.947 28.948
+Tuner 28.947 28.948
+Tuner converged in generation 59
+Tuner 51.795 28.587
+Tuner 50.625 28.559
+Tuner converged in generation 97
+Tuner 28.947 28.949
+Tuner 28.947 28.947
+Tuner 51.795 28.618
+Tuner converged in generation 93
+Tuner 28.947 28.95
+Tuner 34.275 28.339
+Tuner 28.947 28.947
+Tuner converged in generation 50
+Tuner 28.947 28.952
+Tuner converged in generation 64
+Tuner 47.378 28.178
+Tuner 33.08 28.392
+Tuner converged in generation 69
+Tuner 28.948 28.946
+Tuner converged in generation 51
+Tuner 28.947 28.953
+Tuner 28.948 28.948
+Tuner converged in generation 57
+Tuner 28.948 28.951
+Tuner 46.175 28.724
+Tuner 28.949 28.947
+Tuner 31.274 28.707
+Tuner converged in generation 72
+Tuner 28.948 28.951
+Tuner converged in generation 71
+Tuner 32.056 28.335
+Tuner 35.312 28.274
+Tuner 28.947 28.951
+Tuner 28.947 28.947
+Tuner 28.947 28.946
+Tuner converged in generation 91
+Tuner 28.948 28.947
+Tuner 35.312 28.533
+Tuner converged in generation 63
+Tuner 28.947 28.953
+Tuner 47.378 28.439
+Tuner 28.947 28.952
+Tuner 28.947 28.946
+Tuner converged in generation 50
+Tuner 28.948 28.952
+Tuner converged in generation 87
+Tuner 34.275 28.625
+Tuner 28.947 28.947
+Tuner converged in generation 77
+Tuner 28.947 28.947
+Tuner 28.947 28.946
+Tuner 28.948 28.944
+Tuner 51.487 28.535
+Tuner converged in generation 88
+Tuner 35.312 28.44
+Tuner converged in generation 63
+Tuner 28.947 28.949
+Tuner 51.487 28.529
+Tuner converged in generation 83
+Tuner 28.948 28.95
+Tuner converged in generation 93
+Tuner 47.378 28.422
+Tuner 28.947 28.954
+Tuner converged in generation 66
+Tuner 28.948 28.949
+Tuner converged in generation 84
+Tuner 47.378 28.461
+Tuner converged in generation 94
+Tuner 28.947 28.95
+Tuner converged in generation 71
+Tuner 33.08 28.265
+Tuner 50.974 28.694
+GA 10 28.178 5
+GA 11 28.178 5
+GA 12 28.178 5
+GA 13 28.178 5
+GA 14 28.178 5
+Tuner 33.948 28.538
+Tuner converged in generation 99
+Tuner 31.648 28.95
+Tuner converged in generation 74
+Tuner 28.178 28.503
+Tuner 57.595 28.466
+Tuner converged in generation 89
+Tuner 28.178 28.516
+Tuner converged in generation 45
+Tuner 66.183 28.955
+Tuner 36.022 28.4
+Tuner converged in generation 99
+Tuner 72.22 28.283
+Tuner 30.545 28.188
+Tuner 44.951 28.328
+Tuner converged in generation 54
+Tuner 28.178 28.592
+Tuner 67.494 28.174
+Tuner converged in generation 82
+Tuner 30.738 28.318
+Tuner 72.22 28.275
+Tuner converged in generation 60
+Tuner 31.648 28.948
+Tuner 28.178 28.567
+Tuner 28.178 28.537
+Tuner converged in generation 98
+Tuner 67.494 28.242
+Tuner converged in generation 98
+Tuner 31.648 28.95
+Tuner 29.309 28.358
+Tuner 36.691 27.937
+Tuner 29.608 28.106
+Tuner 31.648 28.947
+Tuner 28.178 28.488
+Tuner 28.178 28.378
+Tuner converged in generation 75
+Tuner 28.178 28.236
+Tuner converged in generation 83
+Tuner 28.178 28.524
+Tuner 69.62 28.421
+Tuner 28.178 28.532
+Tuner 29.915 28.385
+Tuner converged in generation 58
+Tuner 28.178 28.525
+Tuner converged in generation 51
+Tuner 28.178 28.286
+Tuner converged in generation 97
+Tuner 28.178 28.157
+Tuner 41.976 28.949
+Tuner 28.246 28.428
+Tuner 33.948 28.373
+Tuner converged in generation 63
+Tuner 28.178 28.473
+Tuner converged in generation 75
+Tuner 28.178 28.529
+Tuner 32.469 28.145
+Tuner 69.62 28.076
+Tuner converged in generation 82
+Tuner 28.178 28.337
+Tuner 33.948 28.317
+Tuner 28.178 28.208
+Tuner 40.685 28.205
+Tuner converged in generation 79
+Tuner 31.648 28.952
+Tuner converged in generation 98
+Tuner 28.178 28.508
+Tuner 33.948 28.434
+Tuner 47.097 28.189
+Tuner 28.274 28.803
+Tuner converged in generation 99
+Tuner 72.22 28.345
+Tuner converged in generation 44
+Tuner 66.183 28.95
+Tuner 46.839 28.948
+Tuner 29.409 28.436
+Tuner converged in generation 80
+Tuner 66.183 28.954
+Tuner 28.246 28.509
+Tuner converged in generation 93
+Tuner 66.183 28.948
+Tuner 28.178 28.363
+Tuner 30.936 28.32
+Tuner 45.274 28.124
+Tuner 29.409 28.662
+Tuner 28.178 28.51
+Tuner 28.178 28.429
+Tuner 28.178 28.185
+Tuner 29.409 28.501
+Tuner 44.17 28.552
+Tuner 29.409 28.489
+Tuner converged in generation 50
+Tuner 66.183 28.952
+Tuner 29.409 28.594
+Tuner converged in generation 79
+Tuner 31.648 28.954
+Tuner converged in generation 99
+Tuner 28.178 28.534
+Tuner converged in generation 51
+Tuner 30.087 28.948
+Tuner 29.915 28.5
+Tuner 28.178 28.428
+Tuner 28.178 28.361
+Tuner converged in generation 84
+Tuner 28.31 28.18
+Tuner converged in generation 61
+Tuner 28.178 28.537
+Tuner 48.592 28.947
+Tuner 44.17 28.387
+Tuner converged in generation 94
+Tuner 28.178 28.424
+GA 15 27.937 9
+GA 16 27.937 9
+GA 17 27.937 9
+GA 18 27.937 9
+GA 19 27.937 9
+Tuner 28.145 28.091
+Tuner 28.178 28.485
+Tuner 29.77 28.42
+Tuner 32.067 28.327
+Tuner converged in generation 85
+Tuner 28.106 28.364
+Tuner 36.374 28.096
+Tuner converged in generation 51
+Tuner 31.725 28.95
+Tuner 88.172 28.46
+Tuner converged in generation 84
+Tuner 28.076 28.191
+Tuner converged in generation 69
+Tuner 29.792 28.951
+Tuner 29.278 28.362
+Tuner 28.076 28.224
+Tuner 35.75 28.273
+Tuner 59.623 28.95
+Tuner 28.145 28.28
+Tuner 28.076 28.283
+Tuner 29.077 28.194
+Tuner 38.818 28.06
+Tuner converged in generation 92
+Tuner 40.394 28.464
+Tuner converged in generation 99
+Tuner 29.501 28.488
+Tuner 37.559 28.236
+Tuner 28.076 28.256
+Tuner 28.076 28.466
+Tuner 38.818 28.138
+Tuner 28.076 28.067
+Tuner converged in generation 93
+Tuner 36.536 28.503
+Tuner 60.329 28.493
+Tuner 29.092 28.222
+Tuner 33.948 28.431
+Tuner 32.281 28.434
+Tuner 28.319 28.345
+Tuner 29.915 28.509
+Tuner 56.572 27.983
+Tuner 85.533 28.501
+Tuner 30.601 28.257
+Tuner 89.591 28.488
+Tuner converged in generation 63
+Tuner 50.979 28.78
+Tuner 28.076 28.342
+Tuner 43.0 28.639
+Tuner 30.788 28.17
+Tuner 29.501 28.472
+Tuner 31.371 28.168
+Tuner 28.124 28.285
+Tuner 33.327 28.111
+Tuner 31.015 28.334
+Tuner 55.909 28.461
+Tuner 32.281 28.346
+Tuner 28.124 28.249
+Tuner 45.826 28.278
+Tuner 28.124 28.369
+Tuner 89.591 28.156
+Tuner 28.178 28.496
+Tuner 28.124 28.385
+Tuner 30.601 28.324
+Tuner converged in generation 78
+Tuner 37.88 28.429
+Tuner 28.178 28.46
+Tuner converged in generation 77
+Tuner 29.501 28.336
+Tuner converged in generation 94
+Tuner 37.179 28.952
+Tuner 28.145 28.487
+Tuner 28.076 28.396
+Tuner 39.579 28.511
+Tuner 28.076 28.471
+Tuner converged in generation 82
+Tuner 28.076 28.074
+Tuner 31.763 28.582
+Tuner 30.075 28.292
+Tuner converged in generation 82
+Tuner 28.178 28.553
+Tuner converged in generation 98
+Tuner 66.183 28.949
+Tuner 38.949 28.355
+Tuner 28.145 28.218
+Tuner 35.973 28.348
+Tuner converged in generation 64
+Tuner 45.826 28.617
+Tuner 40.394 28.464
+Tuner 28.145 28.332
+Tuner 66.183 28.948
+Tuner 28.124 28.28
+Tuner 28.178 28.396
+Tuner 28.076 27.925
+Tuner 31.446 28.304
+Tuner converged in generation 97
+Tuner 28.145 28.254
+Tuner 28.124 28.189
+Tuner 40.394 28.589
+Tuner converged in generation 88
+Tuner 32.04 28.469
+Tuner converged in generation 80
+Tuner 66.183 28.949
+Tuner converged in generation 96
+Tuner 29.792 28.949
+GA 20 27.925 7
+Terminating at
+	20 generations
+	2318700 evaluations
+	1488.38 seconds
+KFold Run: 9
+Training
+	MSE: 27.925
+	Rsquared: 0.689
+Testing
+	MSE: 12.34
+	Rsquared: 0.346
+
+KFold Result
+Testing
+	MSE: 37.79101314569313 45.32917621856286
+Training
+	MSE: 20.344541436983835 4.105440916314882
