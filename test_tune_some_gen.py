@@ -17,19 +17,19 @@ random.seed(42)
 settings = [
     # Thieu
     # Run every 5 generations (gen starts with 0, so gen 4 is actually the 5th generation)
-    (False, range(4, 100, 5), "tune_5_gen"),
+    (False, range(4, 100, 5), "tune_5_gen_max_gen_100"),
 
     # Kasper
     # Run every 5 generations with ls
-    (True, range(4, 100, 5), "tune_5_gen_ls"),
+    (True, range(4, 100, 5), "tune_5_gen_ls_max_gen_100"),
 
     # Timo
     # Run every 20 generations
-    (False, range(19, 100, 20), "tune_20_gen"),
+    (False, range(19, 100, 20), "tune_20_gen_max_gen_100"),
 
     # Sven
     # Run every 20 generations with ls
-    (False, range(19, 100, 20), "tune_20_gen_ls")
+    (False, range(19, 100, 20), "tune_20_gen_ls_max_gen_100")
 ]
 
 
@@ -49,7 +49,7 @@ def run_in_gen(ls, run_gen):
         tuner=tuner,
         functions=functions,
         pop_size=100,
-        max_generations=20
+        max_generations=100
     )
 
     CrossValidation(sgp, terminals).validate()
