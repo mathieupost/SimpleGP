@@ -32,6 +32,7 @@ plt.xlabel("Generation")
 plt.ylabel("Best Training MSE")
 plt.xticks(x)
 plt.title("Weight Tuning: best fitness per generation")
+plt.yscale("log")
 
 color = 0
 for w in data.keys():
