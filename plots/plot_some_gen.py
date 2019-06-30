@@ -111,7 +111,6 @@ def plot_before(keys, tune_gens, name):
     plt.title("Tune after x generations: average fitness before")
     plt.yscale("log")
 
-
     palette = plt.get_cmap('tab10')
 
     color = 0
