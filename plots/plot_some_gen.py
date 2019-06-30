@@ -20,6 +20,8 @@ logs = [
     ("../log/log_tune_5_gen_ls_max_gen_100.txt", "5 gen - LS"),
     ("../log/log_tune_20_gen_max_gen_100.txt", "20 gen"),
     ("../log/log_tune_20_gen_ls_max_gen_100.txt", "20 gen - LS"),
+    # ("../log/log_tune_20_gen_ls_max_gen_100.txt", "20 gen - LS - Lamarckian"),
+    # ("../log/log_tune_20_gen_ls_max_gen_100_baldwin.txt", "20 gen - LS - Baldwin"),
 ]
 
 data = extract_all_data(logs, runs=runs, gens=gens, pop_size=pop_size)
@@ -46,6 +48,7 @@ for w in data.keys():
 
 plt.legend()
 plt.savefig("../images/tune_gen_fitness")
+# plt.savefig("../images/tune_gen_fitness_baldwin")
 plt.show()
 
 # %%
@@ -71,6 +74,7 @@ for w in data.keys():
 
 plt.legend()
 plt.savefig("../images/tune_gen_size")
+# plt.savefig("../images/tune_gen_size_baldwin")
 plt.show()
 
 # %%
@@ -126,7 +130,7 @@ def plot_before(keys, tune_gens, name):
         plt.fill_between(x, y_before + std_before, y_before - std_before, color=palette(color), alpha=0.1)
 
         # Increment due to 0-index
-        plt.xticks(x, list(map(lambda x: x+1, gens)))
+        plt.xticks(x, list(map(lambda x: x + 1, gens)))
 
         color += 1
 
@@ -164,7 +168,7 @@ def plot_after(keys, tune_gens, name):
         plt.fill_between(x, y_after + std_after, y_after - std_after, color=palette(color), alpha=0.1)
 
         # Increment due to 0-index
-        plt.xticks(x, list(map(lambda x: x+1, gens)))
+        plt.xticks(x, list(map(lambda x: x + 1, gens)))
 
         color += 1
 

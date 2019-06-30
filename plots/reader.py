@@ -20,6 +20,8 @@ def extract_value_per_run(log_name):
 
 # Read all information from a log
 def extract_all_per_gen(fname, runs=10, gens=100, pop_size=100):
+    if "baldwin" in fname:
+        pop_size *= 2
     fitness = np.zeros((runs, gens))
     tree_size = np.zeros((runs, gens))
     before_fitness = np.zeros((runs, gens, pop_size))
