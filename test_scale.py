@@ -44,7 +44,7 @@ def run_with_settings(ls, tuner):
     terminals = [EphemeralRandomConstantNode()]  # use one ephemeral random constant node
 
     # Run GP
-    sgp = SimpleGP(linear_scale=ls, tuner=tuner, functions=functions, pop_size=500, max_generations=100)
+    sgp = SimpleGP(linear_scale=ls, tuner=tuner, functions=functions, pop_size=100, max_generations=100)
 
     CrossValidation(sgp, terminals).validate()
 
@@ -52,6 +52,6 @@ def run_with_settings(ls, tuner):
 if __name__ == '__main__':
     for setting in tqdm(settings, desc="Test Linear Scaling"):
         ls, tuner, name = setting
-        with open(f"log/log_scale_{name}.txt", 'w+') as logfile:
+        with open(f"log/log_scale_{name}_100.txt", 'w+') as logfile:
             mc = MultiLogger([sys.stdout, logfile])
             mc.capture(run_with_settings, ls, tuner)

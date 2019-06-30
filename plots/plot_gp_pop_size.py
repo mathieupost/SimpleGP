@@ -4,25 +4,11 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
+from reader import extract_value_per_run
+
 # Set theme
 matplotlib.style.use('seaborn-darkgrid')
 matplotlib.rcParams['font.family'] = "serif"
-
-def extract_mean_std(rest):
-    split = rest.split(' ')
-    return round(float(split[1]), 2), round(float(split[2]), 2)
-
-
-def extract_value_per_run(size):
-    with  open(f"../log/log_pop_size_{size}.txt", "r") as file_handle:
-        line_list = file_handle.readlines()
-
-    results = line_list[-4]
-    mean_train, std_train = extract_mean_std(results[1])
-    mean_test, std_test = extract_mean_std(results[3])
-
-    return mean_train, std_train / 9, mean_test, std_test
-
 
 sizes = [10, 100, 500, 1000, 2000]
 
@@ -35,7 +21,7 @@ z = [0] * len(sizes)
 z_lower = [0] * len(sizes)
 
 for idx, size in enumerate(sizes):
-    mean_train, std_train, mean_test, std_test = extract_value_per_run(size)
+    mean_train, std_train, mean_test, std_test = extract_value_per_run(f"../log/log_pop_size_{size}.txt")
     y_upper[idx] = mean_train + std_train
     y[idx] = mean_train
     y_lower[idx] = mean_train - std_train
@@ -58,5 +44,6 @@ plt.xlabel('Population size')
 plt.ylabel('MSE')
 
 plt.title("Simple GP: MSE vs. population size")
+plt.legend()
 plt.savefig("../images/plot_gp_pop_size.png")
 plt.show()
