@@ -30,6 +30,7 @@ plt.xlabel("Generation")
 plt.ylabel("Best Training MSE")
 # plt.xticks(x)
 plt.title("Linear scaling: best fitness per generation")
+plt.yscale("log")
 
 color = 0
 for w in data.keys():
@@ -66,7 +67,7 @@ for w in data.keys():
     color += 1
 
 plt.legend()
-plt.savefig("../images/linear_scaling__size")
+plt.savefig("../images/linear_scaling_size")
 plt.show()
 
 
