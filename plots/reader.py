@@ -59,10 +59,10 @@ def extract_all_per_gen(fname, runs=10, gens=100, pop_size=100):
             tuner += 1
 
     # Average the tuner logs per gen
-    before_fitness[before_fitness == 0] = np.nan
-    # after_fitness[after_fitness == 0] = np.nan
-    before_fitness = np.nanmean(before_fitness, axis=2)
-    after_fitness = np.nanmean(after_fitness, axis=2)
+    # before_fitness[before_fitness == 0] = np.nan
+    # # after_fitness[after_fitness == 0] = np.nan
+    before_fitness = np.mean(before_fitness, axis=2)
+    after_fitness = np.mean(after_fitness, axis=2)
 
     return fitness, tree_size, before_fitness, after_fitness
 
