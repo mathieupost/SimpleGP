@@ -13,13 +13,13 @@ matplotlib.rcParams['font.family'] = "serif"
 runs = 10
 gens = 100
 pop_size = 100
-weights = [
+logs = [
     ("../log/log_scale_normal.txt", "Normal"),
     ("../log/log_scale_normal_ls.txt", "LS"),
 ]
 
-data = extract_all_data(weights, runs=runs, gens=gens, pop_size=pop_size)
-x = np.arange(1, 101, 1)
+data = extract_all_data(logs, runs=runs, gens=gens, pop_size=pop_size)
+x = np.arange(1, gens + 1, 1)
 
 #%%
 # Plot best fitness per generation
