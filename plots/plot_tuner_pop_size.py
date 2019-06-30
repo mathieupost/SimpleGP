@@ -57,7 +57,7 @@ def extract_numbers(size):
 
 
 data = {}
-sizes = [10, 20, 50, 100]
+sizes = [50, 100, 500]
 # sizes = [50, 100]
 
 for size in sizes:
@@ -92,7 +92,10 @@ plt.ylabel("MSE")
 plt.title("Tuner: MSE vs population size")
 plt.legend()
 
-plt.savefig("../images/tuner_pop_size_mse")
+print(ys_mse)
+print(ys_evals)
+
+plt.savefig("../images/tuner_pop_size_mse_50_100_500")
 plt.show()
 
 plt.figure()
@@ -103,5 +106,5 @@ plt.ylabel("Evaluations")
 plt.title("Tuner: evaluations vs population size")
 plt.legend()
 
-plt.savefig("../images/tuner_pop_size_evals")
+plt.savefig("../images/tuner_pop_size_evals_50_100_500")
 plt.show()
