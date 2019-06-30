@@ -181,7 +181,7 @@ def bar_evaluations():
     palette = plt.get_cmap('tab10')
     plt.figure()
     plt.xlabel("Settings")
-    plt.ylabel("Evaluations (x1000)")
+    plt.ylabel("Evaluations")
     plt.yscale("log")
     plt.title("Tune after x generations: Evaluations")
     labels = []
@@ -192,9 +192,14 @@ def bar_evaluations():
         labels.append(label)
         evals = extract_evaluation(file)
         m_eval, std_eval = avg_over_runs(evals)
-        means.append(m_eval / 1000)
-        stds.append(std_eval / 1000)
-    plt.bar(labels, means, yerr=stds, capsize=10, bottom=10, color=[palette(i) for i in range(6)], alpha=0.7)
+        means.append(m_eval)
+        stds.append(std_eval)
+    bars = plt.bar(labels, means, yerr=stds, capsize=10, bottom=10 ** 4, color=[palette(i) for i in range(6)],
+                   alpha=0.7)
+    for rect in bars:
+        height = rect.get_height()
+        plt.text(rect.get_x() + rect.get_width() / 2.0, (height + 10**4) * 0.65, f'{int(height):,}', ha='center', va='center', color='white', weight='bold', fontsize=8)
+
     plt.savefig("../images/tune_evaluations")
     plt.show()
 
