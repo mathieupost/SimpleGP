@@ -15,10 +15,9 @@ gens = 20
 pop_size = 100
 weights = [
     ("../log/log_weight_0_1.txt", "[0,1]"),
+    ("../log/log_weight_-1_1.txt", "[-1,1]"),
     ("../log/log_weight_0_5.txt", "[0,5]"),
     ("../log/log_weight_-5_5.txt", "[-5,5]"),
-    # TODO: add the log below when finished
-    # ("../log/log_weights_-1_1", "[-1,1]")
 ]
 
 data = extract_all_data(weights, runs=runs, gens=gens, pop_size=pop_size)
@@ -75,43 +74,54 @@ plt.show()
 
 # %%
 
-palette = plt.get_cmap('tab20')
+palette = plt.get_cmap('tab10')
 
-# Plot the average improvement with weight tuning
+# Plot the average fitness before weight tuning
 plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Training MSE")
 plt.xticks(x)
-plt.title("Weight Tuning: ")
+plt.title("Weight Tuning: average fitness before")
+plt.yscale("log")
 
-plt.ylim([0, 1500])
 color = 0
 
-# If the plots are combined, you wont see the difference for the smaller one
-
-# select = list(data.keys())[1]
-# for w in [select]:
 for w in data.keys():
-    _, _, before, after = data[w]
+    _, _, before, _ = data[w]
 
     m_before, std_before = avg_over_runs(before)
-    m_after, std_after = avg_over_runs(after)
-
     plt.plot(x, m_before, color=palette(color), label=f"Before -{w}")
-    # plt.fill_between(x, m_before + std_before, m_before - std_before, color=palette(color), alpha=0.1)
+    plt.fill_between(x, m_before + std_before, m_before - std_before, color=palette(color), alpha=0.1)
 
-    plt.plot(x, m_after, color=palette(color + 1), label=f"After -{w}")
-    plt.fill_between(x, m_after + std_after, m_after - std_after, color=palette(color + 1), alpha=0.1)
-
-    # # TODO: this plot looks strange, it has a extreme outlier
-    # delta = before - after
-    # m_delta, std_delta = avg_over_runs(delta)
-    #
-    # plt.plot(x, m_delta, color=palette(color), label=w)
-    # plt.fill_between(x, m_delta + std_delta, m_delta - std_delta, color=palette(color), alpha=0.1)
-
-    color += 2
+    color += 1
 
 plt.legend()
-plt.savefig("../images/weight_test_delta")
+plt.savefig("../images/weight_test_before")
+plt.show()
+
+# %%
+
+palette = plt.get_cmap('tab10')
+
+# Plot the average fitness after weight tuning
+plt.figure()
+plt.xlabel("Generation")
+plt.ylabel("Training MSE")
+plt.xticks(x)
+plt.title("Weight Tuning: average fitness after")
+plt.yscale("log")
+
+color = 0
+
+for w in data.keys():
+    _, _, _, after = data[w]
+    m_after, std_after = avg_over_runs(after)
+
+    plt.plot(x, m_after, color=palette(color), label=f"After -{w}")
+    plt.fill_between(x, m_after + std_after, m_after - std_after, color=palette(color), alpha=0.1)
+
+    color += 1
+
+plt.legend()
+plt.savefig("../images/weight_test_after")
 plt.show()
