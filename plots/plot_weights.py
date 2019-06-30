@@ -90,7 +90,7 @@ for w in data.keys():
     _, _, before, _ = data[w]
 
     m_before, std_before = avg_over_runs(before)
-    plt.plot(x, m_before, color=palette(color), label=f"Before -{w}")
+    plt.plot(x, m_before, color=palette(color), label=w)
     plt.fill_between(x, m_before + std_before, m_before - std_before, color=palette(color), alpha=0.1)
 
     color += 1
@@ -117,7 +117,7 @@ for w in data.keys():
     _, _, _, after = data[w]
     m_after, std_after = avg_over_runs(after)
 
-    plt.plot(x, m_after, color=palette(color), label=f"After -{w}")
+    plt.plot(x, m_after, color=palette(color), label=w)
     plt.fill_between(x, m_after + std_after, m_after - std_after, color=palette(color), alpha=0.1)
 
     color += 1

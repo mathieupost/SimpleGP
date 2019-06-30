@@ -44,10 +44,13 @@ def extract_all_per_gen(fname, runs=10, gens=100, pop_size=100):
             tuner = 0
 
             split = line.split(" ")
-            gen = int(split[1]) - 1
 
             fitness[run, gen] = split[2]
             tree_size[run, gen] = split[3]
+
+            gen += 1
+            if gen == gens:
+                gen = 0
 
         # Parse tuner logs
         if "Tuner" in line and "Tuner converged" not in line:
