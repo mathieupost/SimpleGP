@@ -54,7 +54,7 @@ palette = plt.get_cmap('tab10')
 plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Tree size")
-plt.title("Tune after x generations: average size of the trees per generation")
+plt.title("Tune after x generations: tree size of elite per generation")
 
 color = 0
 
@@ -108,7 +108,7 @@ def plot_before(keys, tune_gens, name):
     plt.figure()
     plt.xlabel("Generation")
     plt.ylabel("Training MSE")
-    plt.title("Tune after x generations: average fitness before")
+    plt.title("Tune after x generations: MSE of the population before tuning")
     plt.yscale("log")
 
     palette = plt.get_cmap('tab10')
@@ -146,7 +146,7 @@ def plot_after(keys, tune_gens, name):
     plt.figure()
     plt.xlabel("Generation")
     plt.ylabel("Training MSE")
-    plt.title("Tune after x generations: average fitness after")
+    plt.title("Tune after x generations: MSE of the population after tuning")
 
     palette = plt.get_cmap('tab10')
 

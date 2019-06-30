@@ -56,7 +56,7 @@ plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Tree size")
 plt.xticks(x)
-plt.title("Weight Tuning: average size of the trees per generation")
+plt.title("Weight Tuning: tree size of the elite per generation")
 
 color = 0
 
@@ -82,7 +82,7 @@ plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Training MSE")
 plt.xticks(x)
-plt.title("Weight Tuning: average fitness before")
+plt.title("Weight Tuning: MSE of the population before tuning")
 plt.yscale("log")
 
 color = 0
@@ -109,7 +109,7 @@ plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Training MSE")
 plt.xticks(x)
-plt.title("Weight Tuning: average fitness after")
+plt.title("Weight Tuning: MSE of the population after tuning")
 plt.yscale("log")
 
 color = 0

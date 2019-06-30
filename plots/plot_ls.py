@@ -53,7 +53,7 @@ palette = plt.get_cmap('tab10')
 plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Tree size")
-plt.title("Linear scaling: average size of the trees per generation")
+plt.title("Linear scaling: tree size of the elite per generation")
 
 color = 0
 
