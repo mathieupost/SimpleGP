@@ -31,7 +31,7 @@ plt.figure()
 plt.xlabel("Generation")
 plt.ylabel("Best Training MSE")
 plt.title("Tune after x generations: best fitness per generation")
-plt.yscale("log")
+# plt.yscale("log")
 
 color = 0
 for w in data.keys():
