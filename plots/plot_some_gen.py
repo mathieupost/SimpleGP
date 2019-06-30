@@ -2,12 +2,13 @@
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
-from reader import extract_all_data, avg_over_runs, extract_evaluation
+from reader import extract_all_data, avg_over_runs, extract_evaluation, extract_value_per_run
 
 # Set theme
 matplotlib.style.use('seaborn-darkgrid')
 matplotlib.rcParams['font.family'] = "serif"
 
+# %%
 # Global settings of the experiments
 runs = 10
 gens = 100
@@ -217,3 +218,45 @@ def human_format(num):
 
 
 bar_evaluations()
+
+
+# %%
+def bar_mse():
+    palette = plt.get_cmap('tab10')
+    fig, ax = plt.subplots()
+    ax.set_xlabel("Settings")
+    ax.set_ylabel("MSE")
+    ax.set_title("Tune after x generations: MSE")
+    labels = []
+    means_train = []
+    stds_train = []
+    means_test = []
+    stds_test = []
+    for l in logs:
+        file, label = l
+        labels.append(label)
+        mean_train, std_train, mean_test, std_test = extract_value_per_run(file)
+        means_train.append(mean_train)
+        stds_train.append(std_train)
+        means_test.append(mean_test)
+        stds_test.append(std_test)
+
+    width = 0.35
+    x = np.array(range(len(labels)))
+    train_bars = ax.bar(x - width / 2, means_train, width, yerr=stds_train, capsize=10,
+                        color=[palette(i) for i in range(6)], alpha=0.4)
+    test_bars = ax.bar(x + width / 2, means_test, width, yerr=stds_test, capsize=10,
+                       color=[palette(i) for i in range(6)],
+                       alpha=0.7)
+
+    for label, rect in zip(["train"] * len(x) + ["test"] * len(x), train_bars + test_bars):
+        plt.text(rect.get_x() + rect.get_width() / 2.0, 2, label, ha='center',
+                 va='bottom', color='white', weight='bold', rotation=90)
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels)
+    fig.savefig("../images/tune_mse")
+    fig.show()
+
+
+bar_mse()
