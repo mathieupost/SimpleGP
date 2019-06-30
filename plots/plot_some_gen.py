@@ -124,7 +124,8 @@ def plot_before(keys, tune_gens, name):
         plt.plot(x, y_before, color=palette(color), label=f"{k}")
         plt.fill_between(x, y_before + std_before, y_before - std_before, color=palette(color), alpha=0.1)
 
-        plt.xticks(x, gens)
+        # Increment due to 0-index
+        plt.xticks(x, list(map(lambda x: x+1, gens)))
 
         color += 1
 
@@ -161,7 +162,8 @@ def plot_after(keys, tune_gens, name):
         plt.plot(x, y_after, color=palette(color), label=f"{k}")
         plt.fill_between(x, y_after + std_after, y_after - std_after, color=palette(color), alpha=0.1)
 
-        plt.xticks(x, gens)
+        # Increment due to 0-index
+        plt.xticks(x, list(map(lambda x: x+1, gens)))
 
         color += 1
 
