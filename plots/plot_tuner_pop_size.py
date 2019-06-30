@@ -7,8 +7,8 @@ runs = 10
 pop_size = 100
 
 
-def extract_numbers(size):
-    with open(f"../log/log_tuner_pop_size_{size}.txt", "r") as file_handle:
+def extract_numbers(file_name):
+    with open(file_name, "r") as file_handle:
         line_list = file_handle.readlines()
 
     mse = np.zeros((runs, pop_size))
@@ -62,8 +62,9 @@ sizes = [10, 20, 50, 100, 500]
 # sizes = [50, 100]
 
 for size in sizes:
-    files.append((f"../log/log_tuner_pop_size_{size}.txt", f"tuner_pop_{size}"))
-    data[size] = extract_numbers(size)
+    file_name = f"../log/log_tuner_pop_size_{size}.txt"
+    files.append((file_name, f"tuner_pop_{size}"))
+    data[size] = extract_numbers(file_name)
 
 # %%
 

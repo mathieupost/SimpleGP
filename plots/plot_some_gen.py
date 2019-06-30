@@ -2,8 +2,7 @@
 import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
-
-from reader import extract_all_data, avg_over_runs
+from reader import extract_all_data, avg_over_runs, extract_evaluation
 
 # Set theme
 matplotlib.style.use('seaborn-darkgrid')
@@ -175,3 +174,29 @@ def plot_after(keys, tune_gens, name):
 ## Seperate plots of 20 gens and 5 gens
 plot_after(['5 gen', '5 gen - LS'], list([x_gens5, x_gens5]), "tune_5_gen_after")
 plot_after(['20 gen', '20 gen - LS'], list([x_gens20, x_gens20]), "tune_20_gen_after")
+
+
+# %%
+def bar_evaluations():
+    palette = plt.get_cmap('tab10')
+    plt.figure()
+    plt.xlabel("Settings")
+    plt.ylabel("Evaluations (x1000)")
+    plt.yscale("log")
+    plt.title("Tune after x generations: Evaluations")
+    labels = []
+    means = []
+    stds = []
+    for l in logs:
+        file, label = l
+        labels.append(label)
+        evals = extract_evaluation(file)
+        m_eval, std_eval = avg_over_runs(evals)
+        means.append(m_eval / 1000)
+        stds.append(std_eval / 1000)
+    plt.bar(labels, means, yerr=stds, capsize=10, bottom=10, color=[palette(i) for i in range(6)], alpha=0.7)
+    plt.savefig("../images/tune_evaluations")
+    plt.show()
+
+
+bar_evaluations()

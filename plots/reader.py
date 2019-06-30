@@ -80,5 +80,25 @@ def extract_all_data(fnames, **kwargs):
     return data
 
 
+def extract_evaluation(file_name, runs=10):
+    with open(file_name, "r") as file_handle:
+        line_list = file_handle.readlines()
+
+    evaluations = np.zeros(runs)
+
+    for line in line_list:
+        line = line.rstrip("\n")
+
+        # Parse the cross validation number
+        if "Run" in line:
+            run = int(line[-1])
+
+        if "evaluations" in line:
+            split = line.split(' ')
+            evaluations[run] = split[0]
+
+    return evaluations
+
+
 def avg_over_runs(run_data):
     return np.mean(run_data, axis=0), np.std(run_data, axis=0)
