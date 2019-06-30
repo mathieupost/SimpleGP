@@ -198,10 +198,20 @@ def bar_evaluations():
                    alpha=0.7)
     for rect in bars:
         height = rect.get_height()
-        plt.text(rect.get_x() + rect.get_width() / 2.0, (height + 10**4) * 0.65, f'{int(height):,}', ha='center', va='center', color='white', weight='bold', fontsize=8)
+        plt.text(rect.get_x() + rect.get_width() / 2.0, (height + 10 ** 4) * 0.65, human_format(height), ha='center',
+                 va='center', color='white', weight='bold')
 
     plt.savefig("../images/tune_evaluations")
     plt.show()
+
+
+def human_format(num):
+    num = float('{:.3g}'.format(num))
+    magnitude = 0
+    while abs(num) >= 1000:
+        magnitude += 1
+        num /= 1000.0
+    return '{}{}'.format('{:f}'.format(num).rstrip('0').rstrip('.'), ['', 'K', 'M', 'B', 'T'][magnitude])
 
 
 bar_evaluations()
