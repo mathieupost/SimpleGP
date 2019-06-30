@@ -14,6 +14,8 @@ runs = 10
 gens = 100
 pop_size = 100
 logs = [
+    ("../log/log_scale_normal_100.txt", "Normal"),
+    ("../log/log_scale_normal_ls_100.txt", "LS"),
     ("../log/log_tune_5_gen_max_gen_100.txt", "5 gen"),
     ("../log/log_tune_5_gen_ls_max_gen_100.txt", "5 gen - LS"),
     ("../log/log_tune_20_gen_max_gen_100.txt", "20 gen"),
